@@ -1,4 +1,8 @@
-## Contact
+## About me
+
+I'm currently an Associate Professor at the [Department of Computer Science and Engineering](https://fenix.tecnico.ulisboa.pt/departamentos/dei) of [Instituto Superior Técnico](https://tecnico.ulisboa.pt), and a Senior Researcher at [INESC-ID](http://www.inesc-id.pt), working with the [Group on Artificial Intelligence for People and Society](http://gaips.inesc-id.pt).
+
+### Contact
 
 Instituto Superior Técnico  
 TagusPark, Edifício IST  
@@ -9,11 +13,8 @@ Portugal
 Phone: +351 210 407 002  
 Fax: +351 214 233 290
 
-fmelo (at) inesc-id (dot) pt
+[fmelo (at) inesc-id (dot) pt](mailto:fmelo@inesc-id.pt)
 
-### About me
-
-I'm currently an Associate Professor at the [Department of Computer Science and Engineering](https://fenix.tecnico.ulisboa.pt/departamentos/dei) of [Instituto Superior Técnico](https://tecnico.ulisboa.pt), and a Senior Researcher at [INESC-ID](http://www.inesc-id.pt), working with the [Group on Artificial Intelligence for People and Society](http://gaips.inesc-id.pt).
 
 ## Research
 
