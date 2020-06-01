@@ -1,4 +1,8 @@
 theme: jekyll-theme-minimal
+
+# Site settings
+
 title: Francisco S. Melo
-description: Senior Researcher at INESC-ID
-             Associate Professor at IST
+description:
+  Senior Researcher at INESC-ID
+  Associate Professor at IST
