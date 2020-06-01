@@ -13,7 +13,7 @@ My main research interests are in _machine learning_ and _decision-theoretic pla
 
 ### Publications
 
-<script src="https://bibbase.org/show?bib=https://bibbase.github.io/pubs.bib&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https://facsmelo.github.io/fmelo.bib&jsonp=1"></script>
 
 ```markdown
 Syntax highlighted code block
