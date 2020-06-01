@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to my personal homepage
 
-You can use the [editor on GitHub](https://github.com/facsmelo/facsmelo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm currently an Associate Professor at the [Department of Computer Science and Engineering](https://fenix.tecnico.ulisboa.pt/departamentos/dei) of [Instituto Superior Técnico](https://tecnico.ulisboa.pt), and a Senior Researcher at [INESC-ID](http://www.inesc-id.pt), working with the [Group on Artificial Intelligence for People and Society](http://gaips.inesc-id.pt).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My main research interests are in _machine learning_ and _decision-theoretic planning_, and in the exploration of models and algorithms from these fields of AI that may enable the development of intelligent autonomous agents capable of interacting with other agents (human or artificial) in complex, possibly unknown environments. My research thus lies at the intersection of different sub-fields within artificial intelligence, such as decision-theoretic planning (and its applications to human-robot interaction and collaborative multi-agent scenarios), general reinforcement learning, active learning, and interactive machine learning.
+
+### Research Interests:
+
+* Reinforcement learning
+* Machine learning for robotics
+* Planning under uncertainty
+* Artificial intelligence
 
 ### Markdown
 
