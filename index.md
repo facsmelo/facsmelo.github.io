@@ -29,7 +29,7 @@ My main research interests are in _machine learning_ and _decision-theoretic pla
 * Robotic applications of ML
 * Decision-theoretic planning (single and multiagent)
 
-### [Publications](./publications.html).
+### [Publications](./publications.html)
 
 ### Research Projects
 
@@ -42,28 +42,23 @@ My main research interests are in _machine learning_ and _decision-theoretic pla
 * CMU-PT Project MAIS+S
 * EU FP7 Project LIREC
 
+
 ## Teaching
 
 ### Courses
 
 * **Planning, Learning and Intelligent Decision Making**  
   MSc in Information Systems and Computer Engineering (Fall 2018, Fall 2019)
-
 * **Reinforcement Learning**  
 PhD Program in Information Systems and Computer Engineering (Fall 2018, Fall 2019)
-
 * **Learning and Intelligent Decision Making**  
 MSc in Information Systems and Computer Engineering (Spring 2016, Spring 2017, Spring 2018)
-
 * **Advanced Topics in Artificial Intelligence**  
 PhD Program in Information Systems and Computer Engineering (Spring 2014, Spring 2015, Spring 2016, Spring 2017, Fall 2017)
-
 * **Introduction to Programming**  
 MSc in Information and Enterprise Systems (Fall 2013, Fall 2014)
-
 * **Decision Support Systems**  
 MSc in Information Systems and Computer Engineering (Fall 2011, Spring 2013)
-
 * **Foundations of Programming**  
 BSc in Information Systems and Computer Engineering
 (Fall 2010, Spring 2011, Spring 2012, Fall 2012, Spring 2013, Fall 2013, Spring 2014, Fall 2014)
@@ -72,40 +67,31 @@ BSc in Information Systems and Computer Engineering
 
 ### Current PhD students:
 
-#### Rui Silva
+* **Rui Silva**  
 Dual PhD CMU-IST Program in Computer Science and Engineering (co-advised with Manuela Veloso)
-
-#### Kim Baraka
+* **Kim Baraka**  
 Dual PhD CMU-IST Program in Electrical Engineering and Robotics (co-advised with Manuela Veloso)
-
-#### Filipa Correia
+* **Filipa Correia**  
 IST PhD in Information Systems and Computer Engineering (co-advised with Ana Paiva)
-
-#### Carla Guera
+* **Carla Guera**  
 IST PhD in Information Systems and Computer Engineering (co-advised with Manuel Lopes) 
-
-#### Ali Kordia
+* **Ali Kordia**  
 IST PhD in Information Systems and Computer Engineering
-
-#### Miguel Faria
+* **Miguel Faria**  
 IST PhD in Information Systems and Computer Engineering
-
-#### Miguel Vasco
+* **Miguel Vasco**  
 IST PhD in Information Systems and Computer Engineering (co-advised with Ana Paiva)
-
-#### Ramona Merhej
+* **Ramona Merhej**  
 IST PhD in Information Systems and Computer Engineering (co-advised with Francisco C. Santos)
-
-#### Silvia Tulli
+* **Silvia Tulli**  
 IST PhD in Information Systems and Computer Engineering (co-advised with Ana Paiva)
-
-#### João Ribeiro
+* **João Ribeiro**  
 IST PhD in Information Systems and Computer Engineering (co-advised with Alberto Sardinha)
-
-#### Guilherme Varela
+* **Guilherme Varela**  
 IST PhD in Information Systems and Computer Engineering (co-advised with Alberto Sardinha)
 
 ### Current MSc students:
+
 * **João Esteves**, MSc in Information Systems and Computer Engineering (co-advised with Alberto Sardinha)
 * **Pedro M. Santos**, MSc in Information Systems and Computer Engineering (co-advised with Alberto Sardinha)
 * **Pedro P. Santos**, MSc in Information Systems and Computer Engineering (co-advised with Alberto Sardinha)
@@ -116,18 +102,20 @@ IST PhD in Information Systems and Computer Engineering (co-advised with Alberto
 
 ### Past post-doctoral collaborators:
 
-* **Pedro Sequeira**, Post-doctoral Fellow at INESC-ID, 2014-2016 (now at xxx)
-* **Stefan Witwicki**, Post-doctoral Fellow at INESC-ID, 2011-2013 (now at xxx)
+* **Pedro Sequeira**, 2014-2016  
+(currently at SRI International) 
+* **Stefan Witwicki**, 2011-2013  
+(currently at Nissan Research)
 
 ### Past PhD students:
 
-#### Hang Yin
-Dual IST-EPFL PhD Program in Computer Science and Engineering, 2018 (co-advised with Ana Paiva and Aude Billard)
-Currently at xxx
+* **Hang Yin**  
+Dual IST-EPFL PhD Program in Computer Science and Engineering, 2018  
+(co-advised with Ana Paiva and Aude Billard, currently at KTH)
 
-#### Pedro Sequeira
-PhD in Information Systems and Computer Engineering, 2013 (co-advised with Ana Paiva)
-Currently at xxx
+* **Pedro Sequeira**
+PhD in Information Systems and Computer Engineering, 2013  
+(co-advised with Ana Paiva, currently at SRI International)
 
 ### Past MSc students:
 
