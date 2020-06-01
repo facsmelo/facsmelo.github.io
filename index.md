@@ -11,9 +11,9 @@ My main research interests are in _machine learning_ and _decision-theoretic pla
 * Planning under uncertainty
 * Artificial intelligence
 
-### Markdown
+### Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<script src="https://bibbase.org/show?bib=https://facsmelo.github.io/fmelo.bib&jsonp=1"></script>
 
 ```markdown
 Syntax highlighted code block
