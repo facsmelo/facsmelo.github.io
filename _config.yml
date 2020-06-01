@@ -1,12 +1,4 @@
 theme: jekyll-theme-minimal
-
-# Site settings
-
-title: Francisco S. Melo
-email: fmelo@inesc-id.pt
-description:
-  Senior Researcher at INESC-ID  
-  Associate Professor at IST
-url: facsmelo.github.io
-twitter_username: facsmelo
-github_username: facsmelo
+title: Francisco S. Melo 
+description: Francisco S. Melo's personal webpage
+logo: images/fmelo-bw.jpg

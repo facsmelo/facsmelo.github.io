@@ -1,3 +1,10 @@
+---
+title: Francisco S. Melo
+description: 
+    Senior Researcher at INESC-ID
+    Associate Professor at IST
+--
+
 ## Welcome to my personal homepage
 
 I'm currently an Associate Professor at the [Department of Computer Science and Engineering](https://fenix.tecnico.ulisboa.pt/departamentos/dei) of [Instituto Superior Técnico](https://tecnico.ulisboa.pt), and a Senior Researcher at [INESC-ID](http://www.inesc-id.pt), working with the [Group on Artificial Intelligence for People and Society](http://gaips.inesc-id.pt).
