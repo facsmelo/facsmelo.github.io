@@ -1,12 +1,12 @@
 ## Contact
 
-Instituto Superior Técnico
-TagusPark, Edifício IST
-Av. Prof. Dr. Aníbal Cavaco Silva
-2744-016 Porto Salvo
+Instituto Superior Técnico  
+TagusPark, Edifício IST  
+Av. Prof. Dr. Aníbal Cavaco Silva  
+2744-016 Porto Salvo  
 Portugal
 
-Phone: +351 210 407 002
+Phone: +351 210 407 002  
 Fax: +351 214 233 290
 
 fmelo (at) inesc-id (dot) pt
@@ -46,25 +46,25 @@ My main research interests are in _machine learning_ and _decision-theoretic pla
 
 ### Courses
 
-#### Planning, Learning and Intelligent Decision Making
-MSc in Information Systems and Computer Engineering (Fall 2018, Fall 2019)
+* **Planning, Learning and Intelligent Decision Making**  
+  MSc in Information Systems and Computer Engineering (Fall 2018, Fall 2019)
 
-#### Reinforcement Learning
+* **Reinforcement Learning**  
 PhD Program in Information Systems and Computer Engineering (Fall 2018, Fall 2019)
 
-#### Learning and Intelligent Decision Making
+* **Learning and Intelligent Decision Making**  
 MSc in Information Systems and Computer Engineering (Spring 2016, Spring 2017, Spring 2018)
 
-#### Advanced Topics in Artificial Intelligence
+* **Advanced Topics in Artificial Intelligence**  
 PhD Program in Information Systems and Computer Engineering (Spring 2014, Spring 2015, Spring 2016, Spring 2017, Fall 2017)
 
-#### Introduction to Programming
+* **Introduction to Programming**  
 MSc in Information and Enterprise Systems (Fall 2013, Fall 2014)
 
-#### Decision Support Systems
+* **Decision Support Systems**  
 MSc in Information Systems and Computer Engineering (Fall 2011, Spring 2013)
 
-#### Foundations of Programming
+* **Foundations of Programming**  
 BSc in Information Systems and Computer Engineering
 (Fall 2010, Spring 2011, Spring 2012, Fall 2012, Spring 2013, Fall 2013, Spring 2014, Fall 2014)
 
