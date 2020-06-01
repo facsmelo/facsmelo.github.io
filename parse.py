@@ -88,9 +88,13 @@ class Publication:
             return False
 
         if self._fname != '':
-            self._info = self._info[:-1]
+            if self._info[-1] == '\n':
+                self._info = self._info[:-2]
+            else:
+                self._info = self._info[:-1]
+
             self._info += ',\n\t'
-            self._info += 'url_Paper = {' + self._fname + '}}'
+            self._info += 'url_Paper = {' + self._fname + '}}\n'
 
             self._consolidated = True
 
