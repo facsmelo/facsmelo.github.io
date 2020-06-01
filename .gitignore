@@ -1,0 +1,13 @@
+
+.DS_Store
+.idea/facsmelo.github.io.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+__pycache__/parse.cpython-37.pyc
+fmelo-nofiles.bib
+parse.py
+publications/no doi.txt
+parse.py
+*.py
