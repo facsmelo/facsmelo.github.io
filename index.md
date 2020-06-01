@@ -15,7 +15,6 @@ Fax: +351 214 233 290
 
 [fmelo (at) inesc-id (dot) pt](mailto:fmelo@inesc-id.pt)
 
-
 ## Research
 
 My main research interests are in _machine learning_ and _decision-theoretic planning_, and in the exploration of models and algorithms from these fields of AI that may enable the development of intelligent autonomous agents capable of interacting with other agents (human or artificial) in complex, possibly unknown environments. My research thus lies at the intersection of different sub-fields within artificial intelligence, such as decision-theoretic planning (and its applications to human-robot interaction and collaborative multi-agent scenarios), general reinforcement learning, active learning, and interactive machine learning.
