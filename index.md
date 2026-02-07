@@ -75,25 +75,18 @@ BSc in Information Systems and Computer Engineering
 
 * **Guilherme Varela**  
 PhD Program in Computer Science and Engineering (co-advised with Alberto Sardinha)
-
 * **Diogo Carvalho**  
 PhD Program in Computer Science and Engineering (co-advised with Pedro Santos)
-
 * **Pedro Pinto Santos**  
 PhD Program in Computer Science and Engineering (co-advised with Alberto Sardinha)
-
 * **Fábio Vital**  
 PhD Program in Computer Science and Engineering (co-advised with Alberto Sardinha)
-
 * **Jacopo Silvestrin**  
 PhD Program in Computer Science and Engineering (co-advised with Manuel Lopes)
-
 * **João Caldeira**  
 PhD Program in Computer Science and Engineering
-
 * **Ana Carrasco**  
 PhD Program in Computer Science and Engineering (co-advised with Filipa Correia and Alberto Sardinha)
-
 * **Bernardo Esteves**  
 PhD Program in Computer Science and Engineering (co-advised with Miguel Vasco)
 
@@ -106,7 +99,6 @@ MSc in Computer Science and Engineering (co-advised with João Caldeira)
 
 * **Pedro Sequeira**, 2014-2016  
 (currently at SRI International)
-
 * **Stefan Witwicki**, 2011-2013  
 (currently at Nissan Research)
 
@@ -122,19 +114,15 @@ PhD Program in Computer Science and Engineering, 2024
 
 * **Ali Kordia**  
 PhD Program in Computer Science and Engineering, 2023
-
 * **Miguel Faria**  
 PhD Program in Computer Science and Engineering, 2023
 (co-advised with Ana Paiva)
-
 * **Miguel Vasco**  
 PhD Program in Computer Science and Engineering, 2023
 (co-advised with Ana Paiva)
-
 * **Ramona Merhej**  
 PhD Program in Computer Science and Engineering, 2023 
 (co-advised with Francisco C. Santos)
-
 * **Silvia Tulli**  
 PhD Program in Computer Science and Engineering, 2023 
 (co-advised with Ana Paiva and Mohamed Chetouani)
@@ -146,7 +134,6 @@ PhD Program in Computer Science and Engineering, 2021
 * **Rui Silva**  
 Dual PhD CMU-IST Program in Computer Science and Engineering, 2020
 (co-advised with Manuela Veloso)
-
 * **Kim Baraka**  
 Dual PhD CMU-IST Program in Electrical Engineering and Robotics, 2020 
 (co-advised with Manuela Veloso)
