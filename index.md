@@ -31,7 +31,7 @@ My main research interests are in _machine learning_ and _decision-theoretic pla
 
 ### [Publications](./publications.html)
 
-### Research Projects
+### Current and Past Research Projects
 
 * RELEvaNT FCT Project
 * TAILOR H2020 Project
