@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Publications | Francisco S. Melo</title>
+    <link rel="stylesheet" href="./assets/css/style.css?v=">
+    <style>
+      .pub-filters { display: flex; gap: 12px; margin-bottom: 30px; flex-wrap: wrap; align-items: center; }
+      .pub-filters input, .pub-filters select { padding: 8px 12px; border: 1px solid #ddd; border-radius: 4px; font-size: 0.9em; font-family: inherit; }
+      .pub-filters input { flex-grow: 1; min-width: 200px; }
+      .pub-item { margin-bottom: 1.8rem; padding-bottom: 1.2rem; border-bottom: 1px dashed #eee; line-height: 1.6; }
+      .pub-title { font-weight: bold; color: #111; display: block; }
+      .pub-authors { font-size: 0.95em; color: #444; display: block; }
+      .pub-venue { font-size: 0.9em; color: #666; }
+      .pub-tag { font-size: 0.75em; background: #f1f1f1; color: #555; padding: 2px 6px; border-radius: 3px; text-transform: uppercase; margin-right: 8px; display: inline-block; }
+      .pub-links { margin-top: 6px; font-size: 0.85em; }
+      .pub-links a { margin-right: 15px; font-weight: bold; color: #007acc; text-decoration: none; }
+      #status-msg { font-style: italic; color: #666; background: #fafafa; padding: 15px; border: 1px dashed #ccc; border-radius: 4px; }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="./">Francisco S. Melo</a></h1>
+        <img src="./images/fmelo-bw.jpg" alt="Logo" />
+        <p>I'm an artificial intelligence researcher and educator working in problems of planning and learning under uncertainty.</p>
+      </header>
+      <section>
+        <h2>Publications</h2>
+        <div class="pub-filters">
+          <input type="text" id="pubSearch" placeholder="Search publications..." onkeyup="applyFilters()">
+          <select id="pubYearFilter" onchange="applyFilters()"><option value="all">All Years</option></select>
+          <select id="pubTypeFilter" onchange="applyFilters()">
+            <option value="all">All Types</option>
+            <option value="Journal">Journals</option>
+            <option value="Conference">Conferences</option>
+            <option value="Preprint">Preprints</option>
+          </select>
+        </div>
+        <div id="status-msg">Loading publications from DBLP...</div>
+        <div id="pub-list-container"></div>
+        <p><a href="./">back</a></p>
+      </section>
+      <footer><p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p></footer>
+    </div>
+
+    <script>
+      var dblpId = "86/839";
+      var publications = [];
+
+      // This function is called automatically when the DBLP data arrives
+      window.dblp_callback = function(data) {
+        var statusMsg = document.getElementById('status-msg');
+        if (!data || !data.result || !data.result.hits || !data.result.hits.hit) {
+            statusMsg.innerHTML = "Error loading publications. Please visit <a href='https://dblp.org/pid/" + dblpId + ".html'>my DBLP profile</a>.";
+            return;
+        }
+
+        var hits = data.result.hits.hit;
+        publications = hits.map(function(h) {
+          var i = h.info;
+          var auths = Array.isArray(i.authors.author) ? i.authors.author : [i.authors.author];
+          var authList = auths.map(function(a) {
+              var n = (typeof a === 'object' ? a.text : a).replace(/\s\d+$/, '');
+              return (n.indexOf("Melo") !== -1) ? "<strong>"+n+"</strong>" : n;
+          }).join(", ");
+          
+          return {
+            title: (typeof i.title === 'object' ? i.title.text : i.title).replace(/\.$/, ""),
+            authors: authList,
+            venue: i.venue || "Tech Report",
+            year: i.year,
+            type: i.type === "Journal Articles" ? "Journal" : (i.type === "Conference and Workshop Papers" ? "Conference" : "Preprint"),
+            url: i.ee, dblp: i.url
+          };
+        }).sort(function(a,b){ return b.year - a.year; });
+
+        statusMsg.style.display = "none";
+        
+        // Setup Year Filter
+        var yr = document.getElementById('pubYearFilter');
+        var years = [];
+        publications.forEach(function(p){ if(years.indexOf(p.year)===-1) years.push(p.year); });
+        years.sort().reverse().forEach(function(y){ var o=document.createElement("option"); o.value=y; o.text=y; yr.add(o); });
+        
+        render(publications);
+      };
+
+      function render(items) {
+        var html = "";
+        items.forEach(function(p) {
+          html += '<div class="pub-item"><span class="pub-title">' + p.title + '</span>' +
+                  '<span class="pub-authors">' + p.authors + '</span>' +
+                  '<span class="pub-venue"><span class="pub-tag">' + p.type + '</span>' + p.venue + ', ' + p.year + '</span>' +
+                  '<div class="pub-links">' + (p.url ? '<a href="'+p.url+'" target="_blank">[Publisher]</a>' : '') + 
+                  '<a href="'+p.dblp+'" target="_blank">[DBLP]</a></div></div>';
+        });
+        document.getElementById('pub-list-container').innerHTML = html;
+      }
+
+      function applyFilters() {
+        var s = document.getElementById('pubSearch').value.toLowerCase();
+        var y = document.getElementById('pubYearFilter').value;
+        var t = document.getElementById('pubTypeFilter').value;
+        render(publications.filter(function(p) {
+          var textMatch = p.title.toLowerCase().indexOf(s) > -1 || p.authors.toLowerCase().indexOf(s) > -1;
+          return textMatch && (y === "all" || p.year === y) && (t === "all" || p.type === t);
+        }));
+      }
+
+      // Start the JSONP request
+      var script = document.createElement('script');
+      script.src = "https://dblp.org/search/publ/api?q=author:Francisco_S._Melo:&format=jsonp&callback=dblp_callback&h=1000";
+      document.body.appendChild(script);
+    </script>
+  </body>
+</html>
