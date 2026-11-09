@@ -1,0 +1,4519 @@
+{
+ "source": "https://dblp.org/pid/86/839.html",
+ "checked": "2026-11-09",
+ "publications": [
+  {
+   "title": "Centralized Training with Hybrid Execution in Multi-Agent Reinforcement Learning via Predictive Observation Imputation (Abstract Reprint)",
+   "authors": [
+    {
+     "name": "Pedro P. Santos",
+     "me": false
+    },
+    {
+     "name": "Diogo S. Carvalho",
+     "me": false
+    },
+    {
+     "name": "Miguel Vasco",
+     "me": false
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    },
+    {
+     "name": "Pedro A. Santos",
+     "me": false
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "AAAI",
+   "year": "2026",
+   "type": "Conference",
+   "url": "https://doi.org/10.1609/aaai.v40i47.41409",
+   "dblp": "https://dblp.org/rec/conf/aaai/SantosCVSSPM26.html"
+  },
+  {
+   "title": "RecBayes: Scalable Ad Hoc Teamwork Without Privileged Information",
+   "authors": [
+    {
+     "name": "João G. Ribeiro",
+     "me": false
+    },
+    {
+     "name": "Yaniv Oren",
+     "me": false
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    },
+    {
+     "name": "Matthijs T. J. Spaan",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "HHAI",
+   "year": "2026",
+   "type": "Conference",
+   "url": "https://doi.org/10.3233/FAIA260495",
+   "dblp": "https://dblp.org/rec/conf/hhai/RibeiroOSSM26.html"
+  },
+  {
+   "title": "Solving General-Utility Markov Decision Processes in the Single-Trial Regime with Online Planning",
+   "authors": [
+    {
+     "name": "Pedro Santos",
+     "me": false
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "ICLR",
+   "year": "2026",
+   "type": "Conference",
+   "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/3853f7b92d82318f03567a4f7f128227-Abstract-Conference.html",
+   "dblp": "https://dblp.org/rec/conf/iclr/SantosSM26.html"
+  },
+  {
+   "title": "Entropic Risk-Aware Monte Carlo Tree Search",
+   "authors": [
+    {
+     "name": "Pedro P. Santos",
+     "me": false
+    },
+    {
+     "name": "Jacopo Silvestrin",
+     "me": false
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "arXiv",
+   "year": "2026",
+   "type": "Preprint",
+   "url": "https://doi.org/10.48550/arXiv.2601.17667",
+   "dblp": "https://dblp.org/rec/journals/corr/abs-2601-17667.html"
+  },
+  {
+   "title": "Risk-Aware General-Utility Markov Decision Processes",
+   "authors": [
+    {
+     "name": "Pedro P. Santos",
+     "me": false
+    },
+    {
+     "name": "Fábio Vital",
+     "me": false
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "arXiv",
+   "year": "2026",
+   "type": "Preprint",
+   "url": "https://doi.org/10.48550/arXiv.2607.09298",
+   "dblp": "https://dblp.org/rec/journals/corr/abs-2607-09298.html"
+  },
+  {
+   "title": "Reinforcement learning in convergently non-stationary environments: Feudal hierarchies and learned representations",
+   "authors": [
+    {
+     "name": "Diogo S. Carvalho",
+     "me": false
+    },
+    {
+     "name": "Pedro A. Santos",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "Artif. Intell.",
+   "year": "2025",
+   "type": "Journal",
+   "url": "https://doi.org/10.1016/j.artint.2025.104382",
+   "dblp": "https://dblp.org/rec/journals/ai/CarvalhoSM25.html"
+  },
+  {
+   "title": "Centralized training with hybrid execution in multi-agent reinforcement learning via predictive observation imputation",
+   "authors": [
+    {
+     "name": "Pedro P. Santos",
+     "me": false
+    },
+    {
+     "name": "Diogo S. Carvalho",
+     "me": false
+    },
+    {
+     "name": "Miguel Vasco",
+     "me": false
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    },
+    {
+     "name": "Pedro A. Santos",
+     "me": false
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "Artif. Intell.",
+   "year": "2025",
+   "type": "Journal",
+   "url": "https://doi.org/10.1016/j.artint.2025.104404",
+   "dblp": "https://dblp.org/rec/journals/ai/SantosCVSSPM25.html"
+  },
+  {
+   "title": "Psychological, economic, and ethical factors in human feedback for a chatbot-based smoking cessation intervention",
+   "authors": [
+    {
+     "name": "Nele Albers",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Mark A. Neerincx",
+     "me": false
+    },
+    {
+     "name": "Olya Kudina",
+     "me": false
+    },
+    {
+     "name": "Willem-Paul Brinkman",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "npj Digit. Medicine",
+   "year": "2025",
+   "type": "Journal",
+   "url": "https://doi.org/10.1038/s41746-025-01701-3",
+   "dblp": "https://dblp.org/rec/journals/npjdm/AlbersMNKB25.html"
+  },
+  {
+   "title": "Multi-Bellman operator for convergence of Q-learning with linear function approximation",
+   "authors": [
+    {
+     "name": "Diogo S. Carvalho",
+     "me": false
+    },
+    {
+     "name": "Pedro A. Santos",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "Trans. Mach. Learn. Res.",
+   "year": "2025",
+   "type": "Journal",
+   "url": "https://openreview.net/forum?id=D2PjEPGXgh",
+   "dblp": "https://dblp.org/rec/journals/tmlr/Carvalho0M25.html"
+  },
+  {
+   "title": "Optimizing 2D Packing Strategies for Autoclave Loading Using Deep Reinforcement Learning",
+   "authors": [
+    {
+     "name": "Victor Ulisses Pugliese",
+     "me": false
+    },
+    {
+     "name": "Diogo S. Carvalho",
+     "me": false
+    },
+    {
+     "name": "Oséias Faria de Arruda Ferreira",
+     "me": false
+    },
+    {
+     "name": "Fábio Augusto Faria",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "EPIA (2)",
+   "year": "2025",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-032-05179-0_4",
+   "dblp": "https://dblp.org/rec/conf/epia/PuglieseCFFM25.html"
+  },
+  {
+   "title": "The Number of Trials Matters in Infinite-Horizon General-Utility Markov Decision Processes",
+   "authors": [
+    {
+     "name": "Pedro P. Santos",
+     "me": false
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "ICML",
+   "year": "2025",
+   "type": "Conference",
+   "url": "https://proceedings.mlr.press/v267/santos25b.html",
+   "dblp": "https://dblp.org/rec/conf/icml/SantosSM25.html"
+  },
+  {
+   "title": "Optimize and Coordinate Multiple DMPs Under Constraints to Achieve a Collaborative Manipulation Task",
+   "authors": [
+    {
+     "name": "Ali H. Kordia",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "ICRA",
+   "year": "2025",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/ICRA55743.2025.11127511",
+   "dblp": "https://dblp.org/rec/conf/icra/KordiaM25.html"
+  },
+  {
+   "title": "Networked Agents in the Dark: Team Value Learning under Partial Observability",
+   "authors": [
+    {
+     "name": "Guilherme S. Varela",
+     "me": false
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS",
+   "year": "2025",
+   "type": "Conference",
+   "url": "https://dl.acm.org/doi/10.5555/3709347.3743847",
+   "dblp": "https://dblp.org/rec/conf/ifaamas/VarelaSM25.html"
+  },
+  {
+   "title": "Implicit Repair with Reinforcement Learning in Emergent Communication",
+   "authors": [
+    {
+     "name": "Fábio Vital",
+     "me": false
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS",
+   "year": "2025",
+   "type": "Conference",
+   "url": "https://dl.acm.org/doi/10.5555/3709347.3743850",
+   "dblp": "https://dblp.org/rec/conf/ifaamas/VitalSM25.html"
+  },
+  {
+   "title": "Distributed Value Decomposition Networks with Networked Agents",
+   "authors": [
+    {
+     "name": "Guilherme S. Varela",
+     "me": false
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS",
+   "year": "2025",
+   "type": "Conference",
+   "url": "https://dl.acm.org/doi/10.5555/3709347.3744008",
+   "dblp": "https://dblp.org/rec/conf/ifaamas/VarelaSM25a.html"
+  },
+  {
+   "title": "RecBayes: Recurrent Bayesian Ad Hoc Teamwork in Large Partially Observable Domains",
+   "authors": [
+    {
+     "name": "João G. Ribeiro",
+     "me": false
+    },
+    {
+     "name": "Yaniv Oren",
+     "me": false
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    },
+    {
+     "name": "Matthijs T. J. Spaan",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "arXiv",
+   "year": "2025",
+   "type": "Preprint",
+   "url": "https://doi.org/10.48550/arXiv.2506.15756",
+   "dblp": "https://dblp.org/rec/journals/corr/abs-2506-15756.html"
+  },
+  {
+   "title": "\"Teammates, Am I Clear?\": Analysing Legible Behaviours in Teams",
+   "authors": [
+    {
+     "name": "Miguel Faria",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "arXiv",
+   "year": "2025",
+   "type": "Preprint",
+   "url": "https://doi.org/10.48550/arXiv.2507.21631",
+   "dblp": "https://dblp.org/rec/journals/corr/abs-2507-21631.html"
+  },
+  {
+   "title": "\"Guess what I'm doing\": Extending legibility to sequential decision tasks",
+   "authors": [
+    {
+     "name": "Miguel Faria",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "Artif. Intell.",
+   "year": "2024",
+   "type": "Journal",
+   "url": "https://doi.org/10.1016/j.artint.2024.104107",
+   "dblp": "https://dblp.org/rec/journals/ai/FariaMP24.html"
+  },
+  {
+   "title": "The impact of data distribution on Q-learning with function approximation",
+   "authors": [
+    {
+     "name": "Pedro P. Santos",
+     "me": false
+    },
+    {
+     "name": "Diogo S. Carvalho",
+     "me": false
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "Mach. Learn.",
+   "year": "2024",
+   "type": "Journal",
+   "url": "https://doi.org/10.1007/s10994-024-06564-5",
+   "dblp": "https://dblp.org/rec/journals/ml/SantosCSM24.html"
+  },
+  {
+   "title": "When a Robot Is Your Teammate",
+   "authors": [
+    {
+     "name": "Filipa Correia",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "Top. Cogn. Sci.",
+   "year": "2024",
+   "type": "Journal",
+   "url": "https://doi.org/10.1111/tops.12634",
+   "dblp": "https://dblp.org/rec/journals/topics/CorreiaMP24.html"
+  },
+  {
+   "title": "TEAMSTER: Model-Based Reinforcement Learning for Ad Hoc Teamwork (Abstract Reprint)",
+   "authors": [
+    {
+     "name": "João G. Ribeiro",
+     "me": false
+    },
+    {
+     "name": "Gonçalo Rodrigues",
+     "me": false
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "AAAI",
+   "year": "2024",
+   "type": "Conference",
+   "url": "https://doi.org/10.1609/aaai.v38i20.30608",
+   "dblp": "https://dblp.org/rec/conf/aaai/RibeiroRSM24.html"
+  },
+  {
+   "title": "Centralized Training with Hybrid Execution in Multi-Agent Reinforcement Learning",
+   "authors": [
+    {
+     "name": "Pedro P. Santos",
+     "me": false
+    },
+    {
+     "name": "Diogo S. Carvalho",
+     "me": false
+    },
+    {
+     "name": "Miguel Vasco",
+     "me": false
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    },
+    {
+     "name": "Pedro A. Santos",
+     "me": false
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS",
+   "year": "2024",
+   "type": "Conference",
+   "url": "https://dl.acm.org/doi/10.5555/3635637.3663191",
+   "dblp": "https://dblp.org/rec/conf/atal/SantosCVSS0M24.html"
+  },
+  {
+   "title": "A Comparative Study of Continual Backpropagation",
+   "authors": [
+    {
+     "name": "Jacopo Silvestrin",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuel Lopes",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "EPIA (2)",
+   "year": "2024",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-031-73500-4_27",
+   "dblp": "https://dblp.org/rec/conf/epia/SilvestrinML24.html"
+  },
+  {
+   "title": "Interactively Teaching an Inverse Reinforcement Learner with Limited Feedback",
+   "authors": [
+    {
+     "name": "Rustam Zayanov",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuel Lopes",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "ICAART (1)",
+   "year": "2024",
+   "type": "Conference",
+   "url": "https://doi.org/10.5220/0012296800003636",
+   "dblp": "https://dblp.org/rec/conf/icaart/ZayanovM024.html"
+  },
+  {
+   "title": "NeuralSolver: Learning Algorithms For Consistent and Efficient Extrapolation Across General Tasks",
+   "authors": [
+    {
+     "name": "Bernardo Esteves",
+     "me": false
+    },
+    {
+     "name": "Miguel Vasco",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "NeurIPS",
+   "year": "2024",
+   "type": "Conference",
+   "url": "http://papers.nips.cc/paper_files/paper/2024/hash/06297213eca57fa6eadf8d87caa21b3c-Abstract-Conference.html",
+   "dblp": "https://dblp.org/rec/conf/nips/EstevesVM24.html"
+  },
+  {
+   "title": "ECAI 2024 - 27th European Conference on Artificial Intelligence, 19-24 October 2024, Santiago de Compostela, Spain - Including 13th Conference on Prestigious Applications of Intelligent Systems (PAIS 2024)",
+   "authors": [
+    {
+     "name": "Ulle Endriss",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Kerstin Bach",
+     "me": false
+    },
+    {
+     "name": "Alberto José Bugarín Diz",
+     "me": false
+    },
+    {
+     "name": "Jose Maria Alonso-Moral",
+     "me": false
+    },
+    {
+     "name": "Senén Barro",
+     "me": false
+    },
+    {
+     "name": "Fredrik Heintz",
+     "me": false
+    }
+   ],
+   "editors": true,
+   "venue": "IOS Press",
+   "year": "2024",
+   "type": "Edited",
+   "url": "https://doi.org/10.3233/FAIA392",
+   "dblp": "https://dblp.org/rec/conf/ecai/2024.html"
+  },
+  {
+   "title": "NeuralThink: Algorithm Synthesis that Extrapolates in General Tasks",
+   "authors": [
+    {
+     "name": "Bernardo Esteves",
+     "me": false
+    },
+    {
+     "name": "Miguel Vasco",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "arXiv",
+   "year": "2024",
+   "type": "Preprint",
+   "url": "https://doi.org/10.48550/arXiv.2402.15393",
+   "dblp": "https://dblp.org/rec/journals/corr/abs-2402-15393.html"
+  },
+  {
+   "title": "TEAMSTER: Model-based reinforcement learning for ad hoc teamwork",
+   "authors": [
+    {
+     "name": "João G. Ribeiro",
+     "me": false
+    },
+    {
+     "name": "Gonçalo Rodrigues",
+     "me": false
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "Artif. Intell.",
+   "year": "2023",
+   "type": "Journal",
+   "url": "https://doi.org/10.1016/j.artint.2023.104013",
+   "dblp": "https://dblp.org/rec/journals/ai/RibeiroRSM23.html"
+  },
+  {
+   "title": "Robotic Gaze Responsiveness in Multiparty Teamwork",
+   "authors": [
+    {
+     "name": "Filipa Correia",
+     "me": false
+    },
+    {
+     "name": "Joana Campos",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "Int. J. Soc. Robotics",
+   "year": "2023",
+   "type": "Journal",
+   "url": "https://doi.org/10.1007/s12369-022-00955-1",
+   "dblp": "https://dblp.org/rec/journals/ijsr/CorreiaCMP23.html"
+  },
+  {
+   "title": "Learning to Perceive in Deep Model-Free Reinforcement Learning",
+   "authors": [
+    {
+     "name": "Gonçalo Querido",
+     "me": false
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS",
+   "year": "2023",
+   "type": "Conference",
+   "url": "https://dl.acm.org/doi/10.5555/3545946.3599013",
+   "dblp": "https://dblp.org/rec/conf/atal/QueridoSM23.html"
+  },
+  {
+   "title": "Theoretical Remarks on Feudal Hierarchies and Reinforcement Learning",
+   "authors": [
+    {
+     "name": "Diogo S. Carvalho",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Pedro A. Santos",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "ECAI",
+   "year": "2023",
+   "type": "Conference",
+   "url": "https://doi.org/10.3233/FAIA230290",
+   "dblp": "https://dblp.org/rec/conf/ecai/CarvalhoMS23.html"
+  },
+  {
+   "title": "Making Friends in the Dark: Ad Hoc Teamwork Under Partial Observability",
+   "authors": [
+    {
+     "name": "João G. Ribeiro",
+     "me": false
+    },
+    {
+     "name": "Cassandro Martinho",
+     "me": false
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "ECAI",
+   "year": "2023",
+   "type": "Conference",
+   "url": "https://doi.org/10.3233/FAIA230486",
+   "dblp": "https://dblp.org/rec/conf/ecai/RibeiroMSM23.html"
+  },
+  {
+   "title": "Pre-training with Augmentations for Efficient Transfer in Model-Based Reinforcement Learning",
+   "authors": [
+    {
+     "name": "Bernardo Esteves",
+     "me": false
+    },
+    {
+     "name": "Miguel Vasco",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "EPIA (1)",
+   "year": "2023",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-031-49008-8_11",
+   "dblp": "https://dblp.org/rec/conf/epia/EstevesVM23.html"
+  },
+  {
+   "title": "\"Sequencing Matters\": Investigating Suitable Action Sequences in Robot-Assisted Autism Therapy",
+   "authors": [
+    {
+     "name": "Kim Baraka",
+     "me": false
+    },
+    {
+     "name": "Marta Couto",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    },
+    {
+     "name": "Manuela Veloso",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "Frontiers Robotics AI",
+   "year": "2022",
+   "type": "Journal",
+   "url": "https://doi.org/10.3389/frobt.2022.784249",
+   "dblp": "https://dblp.org/rec/journals/firai/BarakaCM0V22.html"
+  },
+  {
+   "title": "Cooperation and Learning Dynamics under Wealth Inequality and Diversity in Individual Risk",
+   "authors": [
+    {
+     "name": "Ramona Merhej",
+     "me": false
+    },
+    {
+     "name": "Fernando P. Santos",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Francisco C. Santos",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "J. Artif. Intell. Res.",
+   "year": "2022",
+   "type": "Journal",
+   "url": "https://doi.org/10.1613/jair.1.13519",
+   "dblp": "https://dblp.org/rec/journals/jair/MerhejSMS22.html"
+  },
+  {
+   "title": "Leveraging hierarchy in multimodal generative models for effective cross-modality inference",
+   "authors": [
+    {
+     "name": "Miguel Vasco",
+     "me": false
+    },
+    {
+     "name": "Hang Yin",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "Neural Networks",
+   "year": "2022",
+   "type": "Journal",
+   "url": "https://doi.org/10.1016/j.neunet.2021.11.019",
+   "dblp": "https://dblp.org/rec/journals/nn/VascoYMP22.html"
+  },
+  {
+   "title": "Cooperation and Learning Dynamics under Risk Diversity and Financial Incentives",
+   "authors": [
+    {
+     "name": "Ramona Merhej",
+     "me": false
+    },
+    {
+     "name": "Fernando P. Santos",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Mohamed Chetouani",
+     "me": false
+    },
+    {
+     "name": "Francisco C. Santos",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS",
+   "year": "2022",
+   "type": "Conference",
+   "url": "https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p908.pdf",
+   "dblp": "https://dblp.org/rec/conf/atal/MerhejSMCS22.html"
+  },
+  {
+   "title": "How to Sense the World:  Leveraging Hierarchy in Multimodal Perception for Robust Reinforcement Learning Agents",
+   "authors": [
+    {
+     "name": "Miguel Vasco",
+     "me": false
+    },
+    {
+     "name": "Hang Yin",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS",
+   "year": "2022",
+   "type": "Conference",
+   "url": "https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1301.pdf",
+   "dblp": "https://dblp.org/rec/conf/atal/VascoYM022.html"
+  },
+  {
+   "title": "FIT: Using Feature Importance to Teach Classification Tasks to Unknown Learners",
+   "authors": [
+    {
+     "name": "Carla Guerra",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuel Lopes",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "EPIA",
+   "year": "2022",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-031-16474-3_36",
+   "dblp": "https://dblp.org/rec/conf/epia/GuerraML22.html"
+  },
+  {
+   "title": "Socially Reactive Navigation Models for Mobile Robots",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Plinio Moreno",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "ICARSC",
+   "year": "2022",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/ICARSC55462.2022.9784789",
+   "dblp": "https://dblp.org/rec/conf/icarsc/MeloM22.html"
+  },
+  {
+   "title": "Geometric Multimodal Contrastive Representation Learning",
+   "authors": [
+    {
+     "name": "Petra Poklukar",
+     "me": false
+    },
+    {
+     "name": "Miguel Vasco",
+     "me": false
+    },
+    {
+     "name": "Hang Yin",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    },
+    {
+     "name": "Danica Kragic",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "ICML",
+   "year": "2022",
+   "type": "Conference",
+   "url": "https://proceedings.mlr.press/v162/poklukar22a.html",
+   "dblp": "https://dblp.org/rec/conf/icml/PoklukarVYM0K22.html"
+  },
+  {
+   "title": "Perceive, Represent, Generate: Translating Multimodal Information to Robotic Motion Trajectories",
+   "authors": [
+    {
+     "name": "Fábio Vital",
+     "me": false
+    },
+    {
+     "name": "Miguel Vasco",
+     "me": false
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "IROS",
+   "year": "2022",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/IROS47612.2022.9981788",
+   "dblp": "https://dblp.org/rec/conf/iros/VitalVSM22.html"
+  },
+  {
+   "title": "Autonomous Agents and Multiagent Systems. Best and Visionary Papers - AAMAS 2022 Workshops, Virtual Event, May 9-13, 2022, Revised Selected Papers",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Fei Fang",
+     "me": false
+    }
+   ],
+   "editors": true,
+   "venue": "Springer",
+   "year": "2022",
+   "type": "Edited",
+   "url": "https://doi.org/10.1007/978-3-031-20179-0",
+   "dblp": "https://dblp.org/rec/conf/atal/2022bv.html"
+  },
+  {
+   "title": "Assisting Unknown Teammates in Unknown Tasks: Ad Hoc Teamwork under Partial Observability",
+   "authors": [
+    {
+     "name": "João G. Ribeiro",
+     "me": false
+    },
+    {
+     "name": "Cassandro Martinho",
+     "me": false
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "arXiv",
+   "year": "2022",
+   "type": "Preprint",
+   "url": "https://doi.org/10.48550/arXiv.2201.03538",
+   "dblp": "https://dblp.org/rec/journals/corr/abs-2201-03538.html"
+  },
+  {
+   "title": "Learning Collective Action under Risk Diversity",
+   "authors": [
+    {
+     "name": "Ramona Merhej",
+     "me": false
+    },
+    {
+     "name": "Fernando P. Santos",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Mohamed Chetouani",
+     "me": false
+    },
+    {
+     "name": "Francisco C. Santos",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "arXiv",
+   "year": "2022",
+   "type": "Preprint",
+   "url": "https://doi.org/10.48550/arXiv.2201.12891",
+   "dblp": "https://dblp.org/rec/journals/corr/abs-2201-12891.html"
+  },
+  {
+   "title": "GMC - Geometric Multimodal Contrastive Representation Learning",
+   "authors": [
+    {
+     "name": "Petra Poklukar",
+     "me": false
+    },
+    {
+     "name": "Miguel Vasco",
+     "me": false
+    },
+    {
+     "name": "Hang Yin",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    },
+    {
+     "name": "Danica Kragic",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "arXiv",
+   "year": "2022",
+   "type": "Preprint",
+   "url": "https://doi.org/10.48550/arXiv.2202.03390",
+   "dblp": "https://dblp.org/rec/journals/corr/abs-2202-03390.html"
+  },
+  {
+   "title": "Teaching Multiple Inverse Reinforcement Learners",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuel Lopes",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "Frontiers Artif. Intell.",
+   "year": "2021",
+   "type": "Journal",
+   "url": "https://doi.org/10.3389/frai.2021.625183",
+   "dblp": "https://dblp.org/rec/journals/frai/MeloL21.html"
+  },
+  {
+   "title": "A Game AI Competition to Foster Collaborative AI Research and Development",
+   "authors": [
+    {
+     "name": "Ana Salta",
+     "me": false
+    },
+    {
+     "name": "Rui Prada",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "IEEE Trans. Games",
+   "year": "2021",
+   "type": "Journal",
+   "url": "https://doi.org/10.1109/TG.2020.3024160",
+   "dblp": "https://dblp.org/rec/journals/tciaig/SaltaPM21.html"
+  },
+  {
+   "title": "Interactive Teaching with Groups of Unknown Bayesian Learners",
+   "authors": [
+    {
+     "name": "Carla Guerra",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuel Lopes",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AIED (2)",
+   "year": "2021",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-030-78270-2_32",
+   "dblp": "https://dblp.org/rec/conf/aied/GuerraM021.html"
+  },
+  {
+   "title": "Cooperation between Independent Reinforcement Learners under Wealth Inequality and Collective Risks",
+   "authors": [
+    {
+     "name": "Ramona Merhej",
+     "me": false
+    },
+    {
+     "name": "Fernando P. Santos",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Francisco C. Santos",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS",
+   "year": "2021",
+   "type": "Conference",
+   "url": "https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p898.pdf",
+   "dblp": "https://dblp.org/rec/conf/atal/MerhejSMS21.html"
+  },
+  {
+   "title": "Teaching Unknown Learners to Classify via Feature Importance",
+   "authors": [
+    {
+     "name": "Carla Guerra",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuel Lopes",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS",
+   "year": "2021",
+   "type": "Conference",
+   "url": "https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1524.pdf",
+   "dblp": "https://dblp.org/rec/conf/atal/GuerraM021.html"
+  },
+  {
+   "title": "Revisiting \"Recurrent World Models Facilitate Policy Evolution\"",
+   "authors": [
+    {
+     "name": "Bernardo Esteves",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "EPIA",
+   "year": "2021",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-030-86230-5_26",
+   "dblp": "https://dblp.org/rec/conf/epia/EstevesM21.html"
+  },
+  {
+   "title": "Exploiting Symmetry in Human Robot-Assisted Dressing Using Reinforcement Learning",
+   "authors": [
+    {
+     "name": "Pedro Ildefonso",
+     "me": false
+    },
+    {
+     "name": "Pedro Remédios",
+     "me": false
+    },
+    {
+     "name": "Rui Silva",
+     "me": false
+    },
+    {
+     "name": "Miguel Vasco",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    },
+    {
+     "name": "Manuela Veloso",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "EPIA",
+   "year": "2021",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-030-86230-5_32",
+   "dblp": "https://dblp.org/rec/conf/epia/IldefonsoRSVMPV21.html"
+  },
+  {
+   "title": "Compound Movement Recognition Using Dynamic Movement Primitives",
+   "authors": [
+    {
+     "name": "Ali H. Kordia",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "EPIA",
+   "year": "2021",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-030-86230-5_36",
+   "dblp": "https://dblp.org/rec/conf/epia/KordiaM21.html"
+  },
+  {
+   "title": "Helping People on the Fly: Ad Hoc Teamwork for Human-Robot Teams",
+   "authors": [
+    {
+     "name": "João G. Ribeiro",
+     "me": false
+    },
+    {
+     "name": "Miguel Faria",
+     "me": false
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "EPIA",
+   "year": "2021",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-030-86230-5_50",
+   "dblp": "https://dblp.org/rec/conf/epia/RibeiroFSM21.html"
+  },
+  {
+   "title": "Ad Hoc Teamwork in the Presence of Non-stationary Teammates",
+   "authors": [
+    {
+     "name": "Pedro M. Santos",
+     "me": false
+    },
+    {
+     "name": "João G. Ribeiro",
+     "me": false
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "EPIA",
+   "year": "2021",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-030-86230-5_51",
+   "dblp": "https://dblp.org/rec/conf/epia/SantosRSM21.html"
+  },
+  {
+   "title": "Movement recognition and prediction using DMPs",
+   "authors": [
+    {
+     "name": "Ali H. Kordia",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "ICRA",
+   "year": "2021",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/ICRA48506.2021.9562001",
+   "dblp": "https://dblp.org/rec/conf/icra/KordiaM21.html"
+  },
+  {
+   "title": "Understanding Robots: Making Robots More Legible in Multi-Party Interactions",
+   "authors": [
+    {
+     "name": "Miguel Faria",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "RO-MAN",
+   "year": "2021",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/RO-MAN50785.2021.9515485",
+   "dblp": "https://dblp.org/rec/conf/ro-man/FariaMP21.html"
+  },
+  {
+   "title": "Progress in Artificial Intelligence - 20th EPIA Conference on Artificial Intelligence, EPIA 2021, Virtual Event, September 7-9, 2021, Proceedings",
+   "authors": [
+    {
+     "name": "Goreti Marreiros",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Nuno Lau",
+     "me": false
+    },
+    {
+     "name": "Henrique Lopes Cardoso",
+     "me": false
+    },
+    {
+     "name": "Luís Paulo Reis",
+     "me": false
+    }
+   ],
+   "editors": true,
+   "venue": "Springer",
+   "year": "2021",
+   "type": "Edited",
+   "url": "https://doi.org/10.1007/978-3-030-86230-5",
+   "dblp": "https://dblp.org/rec/conf/epia/2021.html"
+  },
+  {
+   "title": "A Methodology for the Development of RL-Based Adaptive Traffic Signal Controllers",
+   "authors": [
+    {
+     "name": "Guilherme S. Varela",
+     "me": false
+    },
+    {
+     "name": "Pedro P. Santos",
+     "me": false
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "arXiv",
+   "year": "2021",
+   "type": "Preprint",
+   "url": "https://doi.org/10.48550/arXiv.2101.09614",
+   "dblp": "https://dblp.org/rec/journals/corr/abs-2101-09614.html"
+  },
+  {
+   "title": "Limited depth bandit-based strategy for Monte Carlo planning in continuous action spaces",
+   "authors": [
+    {
+     "name": "Ricardo Quinteiro",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Pedro A. Santos",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "arXiv",
+   "year": "2021",
+   "type": "Preprint",
+   "url": "https://doi.org/10.48550/arXiv.2106.15594",
+   "dblp": "https://dblp.org/rec/journals/corr/abs-2106-15594.html"
+  },
+  {
+   "title": "Understanding the Impact of Data Distribution on Q-learning with Function Approximation",
+   "authors": [
+    {
+     "name": "Pedro P. Santos",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    },
+    {
+     "name": "Diogo S. Carvalho",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "arXiv",
+   "year": "2021",
+   "type": "Preprint",
+   "url": "https://doi.org/10.48550/arXiv.2111.11758",
+   "dblp": "https://dblp.org/rec/journals/corr/abs-2111-11758.html"
+  },
+  {
+   "title": "Optimal action sequence generation for assistive agents in fixed horizon tasks",
+   "authors": [
+    {
+     "name": "Kim Baraka",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Marta Couto",
+     "me": false
+    },
+    {
+     "name": "Manuela Veloso",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "Auton. Agents Multi Agent Syst.",
+   "year": "2020",
+   "type": "Journal",
+   "url": "https://doi.org/10.1007/s10458-020-09458-7",
+   "dblp": "https://dblp.org/rec/journals/aamas/BarakaMCV20.html"
+  },
+  {
+   "title": "Playing Games in the Dark: An Approach for Cross-Modality Transfer in Reinforcement Learning",
+   "authors": [
+    {
+     "name": "Rui Silva",
+     "me": false
+    },
+    {
+     "name": "Miguel Vasco",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    },
+    {
+     "name": "Manuela Veloso",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS",
+   "year": "2020",
+   "type": "Conference",
+   "url": "https://dl.acm.org/doi/10.5555/3398761.3398907",
+   "dblp": "https://dblp.org/rec/conf/atal/SilvaVMPV20.html"
+  },
+  {
+   "title": "An End-to-end Approach for Learning and Generating Complex Robot Motions from Demonstration",
+   "authors": [
+    {
+     "name": "Ali H. Kordia",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "ICARCV",
+   "year": "2020",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/ICARCV50220.2020.9305399",
+   "dblp": "https://dblp.org/rec/conf/icarcv/KordiaM20.html"
+  },
+  {
+   "title": "A new convergent variant of Q-learning with linear function approximation",
+   "authors": [
+    {
+     "name": "Diogo S. Carvalho",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Pedro Santos",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "NeurIPS",
+   "year": "2020",
+   "type": "Conference",
+   "url": "https://proceedings.neurips.cc/paper/2020/hash/e1696007be4eefb81b1a1d39ce48681b-Abstract.html",
+   "dblp": "https://dblp.org/rec/conf/nips/CarvalhoM020.html"
+  },
+  {
+   "title": "Learning from Explanations and Demonstrations: A Pilot Study",
+   "authors": [
+    {
+     "name": "Silvia Tulli",
+     "me": false
+    },
+    {
+     "name": "Sebastian Wallkötter",
+     "me": false
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Mohamed Chetouani",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "NL4XAI@INGL",
+   "year": "2020",
+   "type": "Conference",
+   "url": "https://aclanthology.org/2020.nl4xai-1.13/",
+   "dblp": "https://dblp.org/rec/conf/nlxai/TulliWPMC20.html"
+  },
+  {
+   "title": "The Dark Side of Embodiment - Teaming Up With Robots VS Disembodied Agents",
+   "authors": [
+    {
+     "name": "Filipa Correia",
+     "me": false
+    },
+    {
+     "name": "Samuel Gomes",
+     "me": false
+    },
+    {
+     "name": "Samuel Mascarenhas",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "Robotics: Science and Systems",
+   "year": "2020",
+   "type": "Conference",
+   "url": "https://doi.org/10.15607/RSS.2020.XVI.010",
+   "dblp": "https://dblp.org/rec/conf/rss/CorreiaGMMP20.html"
+  },
+  {
+   "title": "Explainable Agency by Revealing Suboptimality in Child-Robot Learning Scenarios",
+   "authors": [
+    {
+     "name": "Silvia Tulli",
+     "me": false
+    },
+    {
+     "name": "Marta Couto",
+     "me": false
+    },
+    {
+     "name": "Miguel Vasco",
+     "me": false
+    },
+    {
+     "name": "Elmira Yadollahi",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "ICSR",
+   "year": "2020",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-030-62056-1_3",
+   "dblp": "https://dblp.org/rec/conf/socrob/TulliCVYMP20.html"
+  },
+  {
+   "title": "MHVAE: a Human-Inspired Deep Hierarchical Generative Model for Multimodal Representation Learning",
+   "authors": [
+    {
+     "name": "Miguel Vasco",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "arXiv",
+   "year": "2020",
+   "type": "Preprint",
+   "url": "https://doi.org/10.48550/arXiv.2006.02991",
+   "dblp": "https://dblp.org/rec/journals/corr/abs-2006-02991.html"
+  },
+  {
+   "title": "\"I Choose... YOU!\" Membership preferences in human-robot teams",
+   "authors": [
+    {
+     "name": "Filipa Correia",
+     "me": false
+    },
+    {
+     "name": "Sofia Petisca",
+     "me": false
+    },
+    {
+     "name": "Patrícia Alves-Oliveira",
+     "me": false
+    },
+    {
+     "name": "Tiago Ribeiro",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "Auton. Robots",
+   "year": "2019",
+   "type": "Journal",
+   "url": "https://doi.org/10.1007/s10514-018-9767-9",
+   "dblp": "https://dblp.org/rec/journals/arobots/CorreiaPARMP19.html"
+  },
+  {
+   "title": "An ensemble inverse optimal control approach for robotic task learning and adaptation",
+   "authors": [
+    {
+     "name": "Hang Yin",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    },
+    {
+     "name": "Aude Billard",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "Auton. Robots",
+   "year": "2019",
+   "type": "Journal",
+   "url": "https://doi.org/10.1007/s10514-018-9757-y",
+   "dblp": "https://dblp.org/rec/journals/arobots/YinMPB19.html"
+  },
+  {
+   "title": "Project INSIDE: towards autonomous semi-unstructured human-robot social interaction in autism therapy",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    },
+    {
+     "name": "David Belo",
+     "me": false
+    },
+    {
+     "name": "Marta Couto",
+     "me": false
+    },
+    {
+     "name": "Miguel Faria",
+     "me": false
+    },
+    {
+     "name": "Anabela Farias",
+     "me": false
+    },
+    {
+     "name": "Hugo Gamboa",
+     "me": false
+    },
+    {
+     "name": "Cátia Jesus",
+     "me": false
+    },
+    {
+     "name": "Mithun Kinarullathil",
+     "me": false
+    },
+    {
+     "name": "Pedro U. Lima",
+     "me": false
+    },
+    {
+     "name": "Luís Luz",
+     "me": false
+    },
+    {
+     "name": "André Mateus",
+     "me": false
+    },
+    {
+     "name": "Isabel Melo",
+     "me": false
+    },
+    {
+     "name": "Plinio Moreno",
+     "me": false
+    },
+    {
+     "name": "Daniel Faustino de Noronha Osório",
+     "me": false
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    },
+    {
+     "name": "Jhielson M. Pimentel",
+     "me": false
+    },
+    {
+     "name": "João Rodrigues",
+     "me": false
+    },
+    {
+     "name": "Rodrigo Ventura",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "Artif. Intell. Medicine",
+   "year": "2019",
+   "type": "Journal",
+   "url": "https://doi.org/10.1016/j.artmed.2018.12.003",
+   "dblp": "https://dblp.org/rec/journals/artmed/MeloSBCFFGJKLLM19.html"
+  },
+  {
+   "title": "Interactive robots with model-based 'autism-like' behaviors",
+   "authors": [
+    {
+     "name": "Kim Baraka",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuela Veloso",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "Paladyn J. Behav. Robotics",
+   "year": "2019",
+   "type": "Journal",
+   "url": "https://doi.org/10.1515/pjbr-2019-0011",
+   "dblp": "https://dblp.org/rec/journals/paladyn/BarakaMV19.html"
+  },
+  {
+   "title": "Empathic Robot for Group Learning: A Field Study",
+   "authors": [
+    {
+     "name": "Patrícia Alves-Oliveira",
+     "me": false
+    },
+    {
+     "name": "Pedro Sequeira",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ginevra Castellano",
+     "me": false
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "ACM Trans. Hum. Robot Interact.",
+   "year": "2019",
+   "type": "Journal",
+   "url": "https://doi.org/10.1145/3300188",
+   "dblp": "https://dblp.org/rec/journals/thri/Alves-OliveiraS19.html"
+  },
+  {
+   "title": "A Theoretical and Algorithmic Analysis of Configurable MDPs",
+   "authors": [
+    {
+     "name": "Rui Silva",
+     "me": false
+    },
+    {
+     "name": "Gabriele Farina",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuela Veloso",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "ICAPS",
+   "year": "2019",
+   "type": "Conference",
+   "url": "https://ojs.aaai.org/index.php/ICAPS/article/view/3551",
+   "dblp": "https://dblp.org/rec/conf/aips/SilvaFMV19.html"
+  },
+  {
+   "title": "Effects of Agents' Transparency on Teamwork",
+   "authors": [
+    {
+     "name": "Silvia Tulli",
+     "me": false
+    },
+    {
+     "name": "Filipa Correia",
+     "me": false
+    },
+    {
+     "name": "Samuel Mascarenhas",
+     "me": false
+    },
+    {
+     "name": "Samuel Gomes",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "EXTRAAMAS@AAMAS",
+   "year": "2019",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-030-30391-4_2",
+   "dblp": "https://dblp.org/rec/conf/atal/TulliCMGMP19.html"
+  },
+  {
+   "title": "An Optimization Approach for Structured Agent-Based Provider/Receiver Tasks",
+   "authors": [
+    {
+     "name": "Kim Baraka",
+     "me": false
+    },
+    {
+     "name": "Marta Couto",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuela Veloso",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS",
+   "year": "2019",
+   "type": "Conference",
+   "url": "http://dl.acm.org/citation.cfm?id=3331679",
+   "dblp": "https://dblp.org/rec/conf/atal/BarakaCMV19.html"
+  },
+  {
+   "title": "Online Motion Concept Learning: A Novel Algorithm for Sample-Efficient Learning and Recognition of Human Actions",
+   "authors": [
+    {
+     "name": "Miguel Vasco",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "David Martins de Matos",
+     "me": false
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    },
+    {
+     "name": "Tetsunari Inamura",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS",
+   "year": "2019",
+   "type": "Conference",
+   "url": "http://dl.acm.org/citation.cfm?id=3332072",
+   "dblp": "https://dblp.org/rec/conf/atal/VascoMMPI19.html"
+  },
+  {
+   "title": "For The Record - A Public Goods Game For Exploring Human-Robot Collaboration",
+   "authors": [
+    {
+     "name": "Filipa Correia",
+     "me": false
+    },
+    {
+     "name": "Samuel Mascarenhas",
+     "me": false
+    },
+    {
+     "name": "Samuel Gomes",
+     "me": false
+    },
+    {
+     "name": "Silvia Tulli",
+     "me": false
+    },
+    {
+     "name": "Fernando P. Santos",
+     "me": false
+    },
+    {
+     "name": "Francisco C. Santos",
+     "me": false
+    },
+    {
+     "name": "Rui Prada",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS",
+   "year": "2019",
+   "type": "Conference",
+   "url": "http://dl.acm.org/citation.cfm?id=3332109",
+   "dblp": "https://dblp.org/rec/conf/atal/CorreiaMGTSSPMP19.html"
+  },
+  {
+   "title": "Solving Motion and Action Planning for a Cooperative Agent Problem Using Geometry Friends",
+   "authors": [
+    {
+     "name": "Ana Salta",
+     "me": false
+    },
+    {
+     "name": "Rui Prada",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "EPIA (1)",
+   "year": "2019",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-030-30241-2_8",
+   "dblp": "https://dblp.org/rec/conf/epia/SaltaPM19.html"
+  },
+  {
+   "title": "Multi-task Learning and Catastrophic Forgetting in Continual Reinforcement Learning",
+   "authors": [
+    {
+     "name": "João G. Ribeiro",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "João Dias",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "GCAI",
+   "year": "2019",
+   "type": "Conference",
+   "url": "https://doi.org/10.29007/g7bg",
+   "dblp": "https://dblp.org/rec/conf/gcai/RibeiroMD19.html"
+  },
+  {
+   "title": "Exploring Prosociality in Human-Robot Teams",
+   "authors": [
+    {
+     "name": "Filipa Correia",
+     "me": false
+    },
+    {
+     "name": "Samuel Francisco Mascarenhas",
+     "me": false
+    },
+    {
+     "name": "Samuel Gomes",
+     "me": false
+    },
+    {
+     "name": "Patrícia Arriaga",
+     "me": false
+    },
+    {
+     "name": "Iolanda Leite",
+     "me": false
+    },
+    {
+     "name": "Rui Prada",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "HRI",
+   "year": "2019",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/HRI.2019.8673299",
+   "dblp": "https://dblp.org/rec/conf/hri/CorreiaMGALPMP19.html"
+  },
+  {
+   "title": "Group Intelligence on Social Robots",
+   "authors": [
+    {
+     "name": "Filipa Correia",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "HRI",
+   "year": "2019",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/HRI.2019.8673089",
+   "dblp": "https://dblp.org/rec/conf/hri/CorreiaMP19.html"
+  },
+  {
+   "title": "Learning Multimodal Representations for Sample-efficient Recognition of Human Actions",
+   "authors": [
+    {
+     "name": "Miguel Vasco",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "David Martins de Matos",
+     "me": false
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    },
+    {
+     "name": "Tetsunari Inamura",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "IROS",
+   "year": "2019",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/IROS40897.2019.8967635",
+   "dblp": "https://dblp.org/rec/conf/iros/VascoMMPI19.html"
+  },
+  {
+   "title": "Walk the Talk! Exploring (Mis)Alignment of Words and Deeds by Robotic Teammates in a Public Goods Game",
+   "authors": [
+    {
+     "name": "Filipa Correia",
+     "me": false
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    },
+    {
+     "name": "Shruti Chandra",
+     "me": false
+    },
+    {
+     "name": "Samuel Mascarenhas",
+     "me": false
+    },
+    {
+     "name": "Julien Charles-Nicolas",
+     "me": false
+    },
+    {
+     "name": "Justin Gally",
+     "me": false
+    },
+    {
+     "name": "Diana Lopes",
+     "me": false
+    },
+    {
+     "name": "Fernando P. Santos",
+     "me": false
+    },
+    {
+     "name": "Francisco C. Santos",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "RO-MAN",
+   "year": "2019",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/RO-MAN46459.2019.8956324",
+   "dblp": "https://dblp.org/rec/conf/ro-man/CorreiaPCMCGLSS19.html"
+  },
+  {
+   "title": "Class Teaching for Inverse Reinforcement Learners",
+   "authors": [
+    {
+     "name": "Manuel Lopes",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "arXiv",
+   "year": "2019",
+   "type": "Preprint",
+   "url": "https://doi.org/10.48550/arXiv.1911.13009",
+   "dblp": "https://dblp.org/rec/journals/corr/abs-1911-13009.html"
+  },
+  {
+   "title": "A tutorial on machine learning for  interactive pedagogical systems",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Samuel Mascarenhas",
+     "me": false
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "Int. J. Serious Games",
+   "year": "2018",
+   "type": "Journal",
+   "url": "https://doi.org/10.17083/ijsg.v5i3.256",
+   "dblp": "https://dblp.org/rec/journals/ijsg/MeloMP18.html"
+  },
+  {
+   "title": "Exploring the Impact of Fault Justification in Human-Robot Trust",
+   "authors": [
+    {
+     "name": "Filipa Correia",
+     "me": false
+    },
+    {
+     "name": "Carla Guerra",
+     "me": false
+    },
+    {
+     "name": "Samuel Mascarenhas",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS",
+   "year": "2018",
+   "type": "Conference",
+   "url": "http://dl.acm.org/citation.cfm?id=3237459",
+   "dblp": "https://dblp.org/rec/conf/atal/CorreiaGMMP18.html"
+  },
+  {
+   "title": "What if the World Were Different? Gradient-Based Exploration for New Optimal Policies",
+   "authors": [
+    {
+     "name": "Rui Silva",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuela Veloso",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "GCAI",
+   "year": "2018",
+   "type": "Conference",
+   "url": "https://doi.org/10.29007/6jsv",
+   "dblp": "https://dblp.org/rec/conf/gcai/SilvaMV18.html"
+  },
+  {
+   "title": "Group-based Emotions in Teams of Humans and Robots",
+   "authors": [
+    {
+     "name": "Filipa Correia",
+     "me": false
+    },
+    {
+     "name": "Samuel Mascarenhas",
+     "me": false
+    },
+    {
+     "name": "Rui Prada",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "HRI",
+   "year": "2018",
+   "type": "Conference",
+   "url": "https://doi.org/10.1145/3171221.3171252",
+   "dblp": "https://dblp.org/rec/conf/hri/CorreiaMPMP18.html"
+  },
+  {
+   "title": "Towards Guidelines for Mental State Induction in First-Person Shooters",
+   "authors": [
+    {
+     "name": "Tomás Alves",
+     "me": false
+    },
+    {
+     "name": "Sandra Gama",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "ICGI",
+   "year": "2018",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/ITCGI.2018.8602700",
+   "dblp": "https://dblp.org/rec/conf/icgi2/AlvesGM18.html"
+  },
+  {
+   "title": "Interactive Optimal Teaching with Unknown Learners",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Carla Guerra",
+     "me": false
+    },
+    {
+     "name": "Manuel Lopes",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "IJCAI",
+   "year": "2018",
+   "type": "Conference",
+   "url": "https://doi.org/10.24963/ijcai.2018/356",
+   "dblp": "https://dblp.org/rec/conf/ijcai/MeloGL18.html"
+  },
+  {
+   "title": "Flow adaptation in serious games for health",
+   "authors": [
+    {
+     "name": "Tomás Alves",
+     "me": false
+    },
+    {
+     "name": "Sandra Gama",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "SeGAH",
+   "year": "2018",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/SeGAH.2018.8401382",
+   "dblp": "https://dblp.org/rec/conf/segah/AlvesGM18.html"
+  },
+  {
+   "title": "Proceedings of the Workshop on Social Robots in Therapy: Focusing on Autonomy and Ethical Challenges",
+   "authors": [
+    {
+     "name": "Pablo Gómez Esteban",
+     "me": false
+    },
+    {
+     "name": "Daniel Hernández García",
+     "me": false
+    },
+    {
+     "name": "Hee Rin Lee",
+     "me": false
+    },
+    {
+     "name": "Pauline Chevalier",
+     "me": false
+    },
+    {
+     "name": "Paul Baxter",
+     "me": false
+    },
+    {
+     "name": "Cindy L. Bethel",
+     "me": false
+    },
+    {
+     "name": "Jainendra Shukla",
+     "me": false
+    },
+    {
+     "name": "Joan Oliver",
+     "me": false
+    },
+    {
+     "name": "Domenec Puig",
+     "me": false
+    },
+    {
+     "name": "Jason R. Wilson",
+     "me": false
+    },
+    {
+     "name": "Linda Tickle-Degnen",
+     "me": false
+    },
+    {
+     "name": "Madeleine Bartlett",
+     "me": false
+    },
+    {
+     "name": "Tony Belpaeme",
+     "me": false
+    },
+    {
+     "name": "Serge Thill",
+     "me": false
+    },
+    {
+     "name": "Kim Baraka",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuela Veloso",
+     "me": false
+    },
+    {
+     "name": "David Becerra",
+     "me": false
+    },
+    {
+     "name": "Maja J. Mataric",
+     "me": false
+    },
+    {
+     "name": "Eduard Fosch-Villaronga",
+     "me": false
+    },
+    {
+     "name": "Jordi Albo-Canals",
+     "me": false
+    },
+    {
+     "name": "Gloria Beraldo",
+     "me": false
+    },
+    {
+     "name": "Emanuele Menegatti",
+     "me": false
+    },
+    {
+     "name": "Valentina De Tommasi",
+     "me": false
+    },
+    {
+     "name": "Roberto Mancin",
+     "me": false
+    },
+    {
+     "name": "Franca Benini",
+     "me": false
+    },
+    {
+     "name": "Zachary Henkel",
+     "me": false
+    },
+    {
+     "name": "Kenna Baugus",
+     "me": false
+    },
+    {
+     "name": "David C. May",
+     "me": false
+    },
+    {
+     "name": "Lucile Dupuy",
+     "me": false
+    },
+    {
+     "name": "Wendy A. Rogers",
+     "me": false
+    },
+    {
+     "name": "Ronit Feingold Polak",
+     "me": false
+    },
+    {
+     "name": "Shelly Levy-Tzedek",
+     "me": false
+    },
+    {
+     "name": "Dagoberto Cruz-Sandoval",
+     "me": false
+    },
+    {
+     "name": "Jesús Favela",
+     "me": false
+    },
+    {
+     "name": "Michelle J. Johnson",
+     "me": false
+    },
+    {
+     "name": "Mayumi Mohan",
+     "me": false
+    },
+    {
+     "name": "Rochelle Mendonca",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "arXiv",
+   "year": "2018",
+   "type": "Preprint",
+   "url": "https://doi.org/10.48550/arXiv.1812.07613",
+   "dblp": "https://dblp.org/rec/journals/corr/abs-1812-07613.html"
+  },
+  {
+   "title": "Autonomous Surveillance Robots: A Decision-Making Framework for Networked Muiltiagent Systems",
+   "authors": [
+    {
+     "name": "Stefan J. Witwicki",
+     "me": false
+    },
+    {
+     "name": "José Carlos Castillo",
+     "me": false
+    },
+    {
+     "name": "João V. Messias",
+     "me": false
+    },
+    {
+     "name": "Jesús Capitán",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Pedro U. Lima",
+     "me": false
+    },
+    {
+     "name": "Manuela M. Veloso",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "IEEE Robotics Autom. Mag.",
+   "year": "2017",
+   "type": "Journal",
+   "url": "https://doi.org/10.1109/MRA.2017.2662222",
+   "dblp": "https://dblp.org/rec/journals/ram/WitwickiCMCMLV17.html"
+  },
+  {
+   "title": "Associate Latent Encodings in Learning from Demonstrations",
+   "authors": [
+    {
+     "name": "Hang Yin",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Aude Billard",
+     "me": false
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AAAI",
+   "year": "2017",
+   "type": "Conference",
+   "url": "https://doi.org/10.1609/aaai.v31i1.11040",
+   "dblp": "https://dblp.org/rec/conf/aaai/YinMBP17.html"
+  },
+  {
+   "title": "A Social Robot as a Card Game Player",
+   "authors": [
+    {
+     "name": "Filipa Correia",
+     "me": false
+    },
+    {
+     "name": "Patrícia Alves-Oliveira",
+     "me": false
+    },
+    {
+     "name": "Tiago Ribeiro",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AIIDE",
+   "year": "2017",
+   "type": "Conference",
+   "url": "https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15884",
+   "dblp": "https://dblp.org/rec/conf/aiide/CorreiaA0MP17.html"
+  },
+  {
+   "title": "A Conversational Agent Powered by Online Learning",
+   "authors": [
+    {
+     "name": "Vânia Mendonça",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Luísa Coheur",
+     "me": false
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS",
+   "year": "2017",
+   "type": "Conference",
+   "url": "http://dl.acm.org/citation.cfm?id=3091388",
+   "dblp": "https://dblp.org/rec/conf/atal/MendoncaMCS17.html"
+  },
+  {
+   "title": "Monte Carlo tree search experiments in hearthstone",
+   "authors": [
+    {
+     "name": "Andre Santos",
+     "me": false
+    },
+    {
+     "name": "Pedro Alexandre Santos",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "CIG",
+   "year": "2017",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/CIG.2017.8080446",
+   "dblp": "https://dblp.org/rec/conf/cig/SantosSM17.html"
+  },
+  {
+   "title": "Online Learning for Conversational Agents",
+   "authors": [
+    {
+     "name": "Vânia Mendonça",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Luísa Coheur",
+     "me": false
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "EPIA",
+   "year": "2017",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-319-65340-2_60",
+   "dblp": "https://dblp.org/rec/conf/epia/MendoncaMCS17.html"
+  },
+  {
+   "title": "Simulating Behaviors of Children with Autism Spectrum Disorders Through Reversal of the Autism Diagnosis Process",
+   "authors": [
+    {
+     "name": "Kim Baraka",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuela M. Veloso",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "EPIA",
+   "year": "2017",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-319-65340-2_61",
+   "dblp": "https://dblp.org/rec/conf/epia/BarakaMV17.html"
+  },
+  {
+   "title": "Data-driven generation of synthetic behavioral feature vectors modeling children with autism spectrum disorders",
+   "authors": [
+    {
+     "name": "Kim Baraka",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuela M. Veloso",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "ICDL-EPIROB",
+   "year": "2017",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/DEVLRN.2017.8329808",
+   "dblp": "https://dblp.org/rec/conf/icdl-epirob/BarakaMV17.html"
+  },
+  {
+   "title": "Learning and Teaching Biodiversity Through a Storyteller Robot",
+   "authors": [
+    {
+     "name": "Maria José Ferreira",
+     "me": false
+    },
+    {
+     "name": "Valentina Nisi",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "ICIDS",
+   "year": "2017",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-319-71027-3_45",
+   "dblp": "https://dblp.org/rec/conf/icids/FerreiraNMP17.html"
+  },
+  {
+   "title": "\"Me and you together\" movement impact in multi-user collaboration tasks",
+   "authors": [
+    {
+     "name": "Miguel Faria",
+     "me": false
+    },
+    {
+     "name": "Rui Silva",
+     "me": false
+    },
+    {
+     "name": "Patrícia Alves-Oliveira",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "IROS",
+   "year": "2017",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/IROS.2017.8206109",
+   "dblp": "https://dblp.org/rec/conf/iros/FariaSAMP17.html"
+  },
+  {
+   "title": "Adaptive indirect control through communication in collaborative human-robot interaction",
+   "authors": [
+    {
+     "name": "Rui Silva",
+     "me": false
+    },
+    {
+     "name": "Miguel Faria",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuela M. Veloso",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "IROS",
+   "year": "2017",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/IROS.2017.8206208",
+   "dblp": "https://dblp.org/rec/conf/iros/SilvaFMV17.html"
+  },
+  {
+   "title": "Groups of humans and robots: Understanding membership preferences and team formation",
+   "authors": [
+    {
+     "name": "Filipa Correia",
+     "me": false
+    },
+    {
+     "name": "Sofia Petisca",
+     "me": false
+    },
+    {
+     "name": "Patrícia Alves-Oliveira",
+     "me": false
+    },
+    {
+     "name": "Tiago Ribeiro",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "Robotics: Science and Systems",
+   "year": "2017",
+   "type": "Conference",
+   "url": "http://www.roboticsproceedings.org/rss13/p24.html",
+   "dblp": "https://dblp.org/rec/conf/rss/CorreiaPA0MP17.html"
+  },
+  {
+   "title": "'Autistic Robots' for Embodied Emulation of Behaviors Typically Seen in Children with Different Autism Severities",
+   "authors": [
+    {
+     "name": "Kim Baraka",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuela M. Veloso",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "ICSR",
+   "year": "2017",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-319-70022-9_11",
+   "dblp": "https://dblp.org/rec/conf/socrob/BarakaMV17.html"
+  },
+  {
+   "title": "Ad hoc teamwork by learning teammates' task",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "Auton. Agents Multi Agent Syst.",
+   "year": "2016",
+   "type": "Journal",
+   "url": "https://doi.org/10.1007/s10458-015-9280-x",
+   "dblp": "https://dblp.org/rec/journals/aamas/MeloS16.html"
+  },
+  {
+   "title": "Me and You Together: A Study on Collaboration in Manipulation Tasks",
+   "authors": [
+    {
+     "name": "Miguel Faria",
+     "me": false
+    },
+    {
+     "name": "Rui Silva",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AAAI Fall Symposia",
+   "year": "2016",
+   "type": "Conference",
+   "url": "http://aaai.org/ocs/index.php/FSS/FSS16/paper/view/14111",
+   "dblp": "https://dblp.org/rec/conf/aaaifs/FariaSMP16.html"
+  },
+  {
+   "title": "Dynamics of Fairness in Groups of Autonomous Learning Agents",
+   "authors": [
+    {
+     "name": "Fernando P. Santos",
+     "me": false
+    },
+    {
+     "name": "Francisco C. Santos",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    },
+    {
+     "name": "Jorge M. Pacheco",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS Workshops (Selected Papers)",
+   "year": "2016",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-319-46882-2_7",
+   "dblp": "https://dblp.org/rec/conf/atal/SantosSMPP16a.html"
+  },
+  {
+   "title": "Emergence of Emotional Appraisal Signals in Reinforcement Learning Agents",
+   "authors": [
+    {
+     "name": "Pedro Sequeira",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS",
+   "year": "2016",
+   "type": "Conference",
+   "url": "http://dl.acm.org/citation.cfm?id=2936992",
+   "dblp": "https://dblp.org/rec/conf/atal/SequeiraMP16.html"
+  },
+  {
+   "title": "Ad Hoc Teamwork by Learning Teammates' Task",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Alberto Sardinha",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS",
+   "year": "2016",
+   "type": "Conference",
+   "url": "http://dl.acm.org/citation.cfm?id=2937009",
+   "dblp": "https://dblp.org/rec/conf/atal/MeloS16.html"
+  },
+  {
+   "title": "Learning to be Fair in Multiplayer Ultimatum Games: (Extended Abstract)",
+   "authors": [
+    {
+     "name": "Fernando P. Santos",
+     "me": false
+    },
+    {
+     "name": "Francisco C. Santos",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    },
+    {
+     "name": "Jorge M. Pacheco",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS",
+   "year": "2016",
+   "type": "Conference",
+   "url": "http://dl.acm.org/citation.cfm?id=2937170",
+   "dblp": "https://dblp.org/rec/conf/atal/SantosSMPP16.html"
+  },
+  {
+   "title": "Rapidly-Exploring Random Tree approach for Geometry Friends",
+   "authors": [
+    {
+     "name": "Rui Soares",
+     "me": false
+    },
+    {
+     "name": "Francisco Leal",
+     "me": false
+    },
+    {
+     "name": "Rui Prada",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "DiGRA/FDG",
+   "year": "2016",
+   "type": "Conference",
+   "url": "https://dl.digra.org/index.php/dl/article/view/782",
+   "dblp": "https://dblp.org/rec/conf/digra/SoaresLPM16.html"
+  },
+  {
+   "title": "Adaptive Symbiotic Collaboration for Targeted Complex Manipulation Tasks",
+   "authors": [
+    {
+     "name": "Rui Silva",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuela M. Veloso",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "ECAI",
+   "year": "2016",
+   "type": "Conference",
+   "url": "https://doi.org/10.3233/978-1-61499-672-9-863",
+   "dblp": "https://dblp.org/rec/conf/ecai/SilvaMV16.html"
+  },
+  {
+   "title": "Discovering Social Interaction Strategies for Robots from Restricted-Perception Wizard-of-Oz Studies",
+   "authors": [
+    {
+     "name": "Pedro Sequeira",
+     "me": false
+    },
+    {
+     "name": "Patrícia Alves-Oliveira",
+     "me": false
+    },
+    {
+     "name": "Tiago Ribeiro",
+     "me": false
+    },
+    {
+     "name": "Eugenio Di Tullio",
+     "me": false
+    },
+    {
+     "name": "Sofia Petisca",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ginevra Castellano",
+     "me": false
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "HRI",
+   "year": "2016",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/HRI.2016.7451752",
+   "dblp": "https://dblp.org/rec/conf/hri/SequeiraA0TPMCP16.html"
+  },
+  {
+   "title": "Building a Social Robot as a Game Companion in a Card Game",
+   "authors": [
+    {
+     "name": "Filipa Correia",
+     "me": false
+    },
+    {
+     "name": "Tiago Ribeiro",
+     "me": false
+    },
+    {
+     "name": "Patrícia Alves-Oliveira",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "HRI",
+   "year": "2016",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/HRI.2016.7451857",
+   "dblp": "https://dblp.org/rec/conf/hri/Correia0AMP16.html"
+  },
+  {
+   "title": "Synthesizing Robotic Handwriting Motion by Learning from Human Demonstrations",
+   "authors": [
+    {
+     "name": "Hang Yin",
+     "me": false
+    },
+    {
+     "name": "Patrícia Alves-Oliveira",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Aude Billard",
+     "me": false
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "IJCAI",
+   "year": "2016",
+   "type": "Conference",
+   "url": "http://www.ijcai.org/Abstract/16/498",
+   "dblp": "https://dblp.org/rec/conf/ijcai/YinAMBP16.html"
+  },
+  {
+   "title": "An Interactive Tangram Game for Children with Autism",
+   "authors": [
+    {
+     "name": "Beatriz Bernardo",
+     "me": false
+    },
+    {
+     "name": "Patrícia Alves-Oliveira",
+     "me": false
+    },
+    {
+     "name": "Maria Graça Santos",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "IVA",
+   "year": "2016",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-319-47665-0_63",
+   "dblp": "https://dblp.org/rec/conf/iva/BernardoASMP16.html"
+  },
+  {
+   "title": "Just follow the suit! Trust in human-robot interactions during card game playing",
+   "authors": [
+    {
+     "name": "Filipa Correia",
+     "me": false
+    },
+    {
+     "name": "Patrícia Alves-Oliveira",
+     "me": false
+    },
+    {
+     "name": "Nuno Maia",
+     "me": false
+    },
+    {
+     "name": "Tiago Ribeiro",
+     "me": false
+    },
+    {
+     "name": "Sofia Petisca",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "RO-MAN",
+   "year": "2016",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/ROMAN.2016.7745165",
+   "dblp": "https://dblp.org/rec/conf/ro-man/CorreiaAM0PMP16.html"
+  },
+  {
+   "title": "Emergence of emotional appraisal signals in reinforcement learning agents",
+   "authors": [
+    {
+     "name": "Pedro Sequeira",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "Auton. Agents Multi Agent Syst.",
+   "year": "2015",
+   "type": "Journal",
+   "url": "https://doi.org/10.1007/s10458-014-9262-4",
+   "dblp": "https://dblp.org/rec/journals/aamas/SequeiraMP15.html"
+  },
+  {
+   "title": "\"It's Amazing, We Are All Feeling It!\" - Emotional Climate as a Group-Level Emotional Expression in HRI",
+   "authors": [
+    {
+     "name": "Patrícia Alves-Oliveira",
+     "me": false
+    },
+    {
+     "name": "Pedro Sequeira",
+     "me": false
+    },
+    {
+     "name": "Eugenio Di Tullio",
+     "me": false
+    },
+    {
+     "name": "Sofia Petisca",
+     "me": false
+    },
+    {
+     "name": "Carla Guerra",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AAAI Fall Symposia",
+   "year": "2015",
+   "type": "Conference",
+   "url": "http://www.aaai.org/ocs/index.php/FSS/FSS15/paper/view/11692",
+   "dblp": "https://dblp.org/rec/conf/aaaifs/Alves-OliveiraS15.html"
+  },
+  {
+   "title": "Modeling Students Self-Studies Behaviors",
+   "authors": [
+    {
+     "name": "Pedro Mota",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Luísa Coheur",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS",
+   "year": "2015",
+   "type": "Conference",
+   "url": "http://dl.acm.org/citation.cfm?id=2773346",
+   "dblp": "https://dblp.org/rec/conf/atal/MotaMC15.html"
+  },
+  {
+   "title": "The \"Favors Game\": A Framework to Study the Emergence of Cooperation through Social Importance",
+   "authors": [
+    {
+     "name": "Pedro Sequeira",
+     "me": false
+    },
+    {
+     "name": "Samuel Mascarenhas",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS",
+   "year": "2015",
+   "type": "Conference",
+   "url": "http://dl.acm.org/citation.cfm?id=2773493",
+   "dblp": "https://dblp.org/rec/conf/atal/SequeiraMMP15.html"
+  },
+  {
+   "title": "\"Let's save resources!\": A dynamic, collaborative AI for a multiplayer environmental awareness game",
+   "authors": [
+    {
+     "name": "Pedro Sequeira",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "CIG",
+   "year": "2015",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/CIG.2015.7317952",
+   "dblp": "https://dblp.org/rec/conf/cig/SequeiraMP15.html"
+  },
+  {
+   "title": "A reinforcement learning approach for the circle agent of geometry friends",
+   "authors": [
+    {
+     "name": "Joao Quiterio",
+     "me": false
+    },
+    {
+     "name": "Rui Prada",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "CIG",
+   "year": "2015",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/CIG.2015.7317938",
+   "dblp": "https://dblp.org/rec/conf/cig/QuiterioPM15.html"
+  },
+  {
+   "title": "The geometry friends game AI competition",
+   "authors": [
+    {
+     "name": "Rui Prada",
+     "me": false
+    },
+    {
+     "name": "Phil Lopes",
+     "me": false
+    },
+    {
+     "name": "Joao Catarino",
+     "me": false
+    },
+    {
+     "name": "Joao Quiterio",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "CIG",
+   "year": "2015",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/CIG.2015.7317949",
+   "dblp": "https://dblp.org/rec/conf/cig/PradaLCQM15.html"
+  },
+  {
+   "title": "The development of cooperation in evolving populations through social importance",
+   "authors": [
+    {
+     "name": "Pedro Sequeira",
+     "me": false
+    },
+    {
+     "name": "Samuel Mascarenhas",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "ICDL-EPIROB",
+   "year": "2015",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/DEVLRN.2015.7346163",
+   "dblp": "https://dblp.org/rec/conf/icdl-epirob/SequeiraMMP15.html"
+  },
+  {
+   "title": "Towards table tennis with a quadrotor autonomous learning robot and onboard vision",
+   "authors": [
+    {
+     "name": "Rui Silva",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuela M. Veloso",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "IROS",
+   "year": "2015",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/IROS.2015.7353441",
+   "dblp": "https://dblp.org/rec/conf/iros/SilvaMV15.html"
+  },
+  {
+   "title": "An Empathic Robotic Tutor for School Classrooms: Considering Expectation and Satisfaction of Children as End-Users",
+   "authors": [
+    {
+     "name": "Patrícia Alves-Oliveira",
+     "me": false
+    },
+    {
+     "name": "Tiago Ribeiro",
+     "me": false
+    },
+    {
+     "name": "Sofia Petisca",
+     "me": false
+    },
+    {
+     "name": "Eugenio Di Tullio",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "ICSR",
+   "year": "2015",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-319-25554-5_3",
+   "dblp": "https://dblp.org/rec/conf/socrob/Alves-Oliveira015.html"
+  },
+  {
+   "title": "Personalized Assistance for Dressing Users",
+   "authors": [
+    {
+     "name": "Steven D. Klee",
+     "me": false
+    },
+    {
+     "name": "Beatriz Quintino Ferreira",
+     "me": false
+    },
+    {
+     "name": "Rui Silva",
+     "me": false
+    },
+    {
+     "name": "João Paulo Costeira",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuela M. Veloso",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "ICSR",
+   "year": "2015",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-319-25554-5_36",
+   "dblp": "https://dblp.org/rec/conf/socrob/KleeFSCMV15.html"
+  },
+  {
+   "title": "Learning by appraising: an emotion-based approach to intrinsic reward design",
+   "authors": [
+    {
+     "name": "Pedro Sequeira",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "Adapt. Behav.",
+   "year": "2014",
+   "type": "Journal",
+   "url": "https://doi.org/10.1177/1059712314543837",
+   "dblp": "https://dblp.org/rec/journals/adb/SequeiraMP14.html"
+  },
+  {
+   "title": "A testbed for autonomous robot surveillance",
+   "authors": [
+    {
+     "name": "Stefan J. Witwicki",
+     "me": false
+    },
+    {
+     "name": "José Carlos Castillo",
+     "me": false
+    },
+    {
+     "name": "Jesús Capitán",
+     "me": false
+    },
+    {
+     "name": "João V. Messias",
+     "me": false
+    },
+    {
+     "name": "João C. G. Reis",
+     "me": false
+    },
+    {
+     "name": "Pedro U. Lima",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Matthijs T. J. Spaan",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS",
+   "year": "2014",
+   "type": "Conference",
+   "url": "http://dl.acm.org/citation.cfm?id=2616100",
+   "dblp": "https://dblp.org/rec/conf/atal/WitwickiCCMRLMS14.html"
+  },
+  {
+   "title": "The influence of social display in competitive multiagent learning",
+   "authors": [
+    {
+     "name": "Pedro Sequeira",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "ICDL-EPIROB",
+   "year": "2014",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/DEVLRN.2014.6982954",
+   "dblp": "https://dblp.org/rec/conf/icdl-epirob/SequeiraMP14.html"
+  },
+  {
+   "title": "A Flexible Approach to Modeling Unpredictable Events in MDPs",
+   "authors": [
+    {
+     "name": "Stefan J. Witwicki",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Jesús Capitán",
+     "me": false
+    },
+    {
+     "name": "Matthijs T. J. Spaan",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "ICAPS",
+   "year": "2013",
+   "type": "Conference",
+   "url": "http://www.aaai.org/ocs/index.php/ICAPS/ICAPS13/paper/view/6055",
+   "dblp": "https://dblp.org/rec/conf/aips/WitwickiMCS13.html"
+  },
+  {
+   "title": "Towards agents with human-like decisions under uncertainty",
+   "authors": [
+    {
+     "name": "Nuno Marques",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Samuel Mascarenhas",
+     "me": false
+    },
+    {
+     "name": "João Dias",
+     "me": false
+    },
+    {
+     "name": "Rui Prada",
+     "me": false
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "CogSci",
+   "year": "2013",
+   "type": "Conference",
+   "url": "https://escholarship.org/uc/item/4hk048s0",
+   "dblp": "https://dblp.org/rec/conf/cogsci/MarquesMMDPP13.html"
+  },
+  {
+   "title": "An Associative State-Space Metric for Learning in Factored MDPs",
+   "authors": [
+    {
+     "name": "Pedro Sequeira",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "EPIA",
+   "year": "2013",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-642-40669-0_15",
+   "dblp": "https://dblp.org/rec/conf/epia/SequeiraMP13.html"
+  },
+  {
+   "title": "Multi-class Generalized Binary Search for Active Inverse Reinforcement Learning",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuel Lopes",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "arXiv",
+   "year": "2013",
+   "type": "Preprint",
+   "url": "https://doi.org/10.48550/arXiv.1301.5488",
+   "dblp": "https://dblp.org/rec/journals/corr/abs-1301-5488.html"
+  },
+  {
+   "title": "Decentralized MDPs with sparse interactions",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuela M. Veloso",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "Artif. Intell.",
+   "year": "2011",
+   "type": "Journal",
+   "url": "https://doi.org/10.1016/j.artint.2011.05.001",
+   "dblp": "https://dblp.org/rec/journals/ai/MeloV11.html"
+  },
+  {
+   "title": "Differential Eligibility Vectors for Advantage Updating and Gradient Methods",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "AAAI",
+   "year": "2011",
+   "type": "Conference",
+   "url": "https://doi.org/10.1609/aaai.v25i1.7938",
+   "dblp": "https://dblp.org/rec/conf/aaai/Melo11.html"
+  },
+  {
+   "title": "Emotion-Based Intrinsic Motivation for Reinforcement Learning Agents",
+   "authors": [
+    {
+     "name": "Pedro Sequeira",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "ACII (1)",
+   "year": "2011",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-642-24600-5_36",
+   "dblp": "https://dblp.org/rec/conf/acii/SequeiraMP11.html"
+  },
+  {
+   "title": "QueryPOMDP: POMDP-Based Communication in Multiagent Systems",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Matthijs T. J. Spaan",
+     "me": false
+    },
+    {
+     "name": "Stefan J. Witwicki",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "EUMAS",
+   "year": "2011",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-642-34799-3_13",
+   "dblp": "https://dblp.org/rec/conf/eumas/MeloSW11.html"
+  },
+  {
+   "title": "Emerging social awareness: Exploring intrinsic motivation in multiagent learning",
+   "authors": [
+    {
+     "name": "Pedro Sequeira",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Rui Prada",
+     "me": false
+    },
+    {
+     "name": "Ana Paiva",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "ICDL-EPIROB",
+   "year": "2011",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/DEVLRN.2011.6037325",
+   "dblp": "https://dblp.org/rec/conf/icdl-epirob/SequeiraMPP11.html"
+  },
+  {
+   "title": "Coordinated learning in multiagent MDPs with infinite state-space",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "M. Isabel Ribeiro",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "Auton. Agents Multi Agent Syst.",
+   "year": "2010",
+   "type": "Journal",
+   "url": "https://doi.org/10.1007/s10458-009-9104-y",
+   "dblp": "https://dblp.org/rec/journals/aamas/MeloR10.html"
+  },
+  {
+   "title": "Approximate planning for decentralized MDPs with sparse interactions",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuela M. Veloso",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS",
+   "year": "2010",
+   "type": "Conference",
+   "url": "https://dl.acm.org/citation.cfm?id=1838396",
+   "dblp": "https://dblp.org/rec/conf/atal/MeloV10.html"
+  },
+  {
+   "title": "Heuristic Planning for Decentralized MDPs with Sparse Interactions",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuela M. Veloso",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "DARS",
+   "year": "2010",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-642-32723-0_24",
+   "dblp": "https://dblp.org/rec/conf/dars/MeloV10.html"
+  },
+  {
+   "title": "Analysis of Inverse Reinforcement Learning with Perturbed Demonstrations",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuel Lopes",
+     "me": false
+    },
+    {
+     "name": "Ricardo Ferreira",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "ECAI",
+   "year": "2010",
+   "type": "Conference",
+   "url": "http://www.booksonline.iospress.nl/Content/View.aspx?piid=17771",
+   "dblp": "https://dblp.org/rec/conf/ecai/MeloLF10.html"
+  },
+  {
+   "title": "Learning from Demonstration Using MDP Induced Metrics",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuel Lopes",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "ECML/PKDD (2)",
+   "year": "2010",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-642-15883-4_25",
+   "dblp": "https://dblp.org/rec/conf/pkdd/MeloL10.html"
+  },
+  {
+   "title": "Abstraction Levels for Robotic Imitation: Overview and Computational Approaches",
+   "authors": [
+    {
+     "name": "Manuel Lopes",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Luis Montesano",
+     "me": false
+    },
+    {
+     "name": "José Santos-Victor",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "From Motor Learning to Interaction Learning in Robots",
+   "year": "2010",
+   "type": "Chapter",
+   "url": "https://doi.org/10.1007/978-3-642-05181-4_14",
+   "dblp": "https://dblp.org/rec/series/sci/LopesMMS10.html"
+  },
+  {
+   "title": "A Computational Model of Social-Learning Mechanisms",
+   "authors": [
+    {
+     "name": "Manuel Lopes",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Ben Kenward",
+     "me": false
+    },
+    {
+     "name": "José Santos-Victor",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "Adapt. Behav.",
+   "year": "2009",
+   "type": "Journal",
+   "url": "https://doi.org/10.1177/1059712309342757",
+   "dblp": "https://dblp.org/rec/journals/adb/LopesMKS09.html"
+  },
+  {
+   "title": "Learning of coordination: exploiting sparse interactions in multiagent systems",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuela M. Veloso",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS (2)",
+   "year": "2009",
+   "type": "Conference",
+   "url": "https://dl.acm.org/citation.cfm?id=1558118",
+   "dblp": "https://dblp.org/rec/conf/atal/MeloV09.html"
+  },
+  {
+   "title": "Active Learning for Reward Estimation in Inverse Reinforcement Learning",
+   "authors": [
+    {
+     "name": "Manuel Lopes",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Luis Montesano",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "ECML/PKDD (2)",
+   "year": "2009",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-642-04174-7_3",
+   "dblp": "https://dblp.org/rec/conf/pkdd/LopesMM09.html"
+  },
+  {
+   "title": "Emerging coordination in infinite team Markov games",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "M. Isabel Ribeiro",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS (1)",
+   "year": "2008",
+   "type": "Conference",
+   "url": "https://dl.acm.org/citation.cfm?id=1402436",
+   "dblp": "https://dblp.org/rec/conf/atal/MeloR08.html"
+  },
+  {
+   "title": "Interaction-driven Markov games for decentralized multiagent planning under uncertainty",
+   "authors": [
+    {
+     "name": "Matthijs T. J. Spaan",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "AAMAS (1)",
+   "year": "2008",
+   "type": "Conference",
+   "url": "https://dl.acm.org/citation.cfm?id=1402458",
+   "dblp": "https://dblp.org/rec/conf/atal/SpaanM08.html"
+  },
+  {
+   "title": "Exploiting locality of interactions using a policy-gradient approach in multiagent learning",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    }
+   ],
+   "editors": false,
+   "venue": "ECAI",
+   "year": "2008",
+   "type": "Conference",
+   "url": "https://doi.org/10.3233/978-1-58603-891-5-157",
+   "dblp": "https://dblp.org/rec/conf/ecai/Melo08.html"
+  },
+  {
+   "title": "An analysis of reinforcement learning with function approximation",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Sean P. Meyn",
+     "me": false
+    },
+    {
+     "name": "M. Isabel Ribeiro",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "ICML",
+   "year": "2008",
+   "type": "Conference",
+   "url": "https://doi.org/10.1145/1390156.1390240",
+   "dblp": "https://dblp.org/rec/conf/icml/MeloMR08.html"
+  },
+  {
+   "title": "Reinforcement learning with function approximation for cooperative navigation tasks",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "M. Isabel Ribeiro",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "ICRA",
+   "year": "2008",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/ROBOT.2008.4543717",
+   "dblp": "https://dblp.org/rec/conf/icra/MeloR08.html"
+  },
+  {
+   "title": "Fitted Natural Actor-Critic: A New Algorithm for Continuous State-Action MDPs",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuel Lopes",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "ECML/PKDD (2)",
+   "year": "2008",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-540-87481-2_5",
+   "dblp": "https://dblp.org/rec/conf/pkdd/MeloL08.html"
+  },
+  {
+   "title": "Q -Learning with Linear Function Approximation",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "M. Isabel Ribeiro",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "COLT",
+   "year": "2007",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-540-72927-3_23",
+   "dblp": "https://dblp.org/rec/conf/colt/MeloR07.html"
+  },
+  {
+   "title": "Convergence of Independent Adaptive Learners",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Manuel C. Lopes",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "EPIA Workshops",
+   "year": "2007",
+   "type": "Conference",
+   "url": "https://doi.org/10.1007/978-3-540-77002-2_47",
+   "dblp": "https://dblp.org/rec/conf/epia/MeloL07.html"
+  },
+  {
+   "title": "Affordance-based imitation learning in robots",
+   "authors": [
+    {
+     "name": "Manuel Lopes",
+     "me": false
+    },
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "Luis Montesano",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "IROS",
+   "year": "2007",
+   "type": "Conference",
+   "url": "https://doi.org/10.1109/IROS.2007.4399517",
+   "dblp": "https://dblp.org/rec/conf/iros/LopesMM07.html"
+  },
+  {
+   "title": "Transition Entropy in Partially Observable Markov Decision Processes",
+   "authors": [
+    {
+     "name": "Francisco S. Melo",
+     "me": true
+    },
+    {
+     "name": "M. Isabel Ribeiro",
+     "me": false
+    }
+   ],
+   "editors": false,
+   "venue": "IAS",
+   "year": "2006",
+   "type": "Conference",
+   "url": "",
+   "dblp": "https://dblp.org/rec/conf/ias/MeloR06.html"
+  }
+ ]
+}
