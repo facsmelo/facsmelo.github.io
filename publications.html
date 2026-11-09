@@ -18,6 +18,8 @@
       .pub-links { margin-top: 6px; font-size: 0.85em; }
       .pub-links a { margin-right: 15px; font-weight: bold; color: #007acc; text-decoration: none; }
       #status-msg { font-style: italic; color: #666; background: #fafafa; padding: 15px; border: 1px dashed #ccc; border-radius: 4px; }
+      .pub-year { margin: 2.2rem 0 1rem; padding-bottom: 0.3rem; border-bottom: 1px solid #ddd; color: #222; }
+      .pub-year:first-child { margin-top: 0; }
       .pub-source { font-size: 0.8em; color: #888; margin-top: 2rem; }
     </style>
   </head>
@@ -68,8 +70,12 @@
       }
 
       function render(items) {
-        var html = "";
+        var html = "", lastYear = null;
         items.forEach(function (p) {
+          if (p.year !== lastYear) {
+            html += '<h3 class="pub-year">' + esc(p.year) + '</h3>';
+            lastYear = p.year;
+          }
           html += '<div class="pub-item"><span class="pub-title">' + esc(p.title) + '</span>' +
                   '<span class="pub-authors">' + authorList(p) + '</span>' +
                   '<span class="pub-venue"><span class="pub-tag">' + esc(p.type) + '</span>' +
