@@ -59,6 +59,27 @@ def fetch_dblp():
     sys.exit("Could not download DBLP data:\n  " + "\n  ".join(errors))
 
 
+def fetch_bibtex():
+    """DBLP's standard BibTeX for all publications (one request). Returns {dblp_key: entry}, or None on failure."""
+    for url in (f"https://dblp.org/pid/{PID}.bib?param=1", f"https://dblp.uni-trier.de/pid/{PID}.bib?param=1"):
+        try:
+            text = get(url)
+            if "@" in text[:500] and "DBLP:" in text[:500]:
+                return split_bibtex(text)
+        except Exception as e:  # noqa: BLE001
+            print(f"BibTeX download failed from {url}: {e}")
+    return None
+
+
+def split_bibtex(text):
+    entries = {}
+    for m in re.finditer(r"^@\w+\{DBLP:([^,]+),\n.*?^\}$", text, re.M | re.S):
+        entry = "\n".join(line for line in m.group(0).splitlines()
+                          if not re.match(r"\s*(timestamp|biburl|bibsource)\s*=", line))
+        entries[m.group(1)] = entry
+    return entries
+
+
 def fetch_open_access_pdfs(dois):
     """Map lower-case DOI -> URL of a free PDF, using OpenAlex. Returns {} if OpenAlex is unreachable."""
     found = {}
@@ -197,6 +218,14 @@ def main():
     pubs = parse(fetch_dblp())
     if len(pubs) < 20:  # a sanity check against a broken or truncated download
         sys.exit(f"Only {len(pubs)} publications parsed; refusing to overwrite {OUT.name}.")
+
+    # Attach a BibTeX entry to each paper; if DBLP's BibTeX export fails, keep last week's entries.
+    bibs = fetch_bibtex()
+    if bibs is None and OUT.exists():
+        old = json.loads(OUT.read_text(encoding="utf-8")).get("publications", [])
+        bibs = {p["key"]: p["bib"] for p in old if p.get("bib")}
+    for p in pubs:
+        p["bib"] = (bibs or {}).get(p["key"], "")
     data = {
         "source": f"https://dblp.org/pid/{PID}.html",
         "checked": datetime.now(timezone.utc).strftime("%Y-%m-%d"),

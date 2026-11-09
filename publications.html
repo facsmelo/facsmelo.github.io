@@ -18,6 +18,9 @@
       .pub-links { margin-top: 6px; font-size: 0.85em; }
       .pub-links a { margin-right: 15px; font-weight: bold; color: #007acc; text-decoration: none; }
       #status-msg { font-style: italic; color: #666; background: #fafafa; padding: 15px; border: 1px dashed #ccc; border-radius: 4px; }
+      .pub-bib { position: relative; margin-top: 8px; }
+      .pub-bib pre { font-size: 0.75em; background: #fafafa; border: 1px solid #eee; border-radius: 4px; padding: 10px; overflow-x: auto; white-space: pre; margin: 0; }
+      .pub-bib button { position: absolute; top: 6px; right: 6px; font-size: 0.75em; padding: 2px 8px; border: 1px solid #ddd; border-radius: 3px; background: #fff; color: #555; cursor: pointer; }
       .pub-year { margin: 2.2rem 0 1rem; padding-bottom: 0.3rem; border-bottom: 1px solid #ddd; color: #222; }
       .pub-year:first-child { margin-top: 0; }
       .pub-source { font-size: 0.8em; color: #888; margin-top: 2rem; }
@@ -80,12 +83,29 @@
                   '<span class="pub-authors">' + authorList(p) + '</span>' +
                   '<span class="pub-venue"><span class="pub-tag">' + esc(p.type) + '</span>' +
                   esc(p.venue ? p.venue + ", " + p.year : p.year) + '</span>' +
-                  (p.pdf ? '<div class="pub-links"><a href="' + esc(p.pdf) + '" target="_blank" rel="noopener">[PDF]</a></div>'
-                   : p.url ? '<div class="pub-links"><a href="' + esc(p.url) + '" target="_blank" rel="noopener">[Publisher]</a></div>' : '') +
+                  '<div class="pub-links">' +
+                  (p.pdf ? '<a href="' + esc(p.pdf) + '" target="_blank" rel="noopener">[PDF]</a>'
+                   : p.url ? '<a href="' + esc(p.url) + '" target="_blank" rel="noopener">[Publisher]</a>' : '') +
+                  (p.bib ? '<a href="#" onclick="return toggleBib(this)">[BibTeX]</a>' : '') +
+                  '</div>' +
+                  (p.bib ? '<div class="pub-bib" hidden><button type="button" onclick="copyBib(this)">Copy</button><pre>' +
+                   esc(p.bib) + '</pre></div>' : '') +
                   '</div>';
         });
         document.getElementById("pub-list-container").innerHTML = html ||
           '<p><em>No publications match your search.</em></p>';
+      }
+
+      function toggleBib(link) {
+        var box = link.parentNode.nextElementSibling;
+        box.hidden = !box.hidden;
+        return false;
+      }
+
+      function copyBib(button) {
+        var text = button.nextElementSibling.textContent;
+        var done = function () { button.textContent = "Copied"; setTimeout(function () { button.textContent = "Copy"; }, 1500); };
+        if (navigator.clipboard) { navigator.clipboard.writeText(text).then(done, function () {}); }
       }
 
       function applyFilters() {

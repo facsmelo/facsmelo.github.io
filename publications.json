@@ -40,7 +40,8 @@
    "year": "2026",
    "type": "Conference",
    "url": "https://doi.org/10.1609/aaai.v40i47.41409",
-   "pdf": "https://ojs.aaai.org/index.php/AAAI/article/download/41409/45370"
+   "pdf": "https://ojs.aaai.org/index.php/AAAI/article/download/41409/45370",
+   "bib": "@inproceedings{DBLP:conf/aaai/SantosCVSSPM26,\n  author       = {Pedro P. Santos and\n                  Diogo S. Carvalho and\n                  Miguel Vasco and\n                  Alberto Sardinha and\n                  Pedro A. Santos and\n                  Ana Paiva and\n                  Francisco S. Melo},\n  editor       = {Sven Koenig and\n                  Chad Jenkins and\n                  Matthew E. Taylor},\n  title        = {Centralized Training with Hybrid Execution in Multi-Agent Reinforcement\n                  Learning via Predictive Observation Imputation (Abstract Reprint)},\n  booktitle    = {Fortieth {AAAI} Conference on Artificial Intelligence, Thirty-Eighth\n                  Conference on Innovative Applications of Artificial Intelligence,\n                  Sixteenth Symposium on Educational Advances in Artificial Intelligence,\n                  {AAAI} 2026, Singapore, January 20-27, 2026},\n  pages        = {39894},\n  publisher    = {{AAAI} Press},\n  year         = {2026},\n  url          = {https://doi.org/10.1609/aaai.v40i47.41409},\n  doi          = {10.1609/AAAI.V40I47.41409},\n}"
   },
   {
    "key": "conf/hhai/RibeiroOSSM26",
@@ -72,7 +73,8 @@
    "year": "2026",
    "type": "Conference",
    "url": "https://doi.org/10.3233/FAIA260495",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/hhai/RibeiroOSSM26,\n  author       = {Jo{\\~{a}}o G. Ribeiro and\n                  Yaniv Oren and\n                  Alberto Sardinha and\n                  Matthijs T. J. Spaan and\n                  Francisco S. Melo},\n  editor       = {Maryam Alimardani and\n                  Tom Lenaerts and\n                  Andr{\\'{e}} Meyer{-}Vitali and\n                  Ann Now{\\'{e}} and\n                  Joost Vennekens and\n                  Shenghui Wang},\n  title        = {RecBayes: Scalable Ad Hoc Teamwork Without Privileged Information},\n  booktitle    = {{HHAI} 2026 - Proceedings of the 5th International Conference on Hybrid\n                  Human-Artificial Intelligence, Brussels, Belgium, July 6-10, 2026},\n  series       = {Frontiers in Artificial Intelligence and Applications},\n  volume       = {423},\n  pages        = {92--106},\n  publisher    = {{IOS} Press},\n  year         = {2026},\n  url          = {https://doi.org/10.3233/FAIA260495},\n  doi          = {10.3233/FAIA260495},\n}"
   },
   {
    "key": "conf/iclr/SantosSM26",
@@ -96,7 +98,8 @@
    "year": "2026",
    "type": "Conference",
    "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/3853f7b92d82318f03567a4f7f128227-Abstract-Conference.html",
-   "pdf": "https://arxiv.org/pdf/2505.15782"
+   "pdf": "https://arxiv.org/pdf/2505.15782",
+   "bib": "@inproceedings{DBLP:conf/iclr/SantosSM26,\n  author       = {Pedro Santos and\n                  Alberto Sardinha and\n                  Francisco S. Melo},\n  editor       = {Carl Vondrick and\n                  Bharath Hariharan and\n                  Colin Raffel and\n                  Lerrel Pinto and\n                  Diyi Yang and\n                  Aleksandra Faust},\n  title        = {Solving General-Utility Markov Decision Processes in the Single-Trial\n                  Regime with Online Planning},\n  booktitle    = {The Fourteenth International Conference on Learning Representations,\n                  {ICLR} 2026, Rio de Janeiro, Brazil, April 23-27, 2026},\n  publisher    = {proceedings.iclr.cc},\n  year         = {2026},\n  url          = {https://proceedings.iclr.cc/paper\\_files/paper/2026/hash/3853f7b92d82318f03567a4f7f128227-Abstract-Conference.html},\n}"
   },
   {
    "key": "journals/corr/abs-2601-17667",
@@ -124,7 +127,8 @@
    "year": "2026",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.2601.17667",
-   "pdf": "https://arxiv.org/pdf/2601.17667"
+   "pdf": "https://arxiv.org/pdf/2601.17667",
+   "bib": "@article{DBLP:journals/corr/abs-2601-17667,\n  author       = {Pedro P. Santos and\n                  Jacopo Silvestrin and\n                  Alberto Sardinha and\n                  Francisco S. Melo},\n  title        = {Entropic Risk-Aware Monte Carlo Tree Search},\n  journal      = {CoRR},\n  volume       = {abs/2601.17667},\n  year         = {2026},\n  url          = {https://doi.org/10.48550/arXiv.2601.17667},\n  doi          = {10.48550/ARXIV.2601.17667},\n  eprinttype   = {arXiv},\n  eprint       = {2601.17667},\n}"
   },
   {
    "key": "journals/corr/abs-2607-09298",
@@ -152,7 +156,8 @@
    "year": "2026",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.2607.09298",
-   "pdf": "https://arxiv.org/pdf/2607.09298"
+   "pdf": "https://arxiv.org/pdf/2607.09298",
+   "bib": "@article{DBLP:journals/corr/abs-2607-09298,\n  author       = {Pedro P. Santos and\n                  F{\\'{a}}bio Vital and\n                  Alberto Sardinha and\n                  Francisco S. Melo},\n  title        = {Risk-Aware General-Utility Markov Decision Processes},\n  journal      = {CoRR},\n  volume       = {abs/2607.09298},\n  year         = {2026},\n  url          = {https://doi.org/10.48550/arXiv.2607.09298},\n  doi          = {10.48550/ARXIV.2607.09298},\n  eprinttype   = {arXiv},\n  eprint       = {2607.09298},\n}"
   },
   {
    "key": "journals/ai/CarvalhoSM25",
@@ -176,7 +181,8 @@
    "year": "2025",
    "type": "Journal",
    "url": "https://doi.org/10.1016/j.artint.2025.104382",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@article{DBLP:journals/ai/CarvalhoSM25,\n  author       = {Diogo S. Carvalho and\n                  Pedro A. Santos and\n                  Francisco S. Melo},\n  title        = {Reinforcement learning in convergently non-stationary environments:\n                  Feudal hierarchies and learned representations},\n  journal      = {Artif. Intell.},\n  volume       = {347},\n  pages        = {104382},\n  year         = {2025},\n  url          = {https://doi.org/10.1016/j.artint.2025.104382},\n  doi          = {10.1016/J.ARTINT.2025.104382},\n}"
   },
   {
    "key": "journals/ai/SantosCVSSPM25",
@@ -216,7 +222,8 @@
    "year": "2025",
    "type": "Journal",
    "url": "https://doi.org/10.1016/j.artint.2025.104404",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@article{DBLP:journals/ai/SantosCVSSPM25,\n  author       = {Pedro P. Santos and\n                  Diogo S. Carvalho and\n                  Miguel Vasco and\n                  Alberto Sardinha and\n                  Pedro A. Santos and\n                  Ana Paiva and\n                  Francisco S. Melo},\n  title        = {Centralized training with hybrid execution in multi-agent reinforcement\n                  learning via predictive observation imputation},\n  journal      = {Artif. Intell.},\n  volume       = {348},\n  pages        = {104404},\n  year         = {2025},\n  url          = {https://doi.org/10.1016/j.artint.2025.104404},\n  doi          = {10.1016/J.ARTINT.2025.104404},\n}"
   },
   {
    "key": "journals/npjdm/AlbersMNKB25",
@@ -248,7 +255,8 @@
    "year": "2025",
    "type": "Journal",
    "url": "https://doi.org/10.1038/s41746-025-01701-3",
-   "pdf": "https://www.nature.com/articles/s41746-025-01701-3.pdf"
+   "pdf": "https://www.nature.com/articles/s41746-025-01701-3.pdf",
+   "bib": "@article{DBLP:journals/npjdm/AlbersMNKB25,\n  author       = {Nele Albers and\n                  Francisco S. Melo and\n                  Mark A. Neerincx and\n                  Olya Kudina and\n                  Willem{-}Paul Brinkman},\n  title        = {Psychological, economic, and ethical factors in human feedback for\n                  a chatbot-based smoking cessation intervention},\n  journal      = {npj Digit. Medicine},\n  volume       = {8},\n  number       = {1},\n  year         = {2025},\n  url          = {https://doi.org/10.1038/s41746-025-01701-3},\n  doi          = {10.1038/S41746-025-01701-3},\n}"
   },
   {
    "key": "journals/tmlr/Carvalho0M25",
@@ -272,7 +280,8 @@
    "year": "2025",
    "type": "Journal",
    "url": "https://openreview.net/forum?id=D2PjEPGXgh",
-   "pdf": "https://arxiv.org/pdf/2309.16819"
+   "pdf": "https://arxiv.org/pdf/2309.16819",
+   "bib": "@article{DBLP:journals/tmlr/Carvalho0M25,\n  author       = {Diogo S. Carvalho and\n                  Pedro A. Santos and\n                  Francisco S. Melo},\n  title        = {Multi-Bellman operator for convergence of \\emph{Q}-learning with linear\n                  function approximation},\n  journal      = {Trans. Mach. Learn. Res.},\n  volume       = {2025},\n  year         = {2025},\n  url          = {https://openreview.net/forum?id=D2PjEPGXgh},\n}"
   },
   {
    "key": "conf/epia/PuglieseCFFM25",
@@ -304,7 +313,8 @@
    "year": "2025",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-032-05179-0_4",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/epia/PuglieseCFFM25,\n  author       = {Victor Ulisses Pugliese and\n                  Diogo S. Carvalho and\n                  Os{\\'{e}}ias Faria de Arruda Ferreira and\n                  F{\\'{a}}bio Augusto Faria and\n                  Francisco S. Melo},\n  editor       = {Jos{\\'{e}} Valente de Oliveira and\n                  Jo{\\~{a}}o Leite and\n                  Jo{\\~{a}}o Rodrigues and\n                  Jo{\\~{a}}o Dias and\n                  Pedro Cardoso},\n  title        = {Optimizing 2D Packing Strategies for Autoclave Loading Using Deep\n                  Reinforcement Learning},\n  booktitle    = {Progress in Artificial Intelligence - 24th {EPIA} Conference on Artificial\n                  Intelligence, {EPIA} 2025, Faro, Portugal, October 1-3, 2025, Proceedings,\n                  Part {II}},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {16122},\n  pages        = {41--53},\n  publisher    = {Springer},\n  year         = {2025},\n  url          = {https://doi.org/10.1007/978-3-032-05179-0\\_4},\n  doi          = {10.1007/978-3-032-05179-0\\_4},\n}"
   },
   {
    "key": "conf/icml/SantosSM25",
@@ -328,7 +338,8 @@
    "year": "2025",
    "type": "Conference",
    "url": "https://proceedings.mlr.press/v267/santos25b.html",
-   "pdf": "https://arxiv.org/pdf/2409.15128"
+   "pdf": "https://arxiv.org/pdf/2409.15128",
+   "bib": "@inproceedings{DBLP:conf/icml/SantosSM25,\n  author       = {Pedro P. Santos and\n                  Alberto Sardinha and\n                  Francisco S. Melo},\n  editor       = {Aarti Singh and\n                  Maryam Fazel and\n                  Daniel Hsu and\n                  Simon Lacoste{-}Julien and\n                  Felix Berkenkamp and\n                  Tegan Maharaj and\n                  Kiri Wagstaff and\n                  Jerry Zhu},\n  title        = {The Number of Trials Matters in Infinite-Horizon General-Utility Markov\n                  Decision Processes},\n  booktitle    = {Forty-second International Conference on Machine Learning, {ICML}\n                  2025, Vancouver, BC, Canada, July 13-19, 2025},\n  series       = {Proceedings of Machine Learning Research},\n  volume       = {267},\n  publisher    = {{PMLR} / OpenReview.net},\n  year         = {2025},\n  url          = {https://proceedings.mlr.press/v267/santos25b.html},\n}"
   },
   {
    "key": "conf/icra/KordiaM25",
@@ -348,7 +359,8 @@
    "year": "2025",
    "type": "Conference",
    "url": "https://doi.org/10.1109/ICRA55743.2025.11127511",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/icra/KordiaM25,\n  author       = {Ali H. Kordia and\n                  Francisco S. Melo},\n  title        = {Optimize and Coordinate Multiple DMPs Under Constraints to Achieve\n                  a Collaborative Manipulation Task},\n  booktitle    = {{IEEE} International Conference on Robotics and Automation, {ICRA}\n                  2025, Atlanta, GA, USA, May 19-23, 2025},\n  pages        = {1--7},\n  publisher    = {{IEEE}},\n  year         = {2025},\n  url          = {https://doi.org/10.1109/ICRA55743.2025.11127511},\n  doi          = {10.1109/ICRA55743.2025.11127511},\n}"
   },
   {
    "key": "conf/ifaamas/VarelaSM25",
@@ -372,7 +384,8 @@
    "year": "2025",
    "type": "Conference",
    "url": "https://dl.acm.org/doi/10.5555/3709347.3743847",
-   "pdf": "https://arxiv.org/pdf/2501.08778"
+   "pdf": "https://arxiv.org/pdf/2501.08778",
+   "bib": "@inproceedings{DBLP:conf/ifaamas/VarelaSM25,\n  author       = {Guilherme S. Varela and\n                  Alberto Sardinha and\n                  Francisco S. Melo},\n  editor       = {Sanmay Das and\n                  Ann Now{\\'{e}} and\n                  Yevgeniy Vorobeychik},\n  title        = {Networked Agents in the Dark: Team Value Learning under Partial Observability},\n  booktitle    = {Proceedings of the 24th International Conference on Autonomous Agents\n                  and Multiagent Systems, {AAMAS} 2025, Detroit, MI, USA, May 19-23,\n                  2025},\n  pages        = {2087--2095},\n  publisher    = {International Foundation for Autonomous Agents and Multiagent Systems\n                  / {ACM}},\n  year         = {2025},\n  url          = {https://dl.acm.org/doi/10.5555/3709347.3743847},\n  doi          = {10.5555/3709347.3743847},\n}"
   },
   {
    "key": "conf/ifaamas/VitalSM25",
@@ -396,7 +409,8 @@
    "year": "2025",
    "type": "Conference",
    "url": "https://dl.acm.org/doi/10.5555/3709347.3743850",
-   "pdf": "https://arxiv.org/pdf/2502.12624"
+   "pdf": "https://arxiv.org/pdf/2502.12624",
+   "bib": "@inproceedings{DBLP:conf/ifaamas/VitalSM25,\n  author       = {F{\\'{a}}bio Vital and\n                  Alberto Sardinha and\n                  Francisco S. Melo},\n  editor       = {Sanmay Das and\n                  Ann Now{\\'{e}} and\n                  Yevgeniy Vorobeychik},\n  title        = {Implicit Repair with Reinforcement Learning in Emergent Communication},\n  booktitle    = {Proceedings of the 24th International Conference on Autonomous Agents\n                  and Multiagent Systems, {AAMAS} 2025, Detroit, MI, USA, May 19-23,\n                  2025},\n  pages        = {2115--2124},\n  publisher    = {International Foundation for Autonomous Agents and Multiagent Systems\n                  / {ACM}},\n  year         = {2025},\n  url          = {https://dl.acm.org/doi/10.5555/3709347.3743850},\n  doi          = {10.5555/3709347.3743850},\n}"
   },
   {
    "key": "conf/ifaamas/VarelaSM25a",
@@ -420,7 +434,8 @@
    "year": "2025",
    "type": "Conference",
    "url": "https://dl.acm.org/doi/10.5555/3709347.3744008",
-   "pdf": "https://arxiv.org/pdf/2502.07635"
+   "pdf": "https://arxiv.org/pdf/2502.07635",
+   "bib": "@inproceedings{DBLP:conf/ifaamas/VarelaSM25a,\n  author       = {Guilherme S. Varela and\n                  Alberto Sardinha and\n                  Francisco S. Melo},\n  editor       = {Sanmay Das and\n                  Ann Now{\\'{e}} and\n                  Yevgeniy Vorobeychik},\n  title        = {Distributed Value Decomposition Networks with Networked Agents},\n  booktitle    = {Proceedings of the 24th International Conference on Autonomous Agents\n                  and Multiagent Systems, {AAMAS} 2025, Detroit, MI, USA, May 19-23,\n                  2025},\n  pages        = {2774--2776},\n  publisher    = {International Foundation for Autonomous Agents and Multiagent Systems\n                  / {ACM}},\n  year         = {2025},\n  url          = {https://dl.acm.org/doi/10.5555/3709347.3744008},\n  doi          = {10.5555/3709347.3744008},\n}"
   },
   {
    "key": "journals/corr/abs-2506-15756",
@@ -452,7 +467,8 @@
    "year": "2025",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.2506.15756",
-   "pdf": "https://arxiv.org/pdf/2506.15756"
+   "pdf": "https://arxiv.org/pdf/2506.15756",
+   "bib": "@article{DBLP:journals/corr/abs-2506-15756,\n  author       = {Jo{\\~{a}}o G. Ribeiro and\n                  Yaniv Oren and\n                  Alberto Sardinha and\n                  Matthijs T. J. Spaan and\n                  Francisco S. Melo},\n  title        = {RecBayes: Recurrent Bayesian Ad Hoc Teamwork in Large Partially Observable\n                  Domains},\n  journal      = {CoRR},\n  volume       = {abs/2506.15756},\n  year         = {2025},\n  url          = {https://doi.org/10.48550/arXiv.2506.15756},\n  doi          = {10.48550/ARXIV.2506.15756},\n  eprinttype   = {arXiv},\n  eprint       = {2506.15756},\n}"
   },
   {
    "key": "journals/corr/abs-2507-21631",
@@ -476,7 +492,8 @@
    "year": "2025",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.2507.21631",
-   "pdf": "https://arxiv.org/pdf/2507.21631"
+   "pdf": "https://arxiv.org/pdf/2507.21631",
+   "bib": "@article{DBLP:journals/corr/abs-2507-21631,\n  author       = {Miguel Faria and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  title        = {\"Teammates, Am {I} Clear?\": Analysing Legible Behaviours in Teams},\n  journal      = {CoRR},\n  volume       = {abs/2507.21631},\n  year         = {2025},\n  url          = {https://doi.org/10.48550/arXiv.2507.21631},\n  doi          = {10.48550/ARXIV.2507.21631},\n  eprinttype   = {arXiv},\n  eprint       = {2507.21631},\n}"
   },
   {
    "key": "journals/ai/FariaMP24",
@@ -500,7 +517,8 @@
    "year": "2024",
    "type": "Journal",
    "url": "https://doi.org/10.1016/j.artint.2024.104107",
-   "pdf": "https://arxiv.org/pdf/2209.09141"
+   "pdf": "https://arxiv.org/pdf/2209.09141",
+   "bib": "@article{DBLP:journals/ai/FariaMP24,\n  author       = {Miguel Faria and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  title        = {\"Guess what I'm doing\": Extending legibility to sequential decision\n                  tasks},\n  journal      = {Artif. Intell.},\n  volume       = {330},\n  pages        = {104107},\n  year         = {2024},\n  url          = {https://doi.org/10.1016/j.artint.2024.104107},\n  doi          = {10.1016/J.ARTINT.2024.104107},\n}"
   },
   {
    "key": "journals/ml/SantosCSM24",
@@ -528,7 +546,8 @@
    "year": "2024",
    "type": "Journal",
    "url": "https://doi.org/10.1007/s10994-024-06564-5",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@article{DBLP:journals/ml/SantosCSM24,\n  author       = {Pedro P. Santos and\n                  Diogo S. Carvalho and\n                  Alberto Sardinha and\n                  Francisco S. Melo},\n  title        = {The impact of data distribution on Q-learning with function approximation},\n  journal      = {Mach. Learn.},\n  volume       = {113},\n  number       = {9},\n  pages        = {6141--6163},\n  year         = {2024},\n  url          = {https://doi.org/10.1007/s10994-024-06564-5},\n  doi          = {10.1007/S10994-024-06564-5},\n}"
   },
   {
    "key": "journals/topics/CorreiaMP24",
@@ -552,7 +571,8 @@
    "year": "2024",
    "type": "Journal",
    "url": "https://doi.org/10.1111/tops.12634",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@article{DBLP:journals/topics/CorreiaMP24,\n  author       = {Filipa Correia and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  title        = {When a Robot Is Your Teammate},\n  journal      = {Top. Cogn. Sci.},\n  volume       = {16},\n  number       = {3},\n  pages        = {527--553},\n  year         = {2024},\n  url          = {https://doi.org/10.1111/tops.12634},\n  doi          = {10.1111/TOPS.12634},\n}"
   },
   {
    "key": "conf/aaai/RibeiroRSM24",
@@ -580,7 +600,8 @@
    "year": "2024",
    "type": "Conference",
    "url": "https://doi.org/10.1609/aaai.v38i20.30608",
-   "pdf": "https://ojs.aaai.org/index.php/AAAI/article/download/30608/32770"
+   "pdf": "https://ojs.aaai.org/index.php/AAAI/article/download/30608/32770",
+   "bib": "@inproceedings{DBLP:conf/aaai/RibeiroRSM24,\n  author       = {Jo{\\~{a}}o G. Ribeiro and\n                  Gon{\\c{c}}alo Rodrigues and\n                  Alberto Sardinha and\n                  Francisco S. Melo},\n  editor       = {Michael J. Wooldridge and\n                  Jennifer G. Dy and\n                  Sriraam Natarajan},\n  title        = {{TEAMSTER:} Model-Based Reinforcement Learning for Ad Hoc Teamwork\n                  (Abstract Reprint)},\n  booktitle    = {Thirty-Eighth {AAAI} Conference on Artificial Intelligence, {AAAI}\n                  2024, Thirty-Sixth Conference on Innovative Applications of Artificial\n                  Intelligence, {IAAI} 2024, Fourteenth Symposium on Educational Advances\n                  in Artificial Intelligence, {EAAI} 2024, February 20-27, 2024, Vancouver,\n                  Canada},\n  pages        = {22708},\n  publisher    = {{AAAI} Press},\n  year         = {2024},\n  url          = {https://doi.org/10.1609/aaai.v38i20.30608},\n  doi          = {10.1609/AAAI.V38I20.30608},\n}"
   },
   {
    "key": "conf/atal/SantosCVSS0M24",
@@ -620,7 +641,8 @@
    "year": "2024",
    "type": "Conference",
    "url": "https://dl.acm.org/doi/10.5555/3635637.3663191",
-   "pdf": "https://arxiv.org/pdf/2210.06274"
+   "pdf": "https://arxiv.org/pdf/2210.06274",
+   "bib": "@inproceedings{DBLP:conf/atal/SantosCVSS0M24,\n  author       = {Pedro P. Santos and\n                  Diogo S. Carvalho and\n                  Miguel Vasco and\n                  Alberto Sardinha and\n                  Pedro A. Santos and\n                  Ana Paiva and\n                  Francisco S. Melo},\n  editor       = {Mehdi Dastani and\n                  Jaime Sim{\\~{a}}o Sichman and\n                  Natasha Alechina and\n                  Virginia Dignum},\n  title        = {Centralized Training with Hybrid Execution in Multi-Agent Reinforcement\n                  Learning},\n  booktitle    = {Proceedings of the 23rd International Conference on Autonomous Agents\n                  and Multiagent Systems, {AAMAS} 2024, Auckland, New Zealand, May 6-10,\n                  2024},\n  pages        = {2453--2455},\n  publisher    = {International Foundation for Autonomous Agents and Multiagent Systems\n                  / {ACM}},\n  year         = {2024},\n  url          = {https://dl.acm.org/doi/10.5555/3635637.3663191},\n  doi          = {10.5555/3635637.3663191},\n}"
   },
   {
    "key": "conf/epia/SilvestrinML24",
@@ -644,7 +666,8 @@
    "year": "2024",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-031-73500-4_27",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/epia/SilvestrinML24,\n  author       = {Jacopo Silvestrin and\n                  Francisco S. Melo and\n                  Manuel Lopes},\n  editor       = {Manuel Filipe Santos and\n                  Jos{\\'{e}} Machado and\n                  Paulo Novais and\n                  Paulo Cortez and\n                  Pedro Miguel Moreira},\n  title        = {A Comparative Study of Continual Backpropagation},\n  booktitle    = {Progress in Artificial Intelligence - 23rd {EPIA} Conference on Artificial\n                  Intelligence, {EPIA} 2024, Viana do Castelo, Portugal, September 3-6,\n                  2024, Proceedings, Part {II}},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {14968},\n  pages        = {324--334},\n  publisher    = {Springer},\n  year         = {2024},\n  url          = {https://doi.org/10.1007/978-3-031-73500-4\\_27},\n  doi          = {10.1007/978-3-031-73500-4\\_27},\n}"
   },
   {
    "key": "conf/icaart/ZayanovM024",
@@ -668,7 +691,8 @@
    "year": "2024",
    "type": "Conference",
    "url": "https://doi.org/10.5220/0012296800003636",
-   "pdf": "https://arxiv.org/pdf/2309.09095"
+   "pdf": "https://arxiv.org/pdf/2309.09095",
+   "bib": "@inproceedings{DBLP:conf/icaart/ZayanovM024,\n  author       = {Rustam Zayanov and\n                  Francisco S. Melo and\n                  Manuel Lopes},\n  editor       = {Ana Paula Rocha and\n                  Luc Steels and\n                  H. Jaap van den Herik},\n  title        = {Interactively Teaching an Inverse Reinforcement Learner with Limited\n                  Feedback},\n  booktitle    = {Proceedings of the 16th International Conference on Agents and Artificial\n                  Intelligence, {ICAART} 2024, Volume 1, Rome, Italy, February 24-26,\n                  2024},\n  pages        = {15--24},\n  publisher    = {{SCITEPRESS}},\n  year         = {2024},\n  url          = {https://doi.org/10.5220/0012296800003636},\n  doi          = {10.5220/0012296800003636},\n}"
   },
   {
    "key": "conf/nips/EstevesVM24",
@@ -692,7 +716,8 @@
    "year": "2024",
    "type": "Conference",
    "url": "http://papers.nips.cc/paper_files/paper/2024/hash/06297213eca57fa6eadf8d87caa21b3c-Abstract-Conference.html",
-   "pdf": "http://papers.nips.cc/paper_files/paper/2024/file/06297213eca57fa6eadf8d87caa21b3c-Paper-Conference.pdf"
+   "pdf": "http://papers.nips.cc/paper_files/paper/2024/file/06297213eca57fa6eadf8d87caa21b3c-Paper-Conference.pdf",
+   "bib": "@inproceedings{DBLP:conf/nips/EstevesVM24,\n  author       = {Bernardo Esteves and\n                  Miguel Vasco and\n                  Francisco S. Melo},\n  editor       = {Amir Globersons and\n                  Lester Mackey and\n                  Danielle Belgrave and\n                  Angela Fan and\n                  Ulrich Paquet and\n                  Jakub M. Tomczak and\n                  Cheng Zhang},\n  title        = {NeuralSolver: Learning Algorithms For Consistent and Efficient Extrapolation\n                  Across General Tasks},\n  booktitle    = {Advances in Neural Information Processing Systems 37: Annual Conference\n                  on Neural Information Processing Systems 2024, NeurIPS 2024, Vancouver,\n                  BC, Canada, December 10 - 15, 2024},\n  year         = {2024},\n  url          = {http://papers.nips.cc/paper\\_files/paper/2024/hash/06297213eca57fa6eadf8d87caa21b3c-Abstract-Conference.html},\n}"
   },
   {
    "key": "conf/ecai/2024",
@@ -732,7 +757,8 @@
    "year": "2024",
    "type": "Edited",
    "url": "https://doi.org/10.3233/FAIA392",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@proceedings{DBLP:conf/ecai/2024,\n  editor       = {Ulle Endriss and\n                  Francisco S. Melo and\n                  Kerstin Bach and\n                  Alberto Jos{\\'{e}} Bugar{\\'{\\i}}n Diz and\n                  Jose Maria Alonso{-}Moral and\n                  Sen{\\'{e}}n Barro and\n                  Fredrik Heintz},\n  title        = {{ECAI} 2024 - 27th European Conference on Artificial Intelligence,\n                  19-24 October 2024, Santiago de Compostela, Spain - Including 13th\n                  Conference on Prestigious Applications of Intelligent Systems {(PAIS}\n                  2024)},\n  series       = {Frontiers in Artificial Intelligence and Applications},\n  volume       = {392},\n  publisher    = {{IOS} Press},\n  year         = {2024},\n  url          = {https://doi.org/10.3233/FAIA392},\n  doi          = {10.3233/FAIA392},\n  isbn         = {978-1-64368-548-9},\n}"
   },
   {
    "key": "journals/corr/abs-2402-15393",
@@ -756,7 +782,8 @@
    "year": "2024",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.2402.15393",
-   "pdf": "https://arxiv.org/pdf/2402.15393"
+   "pdf": "https://arxiv.org/pdf/2402.15393",
+   "bib": "@article{DBLP:journals/corr/abs-2402-15393,\n  author       = {Bernardo Esteves and\n                  Miguel Vasco and\n                  Francisco S. Melo},\n  title        = {NeuralThink: Algorithm Synthesis that Extrapolates in General Tasks},\n  journal      = {CoRR},\n  volume       = {abs/2402.15393},\n  year         = {2024},\n  url          = {https://doi.org/10.48550/arXiv.2402.15393},\n  doi          = {10.48550/ARXIV.2402.15393},\n  eprinttype   = {arXiv},\n  eprint       = {2402.15393},\n}"
   },
   {
    "key": "journals/ai/RibeiroRSM23",
@@ -784,7 +811,8 @@
    "year": "2023",
    "type": "Journal",
    "url": "https://doi.org/10.1016/j.artint.2023.104013",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@article{DBLP:journals/ai/RibeiroRSM23,\n  author       = {Jo{\\~{a}}o G. Ribeiro and\n                  Gon{\\c{c}}alo Rodrigues and\n                  Alberto Sardinha and\n                  Francisco S. Melo},\n  title        = {{TEAMSTER:} Model-based reinforcement learning for ad hoc teamwork},\n  journal      = {Artif. Intell.},\n  volume       = {324},\n  pages        = {104013},\n  year         = {2023},\n  url          = {https://doi.org/10.1016/j.artint.2023.104013},\n  doi          = {10.1016/J.ARTINT.2023.104013},\n}"
   },
   {
    "key": "journals/ijsr/CorreiaCMP23",
@@ -812,7 +840,8 @@
    "year": "2023",
    "type": "Journal",
    "url": "https://doi.org/10.1007/s12369-022-00955-1",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@article{DBLP:journals/ijsr/CorreiaCMP23,\n  author       = {Filipa Correia and\n                  Joana Campos and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  title        = {Robotic Gaze Responsiveness in Multiparty Teamwork},\n  journal      = {Int. J. Soc. Robotics},\n  volume       = {15},\n  number       = {1},\n  pages        = {27--36},\n  year         = {2023},\n  url          = {https://doi.org/10.1007/s12369-022-00955-1},\n  doi          = {10.1007/S12369-022-00955-1},\n}"
   },
   {
    "key": "conf/atal/QueridoSM23",
@@ -836,7 +865,8 @@
    "year": "2023",
    "type": "Conference",
    "url": "https://dl.acm.org/doi/10.5555/3545946.3599013",
-   "pdf": "https://arxiv.org/pdf/2301.03730"
+   "pdf": "https://arxiv.org/pdf/2301.03730",
+   "bib": "@inproceedings{DBLP:conf/atal/QueridoSM23,\n  author       = {Gon{\\c{c}}alo Querido and\n                  Alberto Sardinha and\n                  Francisco S. Melo},\n  editor       = {Noa Agmon and\n                  Bo An and\n                  Alessandro Ricci and\n                  William Yeoh},\n  title        = {Learning to Perceive in Deep Model-Free Reinforcement Learning},\n  booktitle    = {Proceedings of the 2023 International Conference on Autonomous Agents\n                  and Multiagent Systems, {AAMAS} 2023, London, United Kingdom, 29 May\n                  2023 - 2 June 2023},\n  pages        = {2595--2597},\n  publisher    = {{ACM}},\n  year         = {2023},\n  url          = {https://dl.acm.org/doi/10.5555/3545946.3599013},\n  doi          = {10.5555/3545946.3599013},\n}"
   },
   {
    "key": "conf/ecai/CarvalhoMS23",
@@ -860,7 +890,8 @@
    "year": "2023",
    "type": "Conference",
    "url": "https://doi.org/10.3233/FAIA230290",
-   "pdf": "https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230290"
+   "pdf": "https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230290",
+   "bib": "@inproceedings{DBLP:conf/ecai/CarvalhoMS23,\n  author       = {Diogo S. Carvalho and\n                  Francisco S. Melo and\n                  Pedro A. Santos},\n  editor       = {Kobi Gal and\n                  Ann Now{\\'{e}} and\n                  Grzegorz J. Nalepa and\n                  Roy Fairstein and\n                  Roxana Radulescu},\n  title        = {Theoretical Remarks on Feudal Hierarchies and Reinforcement Learning},\n  booktitle    = {{ECAI} 2023 - 26th European Conference on Artificial Intelligence,\n                  September 30 - October 4, 2023, Krak{\\'{o}}w, Poland - Including 12th\n                  Conference on Prestigious Applications of Intelligent Systems {(PAIS}\n                  2023)},\n  series       = {Frontiers in Artificial Intelligence and Applications},\n  volume       = {372},\n  pages        = {351--356},\n  publisher    = {{IOS} Press},\n  year         = {2023},\n  url          = {https://doi.org/10.3233/FAIA230290},\n  doi          = {10.3233/FAIA230290},\n}"
   },
   {
    "key": "conf/ecai/RibeiroMSM23",
@@ -888,7 +919,8 @@
    "year": "2023",
    "type": "Conference",
    "url": "https://doi.org/10.3233/FAIA230486",
-   "pdf": "https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230486"
+   "pdf": "https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230486",
+   "bib": "@inproceedings{DBLP:conf/ecai/RibeiroMSM23,\n  author       = {Jo{\\~{a}}o G. Ribeiro and\n                  Cassandro Martinho and\n                  Alberto Sardinha and\n                  Francisco S. Melo},\n  editor       = {Kobi Gal and\n                  Ann Now{\\'{e}} and\n                  Grzegorz J. Nalepa and\n                  Roy Fairstein and\n                  Roxana Radulescu},\n  title        = {Making Friends in the Dark: Ad Hoc Teamwork Under Partial Observability},\n  booktitle    = {{ECAI} 2023 - 26th European Conference on Artificial Intelligence,\n                  September 30 - October 4, 2023, Krak{\\'{o}}w, Poland - Including 12th\n                  Conference on Prestigious Applications of Intelligent Systems {(PAIS}\n                  2023)},\n  series       = {Frontiers in Artificial Intelligence and Applications},\n  volume       = {372},\n  pages        = {1954--1961},\n  publisher    = {{IOS} Press},\n  year         = {2023},\n  url          = {https://doi.org/10.3233/FAIA230486},\n  doi          = {10.3233/FAIA230486},\n}"
   },
   {
    "key": "conf/epia/EstevesVM23",
@@ -912,7 +944,8 @@
    "year": "2023",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-031-49008-8_11",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/epia/EstevesVM23,\n  author       = {Bernardo Esteves and\n                  Miguel Vasco and\n                  Francisco S. Melo},\n  editor       = {Nuno Moniz and\n                  Zita Vale and\n                  Jos{\\'{e}} Cascalho and\n                  Catarina Silva and\n                  Raquel Sebasti{\\~{a}}o},\n  title        = {Pre-training with Augmentations for Efficient Transfer in Model-Based\n                  Reinforcement Learning},\n  booktitle    = {Progress in Artificial Intelligence - 22nd {EPIA} Conference on Artificial\n                  Intelligence, {EPIA} 2023, Faial Island, Azores, September 5-8, 2023,\n                  Proceedings, Part {I}},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {14115},\n  pages        = {133--145},\n  publisher    = {Springer},\n  year         = {2023},\n  url          = {https://doi.org/10.1007/978-3-031-49008-8\\_11},\n  doi          = {10.1007/978-3-031-49008-8\\_11},\n}"
   },
   {
    "key": "journals/firai/BarakaCM0V22",
@@ -944,7 +977,8 @@
    "year": "2022",
    "type": "Journal",
    "url": "https://doi.org/10.3389/frobt.2022.784249",
-   "pdf": "https://www.frontiersin.org/articles/10.3389/frobt.2022.784249/pdf"
+   "pdf": "https://www.frontiersin.org/articles/10.3389/frobt.2022.784249/pdf",
+   "bib": "@article{DBLP:journals/firai/BarakaCM0V22,\n  author       = {Kim Baraka and\n                  Marta Couto and\n                  Francisco S. Melo and\n                  Ana Paiva and\n                  Manuela Veloso},\n  title        = {\"Sequencing Matters\": Investigating Suitable Action Sequences in Robot-Assisted\n                  Autism Therapy},\n  journal      = {Frontiers Robotics {AI}},\n  volume       = {9},\n  pages        = {784249},\n  year         = {2022},\n  url          = {https://doi.org/10.3389/frobt.2022.784249},\n  doi          = {10.3389/FROBT.2022.784249},\n}"
   },
   {
    "key": "journals/jair/MerhejSMS22",
@@ -972,7 +1006,8 @@
    "year": "2022",
    "type": "Journal",
    "url": "https://doi.org/10.1613/jair.1.13519",
-   "pdf": "https://www.jair.org/index.php/jair/article/download/13519/26813"
+   "pdf": "https://www.jair.org/index.php/jair/article/download/13519/26813",
+   "bib": "@article{DBLP:journals/jair/MerhejSMS22,\n  author       = {Ramona Merhej and\n                  Fernando P. Santos and\n                  Francisco S. Melo and\n                  Francisco C. Santos},\n  title        = {Cooperation and Learning Dynamics under Wealth Inequality and Diversity\n                  in Individual Risk},\n  journal      = {J. Artif. Intell. Res.},\n  volume       = {74},\n  pages        = {733--764},\n  year         = {2022},\n  url          = {https://doi.org/10.1613/jair.1.13519},\n  doi          = {10.1613/JAIR.1.13519},\n}"
   },
   {
    "key": "journals/nn/VascoYMP22",
@@ -1000,7 +1035,8 @@
    "year": "2022",
    "type": "Journal",
    "url": "https://doi.org/10.1016/j.neunet.2021.11.019",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@article{DBLP:journals/nn/VascoYMP22,\n  author       = {Miguel Vasco and\n                  Hang Yin and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  title        = {Leveraging hierarchy in multimodal generative models for effective\n                  cross-modality inference},\n  journal      = {Neural Networks},\n  volume       = {146},\n  pages        = {238--255},\n  year         = {2022},\n  url          = {https://doi.org/10.1016/j.neunet.2021.11.019},\n  doi          = {10.1016/J.NEUNET.2021.11.019},\n}"
   },
   {
    "key": "conf/atal/MerhejSMCS22",
@@ -1032,7 +1068,8 @@
    "year": "2022",
    "type": "Conference",
    "url": "https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p908.pdf",
-   "pdf": "https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p908.pdf"
+   "pdf": "https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p908.pdf",
+   "bib": "@inproceedings{DBLP:conf/atal/MerhejSMCS22,\n  author       = {Ramona Merhej and\n                  Fernando P. Santos and\n                  Francisco S. Melo and\n                  Mohamed Chetouani and\n                  Francisco C. Santos},\n  editor       = {Piotr Faliszewski and\n                  Viviana Mascardi and\n                  Catherine Pelachaud and\n                  Matthew E. Taylor},\n  title        = {Cooperation and Learning Dynamics under Risk Diversity and Financial\n                  Incentives},\n  booktitle    = {21st International Conference on Autonomous Agents and Multiagent\n                  Systems, {AAMAS} 2022, Auckland, New Zealand, May 9-13, 2022},\n  pages        = {908--916},\n  publisher    = {International Foundation for Autonomous Agents and Multiagent Systems\n                  {(IFAAMAS)}},\n  year         = {2022},\n  url          = {https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p908.pdf},\n  doi          = {10.5555/3535850.3535952},\n}"
   },
   {
    "key": "conf/atal/VascoYM022",
@@ -1060,7 +1097,8 @@
    "year": "2022",
    "type": "Conference",
    "url": "https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1301.pdf",
-   "pdf": "https://arxiv.org/pdf/2110.03608"
+   "pdf": "https://arxiv.org/pdf/2110.03608",
+   "bib": "@inproceedings{DBLP:conf/atal/VascoYM022,\n  author       = {Miguel Vasco and\n                  Hang Yin and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  editor       = {Piotr Faliszewski and\n                  Viviana Mascardi and\n                  Catherine Pelachaud and\n                  Matthew E. Taylor},\n  title        = {\\emph{How to Sense the World: } Leveraging Hierarchy in Multimodal\n                  Perception for Robust Reinforcement Learning Agents},\n  booktitle    = {21st International Conference on Autonomous Agents and Multiagent\n                  Systems, {AAMAS} 2022, Auckland, New Zealand, May 9-13, 2022},\n  pages        = {1301--1309},\n  publisher    = {International Foundation for Autonomous Agents and Multiagent Systems\n                  {(IFAAMAS)}},\n  year         = {2022},\n  url          = {https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1301.pdf},\n  doi          = {10.5555/3535850.3535995},\n}"
   },
   {
    "key": "conf/epia/GuerraML22",
@@ -1084,7 +1122,8 @@
    "year": "2022",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-031-16474-3_36",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/epia/GuerraML22,\n  author       = {Carla Guerra and\n                  Francisco S. Melo and\n                  Manuel Lopes},\n  editor       = {Goreti Marreiros and\n                  Bruno Martins and\n                  Ana Paiva and\n                  Bernardete Ribeiro and\n                  Alberto Sardinha},\n  title        = {{FIT:} Using Feature Importance to Teach Classification Tasks to Unknown\n                  Learners},\n  booktitle    = {Progress in Artificial Intelligence - 21st {EPIA} Conference on Artificial\n                  Intelligence, {EPIA} 2022, Lisbon, Portugal, August 31 - September\n                  2, 2022, Proceedings},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {13566},\n  pages        = {440--451},\n  publisher    = {Springer},\n  year         = {2022},\n  url          = {https://doi.org/10.1007/978-3-031-16474-3\\_36},\n  doi          = {10.1007/978-3-031-16474-3\\_36},\n}"
   },
   {
    "key": "conf/icarsc/MeloM22",
@@ -1104,7 +1143,8 @@
    "year": "2022",
    "type": "Conference",
    "url": "https://doi.org/10.1109/ICARSC55462.2022.9784789",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/icarsc/MeloM22,\n  author       = {Francisco S. Melo and\n                  Plinio Moreno},\n  editor       = {Lu{\\'{\\i}}s Louro and\n                  Pedro Fonseca and\n                  Pedro Neto and\n                  Rodrigo Ventura},\n  title        = {Socially Reactive Navigation Models for Mobile Robots},\n  booktitle    = {{IEEE} International Conference on Autonomous Robot Systems and Competitions,\n                  {ICARSC} 2022, Santa Maria da Feira, Portugal, April 29-30, 2022},\n  pages        = {91--97},\n  publisher    = {{IEEE}},\n  year         = {2022},\n  url          = {https://doi.org/10.1109/ICARSC55462.2022.9784789},\n  doi          = {10.1109/ICARSC55462.2022.9784789},\n}"
   },
   {
    "key": "conf/icml/PoklukarVYM0K22",
@@ -1140,7 +1180,8 @@
    "year": "2022",
    "type": "Conference",
    "url": "https://proceedings.mlr.press/v162/poklukar22a.html",
-   "pdf": "https://proceedings.mlr.press/v162/poklukar22a/poklukar22a.pdf"
+   "pdf": "https://proceedings.mlr.press/v162/poklukar22a/poklukar22a.pdf",
+   "bib": "@inproceedings{DBLP:conf/icml/PoklukarVYM0K22,\n  author       = {Petra Poklukar and\n                  Miguel Vasco and\n                  Hang Yin and\n                  Francisco S. Melo and\n                  Ana Paiva and\n                  Danica Kragic},\n  editor       = {Kamalika Chaudhuri and\n                  Stefanie Jegelka and\n                  Le Song and\n                  Csaba Szepesv{\\'{a}}ri and\n                  Gang Niu and\n                  Sivan Sabato},\n  title        = {Geometric Multimodal Contrastive Representation Learning},\n  booktitle    = {International Conference on Machine Learning, {ICML} 2022, 17-23 July\n                  2022, Baltimore, Maryland, {USA}},\n  series       = {Proceedings of Machine Learning Research},\n  volume       = {162},\n  pages        = {17782--17800},\n  publisher    = {{PMLR}},\n  year         = {2022},\n  url          = {https://proceedings.mlr.press/v162/poklukar22a.html},\n}"
   },
   {
    "key": "conf/iros/VitalVSM22",
@@ -1168,7 +1209,8 @@
    "year": "2022",
    "type": "Conference",
    "url": "https://doi.org/10.1109/IROS47612.2022.9981788",
-   "pdf": "https://arxiv.org/pdf/2204.03051"
+   "pdf": "https://arxiv.org/pdf/2204.03051",
+   "bib": "@inproceedings{DBLP:conf/iros/VitalVSM22,\n  author       = {F{\\'{a}}bio Vital and\n                  Miguel Vasco and\n                  Alberto Sardinha and\n                  Francisco S. Melo},\n  title        = {Perceive, Represent, Generate: Translating Multimodal Information\n                  to Robotic Motion Trajectories},\n  booktitle    = {{IEEE/RSJ} International Conference on Intelligent Robots and Systems,\n                  {IROS} 2022, Kyoto, Japan, October 23-27, 2022},\n  pages        = {5855--5860},\n  publisher    = {{IEEE}},\n  year         = {2022},\n  url          = {https://doi.org/10.1109/IROS47612.2022.9981788},\n  doi          = {10.1109/IROS47612.2022.9981788},\n}"
   },
   {
    "key": "conf/atal/2022bv",
@@ -1188,7 +1230,8 @@
    "year": "2022",
    "type": "Edited",
    "url": "https://doi.org/10.1007/978-3-031-20179-0",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@proceedings{DBLP:conf/atal/2022bv,\n  editor       = {Francisco S. Melo and\n                  Fei Fang},\n  title        = {Autonomous Agents and Multiagent Systems. Best and Visionary Papers\n                  - {AAMAS} 2022 Workshops, Virtual Event, May 9-13, 2022, Revised Selected\n                  Papers},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {13441},\n  publisher    = {Springer},\n  year         = {2022},\n  url          = {https://doi.org/10.1007/978-3-031-20179-0},\n  doi          = {10.1007/978-3-031-20179-0},\n  isbn         = {978-3-031-20178-3},\n}"
   },
   {
    "key": "journals/corr/abs-2201-03538",
@@ -1216,7 +1259,8 @@
    "year": "2022",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.2201.03538",
-   "pdf": "https://arxiv.org/pdf/2201.03538"
+   "pdf": "https://arxiv.org/pdf/2201.03538",
+   "bib": "@article{DBLP:journals/corr/abs-2201-03538,\n  author       = {Jo{\\~{a}}o G. Ribeiro and\n                  Cassandro Martinho and\n                  Alberto Sardinha and\n                  Francisco S. Melo},\n  title        = {Assisting Unknown Teammates in Unknown Tasks: Ad Hoc Teamwork under\n                  Partial Observability},\n  journal      = {CoRR},\n  volume       = {abs/2201.03538},\n  year         = {2022},\n  url          = {https://doi.org/10.48550/arXiv.2201.03538},\n  doi          = {10.48550/ARXIV.2201.03538},\n  eprinttype   = {arXiv},\n  eprint       = {2201.03538},\n}"
   },
   {
    "key": "journals/corr/abs-2201-12891",
@@ -1248,7 +1292,8 @@
    "year": "2022",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.2201.12891",
-   "pdf": "https://arxiv.org/pdf/2201.12891"
+   "pdf": "https://arxiv.org/pdf/2201.12891",
+   "bib": "@article{DBLP:journals/corr/abs-2201-12891,\n  author       = {Ramona Merhej and\n                  Fernando P. Santos and\n                  Francisco S. Melo and\n                  Mohamed Chetouani and\n                  Francisco C. Santos},\n  title        = {Learning Collective Action under Risk Diversity},\n  journal      = {CoRR},\n  volume       = {abs/2201.12891},\n  year         = {2022},\n  url          = {https://doi.org/10.48550/arXiv.2201.12891},\n  doi          = {10.48550/ARXIV.2201.12891},\n  eprinttype   = {arXiv},\n  eprint       = {2201.12891},\n}"
   },
   {
    "key": "journals/corr/abs-2202-03390",
@@ -1284,7 +1329,8 @@
    "year": "2022",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.2202.03390",
-   "pdf": "https://arxiv.org/pdf/2202.03390"
+   "pdf": "https://arxiv.org/pdf/2202.03390",
+   "bib": "@article{DBLP:journals/corr/abs-2202-03390,\n  author       = {Petra Poklukar and\n                  Miguel Vasco and\n                  Hang Yin and\n                  Francisco S. Melo and\n                  Ana Paiva and\n                  Danica Kragic},\n  title        = {{GMC} - Geometric Multimodal Contrastive Representation Learning},\n  journal      = {CoRR},\n  volume       = {abs/2202.03390},\n  year         = {2022},\n  url          = {https://doi.org/10.48550/arXiv.2202.03390},\n  doi          = {10.48550/ARXIV.2202.03390},\n  eprinttype   = {arXiv},\n  eprint       = {2202.03390},\n}"
   },
   {
    "key": "journals/frai/MeloL21",
@@ -1304,7 +1350,8 @@
    "year": "2021",
    "type": "Journal",
    "url": "https://doi.org/10.3389/frai.2021.625183",
-   "pdf": "https://www.frontiersin.org/articles/10.3389/frai.2021.625183/pdf"
+   "pdf": "https://www.frontiersin.org/articles/10.3389/frai.2021.625183/pdf",
+   "bib": "@article{DBLP:journals/frai/MeloL21,\n  author       = {Francisco S. Melo and\n                  Manuel Lopes},\n  title        = {Teaching Multiple Inverse Reinforcement Learners},\n  journal      = {Frontiers Artif. Intell.},\n  volume       = {4},\n  year         = {2021},\n  url          = {https://doi.org/10.3389/frai.2021.625183},\n  doi          = {10.3389/FRAI.2021.625183},\n}"
   },
   {
    "key": "journals/tciaig/SaltaPM21",
@@ -1328,7 +1375,8 @@
    "year": "2021",
    "type": "Journal",
    "url": "https://doi.org/10.1109/TG.2020.3024160",
-   "pdf": "https://arxiv.org/pdf/2010.08885"
+   "pdf": "https://arxiv.org/pdf/2010.08885",
+   "bib": "@article{DBLP:journals/tciaig/SaltaPM21,\n  author       = {Ana Salta and\n                  Rui Prada and\n                  Francisco S. Melo},\n  title        = {A Game {AI} Competition to Foster Collaborative {AI} Research and\n                  Development},\n  journal      = {{IEEE} Trans. Games},\n  volume       = {13},\n  number       = {4},\n  pages        = {398--409},\n  year         = {2021},\n  url          = {https://doi.org/10.1109/TG.2020.3024160},\n  doi          = {10.1109/TG.2020.3024160},\n}"
   },
   {
    "key": "conf/aied/GuerraM021",
@@ -1352,7 +1400,8 @@
    "year": "2021",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-030-78270-2_32",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/aied/GuerraM021,\n  author       = {Carla Guerra and\n                  Francisco S. Melo and\n                  Manuel Lopes},\n  editor       = {Ido Roll and\n                  Danielle S. McNamara and\n                  Sergey A. Sosnovsky and\n                  Rose Luckin and\n                  Vania Dimitrova},\n  title        = {Interactive Teaching with Groups of Unknown Bayesian Learners},\n  booktitle    = {Artificial Intelligence in Education - 22nd International Conference,\n                  {AIED} 2021, Utrecht, The Netherlands, June 14-18, 2021, Proceedings,\n                  Part {II}},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {12749},\n  pages        = {178--182},\n  publisher    = {Springer},\n  year         = {2021},\n  url          = {https://doi.org/10.1007/978-3-030-78270-2\\_32},\n  doi          = {10.1007/978-3-030-78270-2\\_32},\n}"
   },
   {
    "key": "conf/atal/MerhejSMS21",
@@ -1380,7 +1429,8 @@
    "year": "2021",
    "type": "Conference",
    "url": "https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p898.pdf",
-   "pdf": "https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p898.pdf"
+   "pdf": "https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p898.pdf",
+   "bib": "@inproceedings{DBLP:conf/atal/MerhejSMS21,\n  author       = {Ramona Merhej and\n                  Fernando P. Santos and\n                  Francisco S. Melo and\n                  Francisco C. Santos},\n  editor       = {Frank Dignum and\n                  Alessio Lomuscio and\n                  Ulle Endriss and\n                  Ann Now{\\'{e}}},\n  title        = {Cooperation between Independent Reinforcement Learners under Wealth\n                  Inequality and Collective Risks},\n  booktitle    = {{AAMAS} '21: 20th International Conference on Autonomous Agents and\n                  Multiagent Systems, Virtual Event, United Kingdom, May 3-7, 2021},\n  pages        = {898--906},\n  publisher    = {{ACM}},\n  year         = {2021},\n  url          = {https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p898.pdf},\n  doi          = {10.5555/3463952.3464059},\n}"
   },
   {
    "key": "conf/atal/GuerraM021",
@@ -1404,7 +1454,8 @@
    "year": "2021",
    "type": "Conference",
    "url": "https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1524.pdf",
-   "pdf": "https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1524.pdf"
+   "pdf": "https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1524.pdf",
+   "bib": "@inproceedings{DBLP:conf/atal/GuerraM021,\n  author       = {Carla Guerra and\n                  Francisco S. Melo and\n                  Manuel Lopes},\n  editor       = {Frank Dignum and\n                  Alessio Lomuscio and\n                  Ulle Endriss and\n                  Ann Now{\\'{e}}},\n  title        = {Teaching Unknown Learners to Classify via Feature Importance},\n  booktitle    = {{AAMAS} '21: 20th International Conference on Autonomous Agents and\n                  Multiagent Systems, Virtual Event, United Kingdom, May 3-7, 2021},\n  pages        = {1524--1526},\n  publisher    = {{ACM}},\n  year         = {2021},\n  url          = {https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1524.pdf},\n  doi          = {10.5555/3463952.3464147},\n}"
   },
   {
    "key": "conf/epia/EstevesM21",
@@ -1424,7 +1475,8 @@
    "year": "2021",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-030-86230-5_26",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/epia/EstevesM21,\n  author       = {Bernardo Esteves and\n                  Francisco S. Melo},\n  editor       = {Goreti Marreiros and\n                  Francisco S. Melo and\n                  Nuno Lau and\n                  Henrique Lopes Cardoso and\n                  Lu{\\'{\\i}}s Paulo Reis},\n  title        = {Revisiting \"Recurrent World Models Facilitate Policy Evolution\"},\n  booktitle    = {Progress in Artificial Intelligence - 20th {EPIA} Conference on Artificial\n                  Intelligence, {EPIA} 2021, Virtual Event, September 7-9, 2021, Proceedings},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {12981},\n  pages        = {325--337},\n  publisher    = {Springer},\n  year         = {2021},\n  url          = {https://doi.org/10.1007/978-3-030-86230-5\\_26},\n  doi          = {10.1007/978-3-030-86230-5\\_26},\n}"
   },
   {
    "key": "conf/epia/IldefonsoRSVMPV21",
@@ -1464,7 +1516,8 @@
    "year": "2021",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-030-86230-5_32",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/epia/IldefonsoRSVMPV21,\n  author       = {Pedro Ildefonso and\n                  Pedro Rem{\\'{e}}dios and\n                  Rui Silva and\n                  Miguel Vasco and\n                  Francisco S. Melo and\n                  Ana Paiva and\n                  Manuela Veloso},\n  editor       = {Goreti Marreiros and\n                  Francisco S. Melo and\n                  Nuno Lau and\n                  Henrique Lopes Cardoso and\n                  Lu{\\'{\\i}}s Paulo Reis},\n  title        = {Exploiting Symmetry in Human Robot-Assisted Dressing Using Reinforcement\n                  Learning},\n  booktitle    = {Progress in Artificial Intelligence - 20th {EPIA} Conference on Artificial\n                  Intelligence, {EPIA} 2021, Virtual Event, September 7-9, 2021, Proceedings},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {12981},\n  pages        = {405--417},\n  publisher    = {Springer},\n  year         = {2021},\n  url          = {https://doi.org/10.1007/978-3-030-86230-5\\_32},\n  doi          = {10.1007/978-3-030-86230-5\\_32},\n}"
   },
   {
    "key": "conf/epia/KordiaM21",
@@ -1484,7 +1537,8 @@
    "year": "2021",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-030-86230-5_36",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/epia/KordiaM21,\n  author       = {Ali H. Kordia and\n                  Francisco S. Melo},\n  editor       = {Goreti Marreiros and\n                  Francisco S. Melo and\n                  Nuno Lau and\n                  Henrique Lopes Cardoso and\n                  Lu{\\'{\\i}}s Paulo Reis},\n  title        = {Compound Movement Recognition Using Dynamic Movement Primitives},\n  booktitle    = {Progress in Artificial Intelligence - 20th {EPIA} Conference on Artificial\n                  Intelligence, {EPIA} 2021, Virtual Event, September 7-9, 2021, Proceedings},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {12981},\n  pages        = {456--468},\n  publisher    = {Springer},\n  year         = {2021},\n  url          = {https://doi.org/10.1007/978-3-030-86230-5\\_36},\n  doi          = {10.1007/978-3-030-86230-5\\_36},\n}"
   },
   {
    "key": "conf/epia/RibeiroFSM21",
@@ -1512,7 +1566,8 @@
    "year": "2021",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-030-86230-5_50",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/epia/RibeiroFSM21,\n  author       = {Jo{\\~{a}}o G. Ribeiro and\n                  Miguel Faria and\n                  Alberto Sardinha and\n                  Francisco S. Melo},\n  editor       = {Goreti Marreiros and\n                  Francisco S. Melo and\n                  Nuno Lau and\n                  Henrique Lopes Cardoso and\n                  Lu{\\'{\\i}}s Paulo Reis},\n  title        = {Helping People on the Fly: Ad Hoc Teamwork for Human-Robot Teams},\n  booktitle    = {Progress in Artificial Intelligence - 20th {EPIA} Conference on Artificial\n                  Intelligence, {EPIA} 2021, Virtual Event, September 7-9, 2021, Proceedings},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {12981},\n  pages        = {635--647},\n  publisher    = {Springer},\n  year         = {2021},\n  url          = {https://doi.org/10.1007/978-3-030-86230-5\\_50},\n  doi          = {10.1007/978-3-030-86230-5\\_50},\n}"
   },
   {
    "key": "conf/epia/SantosRSM21",
@@ -1540,7 +1595,8 @@
    "year": "2021",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-030-86230-5_51",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/epia/SantosRSM21,\n  author       = {Pedro M. Santos and\n                  Jo{\\~{a}}o G. Ribeiro and\n                  Alberto Sardinha and\n                  Francisco S. Melo},\n  editor       = {Goreti Marreiros and\n                  Francisco S. Melo and\n                  Nuno Lau and\n                  Henrique Lopes Cardoso and\n                  Lu{\\'{\\i}}s Paulo Reis},\n  title        = {Ad Hoc Teamwork in the Presence of Non-stationary Teammates},\n  booktitle    = {Progress in Artificial Intelligence - 20th {EPIA} Conference on Artificial\n                  Intelligence, {EPIA} 2021, Virtual Event, September 7-9, 2021, Proceedings},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {12981},\n  pages        = {648--660},\n  publisher    = {Springer},\n  year         = {2021},\n  url          = {https://doi.org/10.1007/978-3-030-86230-5\\_51},\n  doi          = {10.1007/978-3-030-86230-5\\_51},\n}"
   },
   {
    "key": "conf/icra/KordiaM21",
@@ -1560,7 +1616,8 @@
    "year": "2021",
    "type": "Conference",
    "url": "https://doi.org/10.1109/ICRA48506.2021.9562001",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/icra/KordiaM21,\n  author       = {Ali H. Kordia and\n                  Francisco S. Melo},\n  title        = {Movement recognition and prediction using DMPs},\n  booktitle    = {{IEEE} International Conference on Robotics and Automation, {ICRA}\n                  2021, Xi'an, China, May 30 - June 5, 2021},\n  pages        = {8544--8550},\n  publisher    = {{IEEE}},\n  year         = {2021},\n  url          = {https://doi.org/10.1109/ICRA48506.2021.9562001},\n  doi          = {10.1109/ICRA48506.2021.9562001},\n}"
   },
   {
    "key": "conf/ro-man/FariaMP21",
@@ -1584,7 +1641,8 @@
    "year": "2021",
    "type": "Conference",
    "url": "https://doi.org/10.1109/RO-MAN50785.2021.9515485",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/ro-man/FariaMP21,\n  author       = {Miguel Faria and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  title        = {Understanding Robots: Making Robots More Legible in Multi-Party Interactions},\n  booktitle    = {30th {IEEE} International Conference on Robot {\\&} Human Interactive\n                  Communication, {RO-MAN} 2021, Vancouver, BC, Canada, August 8-12,\n                  2021},\n  pages        = {1031--1036},\n  publisher    = {{IEEE}},\n  year         = {2021},\n  url          = {https://doi.org/10.1109/RO-MAN50785.2021.9515485},\n  doi          = {10.1109/RO-MAN50785.2021.9515485},\n}"
   },
   {
    "key": "conf/epia/2021",
@@ -1616,7 +1674,8 @@
    "year": "2021",
    "type": "Edited",
    "url": "https://doi.org/10.1007/978-3-030-86230-5",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@proceedings{DBLP:conf/epia/2021,\n  editor       = {Goreti Marreiros and\n                  Francisco S. Melo and\n                  Nuno Lau and\n                  Henrique Lopes Cardoso and\n                  Lu{\\'{\\i}}s Paulo Reis},\n  title        = {Progress in Artificial Intelligence - 20th {EPIA} Conference on Artificial\n                  Intelligence, {EPIA} 2021, Virtual Event, September 7-9, 2021, Proceedings},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {12981},\n  publisher    = {Springer},\n  year         = {2021},\n  url          = {https://doi.org/10.1007/978-3-030-86230-5},\n  doi          = {10.1007/978-3-030-86230-5},\n  isbn         = {978-3-030-86229-9},\n}"
   },
   {
    "key": "journals/corr/abs-2101-09614",
@@ -1644,7 +1703,8 @@
    "year": "2021",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.2101.09614",
-   "pdf": "https://arxiv.org/pdf/2101.09614"
+   "pdf": "https://arxiv.org/pdf/2101.09614",
+   "bib": "@article{DBLP:journals/corr/abs-2101-09614,\n  author       = {Guilherme S. Varela and\n                  Pedro P. Santos and\n                  Alberto Sardinha and\n                  Francisco S. Melo},\n  title        = {A Methodology for the Development of RL-Based Adaptive Traffic Signal\n                  Controllers},\n  journal      = {CoRR},\n  volume       = {abs/2101.09614},\n  year         = {2021},\n  url          = {https://doi.org/10.48550/arXiv.2101.09614},\n  doi          = {10.48550/ARXIV.2101.09614},\n  eprinttype   = {arXiv},\n  eprint       = {2101.09614},\n}"
   },
   {
    "key": "journals/corr/abs-2106-15594",
@@ -1668,7 +1728,8 @@
    "year": "2021",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.2106.15594",
-   "pdf": "https://arxiv.org/pdf/2106.15594"
+   "pdf": "https://arxiv.org/pdf/2106.15594",
+   "bib": "@article{DBLP:journals/corr/abs-2106-15594,\n  author       = {Ricardo Quinteiro and\n                  Francisco S. Melo and\n                  Pedro A. Santos},\n  title        = {Limited depth bandit-based strategy for Monte Carlo planning in continuous\n                  action spaces},\n  journal      = {CoRR},\n  volume       = {abs/2106.15594},\n  year         = {2021},\n  url          = {https://doi.org/10.48550/arXiv.2106.15594},\n  doi          = {10.48550/ARXIV.2106.15594},\n  eprinttype   = {arXiv},\n  eprint       = {2106.15594},\n}"
   },
   {
    "key": "journals/corr/abs-2111-11758",
@@ -1696,7 +1757,8 @@
    "year": "2021",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.2111.11758",
-   "pdf": "https://arxiv.org/pdf/2111.11758"
+   "pdf": "https://arxiv.org/pdf/2111.11758",
+   "bib": "@article{DBLP:journals/corr/abs-2111-11758,\n  author       = {Pedro P. Santos and\n                  Francisco S. Melo and\n                  Alberto Sardinha and\n                  Diogo S. Carvalho},\n  title        = {Understanding the Impact of Data Distribution on Q-learning with Function\n                  Approximation},\n  journal      = {CoRR},\n  volume       = {abs/2111.11758},\n  year         = {2021},\n  url          = {https://doi.org/10.48550/arXiv.2111.11758},\n  doi          = {10.48550/ARXIV.2111.11758},\n  eprinttype   = {arXiv},\n  eprint       = {2111.11758},\n}"
   },
   {
    "key": "journals/aamas/BarakaMCV20",
@@ -1724,7 +1786,8 @@
    "year": "2020",
    "type": "Journal",
    "url": "https://doi.org/10.1007/s10458-020-09458-7",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@article{DBLP:journals/aamas/BarakaMCV20,\n  author       = {Kim Baraka and\n                  Francisco S. Melo and\n                  Marta Couto and\n                  Manuela Veloso},\n  title        = {Optimal action sequence generation for assistive agents in fixed horizon\n                  tasks},\n  journal      = {Auton. Agents Multi Agent Syst.},\n  volume       = {34},\n  number       = {2},\n  pages        = {33},\n  year         = {2020},\n  url          = {https://doi.org/10.1007/s10458-020-09458-7},\n  doi          = {10.1007/S10458-020-09458-7},\n}"
   },
   {
    "key": "conf/atal/SilvaVMPV20",
@@ -1756,7 +1819,8 @@
    "year": "2020",
    "type": "Conference",
    "url": "https://dl.acm.org/doi/10.5555/3398761.3398907",
-   "pdf": "pdfs/conf-atal-SilvaVMPV20.pdf"
+   "pdf": "pdfs/conf-atal-SilvaVMPV20.pdf",
+   "bib": "@inproceedings{DBLP:conf/atal/SilvaVMPV20,\n  author       = {Rui Silva and\n                  Miguel Vasco and\n                  Francisco S. Melo and\n                  Ana Paiva and\n                  Manuela Veloso},\n  editor       = {Amal El Fallah Seghrouchni and\n                  Gita Sukthankar and\n                  Bo An and\n                  Neil Yorke{-}Smith},\n  title        = {Playing Games in the Dark: An Approach for Cross-Modality Transfer\n                  in Reinforcement Learning},\n  booktitle    = {Proceedings of the 19th International Conference on Autonomous Agents\n                  and Multiagent Systems, {AAMAS} '20, Auckland, New Zealand, May 9-13,\n                  2020},\n  pages        = {1260--1268},\n  publisher    = {International Foundation for Autonomous Agents and Multiagent Systems},\n  year         = {2020},\n  url          = {https://dl.acm.org/doi/10.5555/3398761.3398907},\n  doi          = {10.5555/3398761.3398907},\n}"
   },
   {
    "key": "conf/icarcv/KordiaM20",
@@ -1776,7 +1840,8 @@
    "year": "2020",
    "type": "Conference",
    "url": "https://doi.org/10.1109/ICARCV50220.2020.9305399",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/icarcv/KordiaM20,\n  author       = {Ali H. Kordia and\n                  Francisco S. Melo},\n  title        = {An End-to-end Approach for Learning and Generating Complex Robot Motions\n                  from Demonstration},\n  booktitle    = {16th International Conference on Control, Automation, Robotics and\n                  Vision, {ICARCV} 2020, Shenzhen, China, December 13-15, 2020},\n  pages        = {1008--1014},\n  publisher    = {{IEEE}},\n  year         = {2020},\n  url          = {https://doi.org/10.1109/ICARCV50220.2020.9305399},\n  doi          = {10.1109/ICARCV50220.2020.9305399},\n}"
   },
   {
    "key": "conf/nips/CarvalhoM020",
@@ -1800,7 +1865,8 @@
    "year": "2020",
    "type": "Conference",
    "url": "https://proceedings.neurips.cc/paper/2020/hash/e1696007be4eefb81b1a1d39ce48681b-Abstract.html",
-   "pdf": "https://proceedings.neurips.cc/paper/2020/file/e1696007be4eefb81b1a1d39ce48681b-Paper.pdf"
+   "pdf": "https://proceedings.neurips.cc/paper/2020/file/e1696007be4eefb81b1a1d39ce48681b-Paper.pdf",
+   "bib": "@inproceedings{DBLP:conf/nips/CarvalhoM020,\n  author       = {Diogo S. Carvalho and\n                  Francisco S. Melo and\n                  Pedro Santos},\n  editor       = {Hugo Larochelle and\n                  Marc'Aurelio Ranzato and\n                  Raia Hadsell and\n                  Maria{-}Florina Balcan and\n                  Hsuan{-}Tien Lin},\n  title        = {A new convergent variant of Q-learning with linear function approximation},\n  booktitle    = {Advances in Neural Information Processing Systems 33: Annual Conference\n                  on Neural Information Processing Systems 2020, NeurIPS 2020, December\n                  6-12, 2020, virtual},\n  year         = {2020},\n  url          = {https://proceedings.neurips.cc/paper/2020/hash/e1696007be4eefb81b1a1d39ce48681b-Abstract.html},\n}"
   },
   {
    "key": "conf/nlxai/TulliWPMC20",
@@ -1832,7 +1898,8 @@
    "year": "2020",
    "type": "Conference",
    "url": "https://aclanthology.org/2020.nl4xai-1.13/",
-   "pdf": "https://aclanthology.org/2020.nl4xai-1.13.pdf"
+   "pdf": "https://aclanthology.org/2020.nl4xai-1.13.pdf",
+   "bib": "@inproceedings{DBLP:conf/nlxai/TulliWPMC20,\n  author       = {Silvia Tulli and\n                  Sebastian Wallk{\\\"{o}}tter and\n                  Ana Paiva and\n                  Francisco S. Melo and\n                  Mohamed Chetouani},\n  editor       = {Jos{\\'{e}} Maria Alonso and\n                  Alejandro Catal{\\'{a}}},\n  title        = {Learning from Explanations and Demonstrations: {A} Pilot Study},\n  booktitle    = {2nd Workshop on Interactive Natural Language Technology for Explainable\n                  Artificial Intelligence, NL4XAI@INGL 2020, Dublin, Ireland, December\n                  18, 2020},\n  pages        = {61--66},\n  publisher    = {Association for Computational Linguistics},\n  year         = {2020},\n  url          = {https://aclanthology.org/2020.nl4xai-1.13/},\n}"
   },
   {
    "key": "conf/rss/CorreiaGMMP20",
@@ -1864,7 +1931,8 @@
    "year": "2020",
    "type": "Conference",
    "url": "https://doi.org/10.15607/RSS.2020.XVI.010",
-   "pdf": "https://doi.org/10.15607/rss.2020.xvi.010"
+   "pdf": "https://doi.org/10.15607/rss.2020.xvi.010",
+   "bib": "@inproceedings{DBLP:conf/rss/CorreiaGMMP20,\n  author       = {Filipa Correia and\n                  Samuel Gomes and\n                  Samuel Mascarenhas and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  editor       = {Marc Toussaint and\n                  Antonio Bicchi and\n                  Tucker Hermans},\n  title        = {The Dark Side of Embodiment - Teaming Up With Robots {VS} Disembodied\n                  Agents},\n  booktitle    = {Robotics: Science and Systems XVI, Virtual Event / Corvalis, Oregon,\n                  USA, July 12-16, 2020},\n  year         = {2020},\n  url          = {https://doi.org/10.15607/RSS.2020.XVI.010},\n  doi          = {10.15607/RSS.2020.XVI.010},\n}"
   },
   {
    "key": "conf/socrob/TulliCVYMP20",
@@ -1900,7 +1968,8 @@
    "year": "2020",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-030-62056-1_3",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/socrob/TulliCVYMP20,\n  author       = {Silvia Tulli and\n                  Marta Couto and\n                  Miguel Vasco and\n                  Elmira Yadollahi and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  editor       = {Alan R. Wagner and\n                  David Feil{-}Seifer and\n                  Kerstin Sophie Haring and\n                  Silvia Rossi and\n                  Thomas Emrys Williams and\n                  Hongsheng He and\n                  Shuzhi Sam Ge},\n  title        = {Explainable Agency by Revealing Suboptimality in Child-Robot Learning\n                  Scenarios},\n  booktitle    = {Social Robotics - 12th International Conference, {ICSR} 2020, Golden,\n                  CO, USA, November 14-18, 2020, Proceedings},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {12483},\n  pages        = {23--35},\n  publisher    = {Springer},\n  year         = {2020},\n  url          = {https://doi.org/10.1007/978-3-030-62056-1\\_3},\n  doi          = {10.1007/978-3-030-62056-1\\_3},\n}"
   },
   {
    "key": "journals/corr/abs-2006-02991",
@@ -1924,7 +1993,8 @@
    "year": "2020",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.2006.02991",
-   "pdf": "https://arxiv.org/pdf/2006.02991"
+   "pdf": "https://arxiv.org/pdf/2006.02991",
+   "bib": "@article{DBLP:journals/corr/abs-2006-02991,\n  author       = {Miguel Vasco and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  title        = {{MHVAE:} a Human-Inspired Deep Hierarchical Generative Model for Multimodal\n                  Representation Learning},\n  journal      = {CoRR},\n  volume       = {abs/2006.02991},\n  year         = {2020},\n  url          = {https://doi.org/10.48550/arXiv.2006.02991},\n  doi          = {10.48550/ARXIV.2006.02991},\n  eprinttype   = {arXiv},\n  eprint       = {2006.02991},\n}"
   },
   {
    "key": "journals/arobots/CorreiaPARMP19",
@@ -1960,7 +2030,8 @@
    "year": "2019",
    "type": "Journal",
    "url": "https://doi.org/10.1007/s10514-018-9767-9",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@article{DBLP:journals/arobots/CorreiaPARMP19,\n  author       = {Filipa Correia and\n                  Sofia Petisca and\n                  Patr{\\'{\\i}}cia Alves{-}Oliveira and\n                  Tiago Ribeiro and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  title        = {\"I Choose... YOU!\" Membership preferences in human-robot teams},\n  journal      = {Auton. Robots},\n  volume       = {43},\n  number       = {2},\n  pages        = {359--373},\n  year         = {2019},\n  url          = {https://doi.org/10.1007/s10514-018-9767-9},\n  doi          = {10.1007/S10514-018-9767-9},\n}"
   },
   {
    "key": "journals/arobots/YinMPB19",
@@ -1988,7 +2059,8 @@
    "year": "2019",
    "type": "Journal",
    "url": "https://doi.org/10.1007/s10514-018-9757-y",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@article{DBLP:journals/arobots/YinMPB19,\n  author       = {Hang Yin and\n                  Francisco S. Melo and\n                  Ana Paiva and\n                  Aude Billard},\n  title        = {An ensemble inverse optimal control approach for robotic task learning\n                  and adaptation},\n  journal      = {Auton. Robots},\n  volume       = {43},\n  number       = {4},\n  pages        = {875--896},\n  year         = {2019},\n  url          = {https://doi.org/10.1007/s10514-018-9757-y},\n  doi          = {10.1007/S10514-018-9757-Y},\n}"
   },
   {
    "key": "journals/artmed/MeloSBCFFGJKLLM19",
@@ -2076,7 +2148,8 @@
    "year": "2019",
    "type": "Journal",
    "url": "https://doi.org/10.1016/j.artmed.2018.12.003",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@article{DBLP:journals/artmed/MeloSBCFFGJKLLM19,\n  author       = {Francisco S. Melo and\n                  Alberto Sardinha and\n                  David Belo and\n                  Marta Couto and\n                  Miguel Faria and\n                  Anabela Farias and\n                  Hugo Gamboa and\n                  C{\\'{a}}tia Jesus and\n                  Mithun Kinarullathil and\n                  Pedro U. Lima and\n                  Lu{\\'{\\i}}s Luz and\n                  Andr{\\'{e}} Mateus and\n                  Isabel Melo and\n                  Plinio Moreno and\n                  Daniel Faustino de Noronha Os{\\'{o}}rio and\n                  Ana Paiva and\n                  Jhielson M. Pimentel and\n                  Jo{\\~{a}}o Rodrigues and\n                  Rodrigo Ventura},\n  title        = {Project {INSIDE:} towards autonomous semi-unstructured human-robot\n                  social interaction in autism therapy},\n  journal      = {Artif. Intell. Medicine},\n  volume       = {96},\n  pages        = {198--216},\n  year         = {2019},\n  url          = {https://doi.org/10.1016/j.artmed.2018.12.003},\n  doi          = {10.1016/J.ARTMED.2018.12.003},\n}"
   },
   {
    "key": "journals/paladyn/BarakaMV19",
@@ -2100,7 +2173,8 @@
    "year": "2019",
    "type": "Journal",
    "url": "https://doi.org/10.1515/pjbr-2019-0011",
-   "pdf": "pdfs/journals-paladyn-BarakaMV19.pdf"
+   "pdf": "pdfs/journals-paladyn-BarakaMV19.pdf",
+   "bib": "@article{DBLP:journals/paladyn/BarakaMV19,\n  author       = {Kim Baraka and\n                  Francisco S. Melo and\n                  Manuela Veloso},\n  title        = {Interactive robots with model-based 'autism-like' behaviors},\n  journal      = {Paladyn J. Behav. Robotics},\n  volume       = {10},\n  number       = {1},\n  pages        = {103--116},\n  year         = {2019},\n  url          = {https://doi.org/10.1515/pjbr-2019-0011},\n  doi          = {10.1515/PJBR-2019-0011},\n}"
   },
   {
    "key": "journals/thri/Alves-OliveiraS19",
@@ -2132,7 +2206,8 @@
    "year": "2019",
    "type": "Journal",
    "url": "https://doi.org/10.1145/3300188",
-   "pdf": "pdfs/journals-thri-Alves-OliveiraS19.pdf"
+   "pdf": "pdfs/journals-thri-Alves-OliveiraS19.pdf",
+   "bib": "@article{DBLP:journals/thri/Alves-OliveiraS19,\n  author       = {Patr{\\'{\\i}}cia Alves{-}Oliveira and\n                  Pedro Sequeira and\n                  Francisco S. Melo and\n                  Ginevra Castellano and\n                  Ana Paiva},\n  title        = {Empathic Robot for Group Learning: {A} Field Study},\n  journal      = {{ACM} Trans. Hum. Robot Interact.},\n  volume       = {8},\n  number       = {1},\n  pages        = {3:1--3:34},\n  year         = {2019},\n  url          = {https://doi.org/10.1145/3300188},\n  doi          = {10.1145/3300188},\n}"
   },
   {
    "key": "conf/aips/SilvaFMV19",
@@ -2160,7 +2235,8 @@
    "year": "2019",
    "type": "Conference",
    "url": "https://ojs.aaai.org/index.php/ICAPS/article/view/3551",
-   "pdf": "pdfs/conf-aips-SilvaFMV19.pdf"
+   "pdf": "pdfs/conf-aips-SilvaFMV19.pdf",
+   "bib": "@inproceedings{DBLP:conf/aips/SilvaFMV19,\n  author       = {Rui Silva and\n                  Gabriele Farina and\n                  Francisco S. Melo and\n                  Manuela Veloso},\n  editor       = {J. Benton and\n                  Nir Lipovetzky and\n                  Eva Onaindia and\n                  David E. Smith and\n                  Siddharth Srivastava},\n  title        = {A Theoretical and Algorithmic Analysis of Configurable MDPs},\n  booktitle    = {Proceedings of the Twenty-Ninth International Conference on Automated\n                  Planning and Scheduling, {ICAPS} 2019, Berkeley, CA, USA, July 11-15,\n                  2019},\n  pages        = {455--463},\n  publisher    = {{AAAI} Press},\n  year         = {2019},\n  url          = {https://ojs.aaai.org/index.php/ICAPS/article/view/3551},\n}"
   },
   {
    "key": "conf/atal/TulliCMGMP19",
@@ -2196,7 +2272,8 @@
    "year": "2019",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-030-30391-4_2",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/atal/TulliCMGMP19,\n  author       = {Silvia Tulli and\n                  Filipa Correia and\n                  Samuel Mascarenhas and\n                  Samuel Gomes and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  editor       = {Davide Calvaresi and\n                  Amro Najjar and\n                  Michael Schumacher and\n                  Kary Fr{\\\"{a}}mling},\n  title        = {Effects of Agents' Transparency on Teamwork},\n  booktitle    = {Explainable, Transparent Autonomous Agents and Multi-Agent Systems\n                  - First International Workshop, {EXTRAAMAS} 2019, Montreal, QC, Canada,\n                  May 13-14, 2019, Revised Selected Papers},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {11763},\n  pages        = {22--37},\n  publisher    = {Springer},\n  year         = {2019},\n  url          = {https://doi.org/10.1007/978-3-030-30391-4\\_2},\n  doi          = {10.1007/978-3-030-30391-4\\_2},\n}"
   },
   {
    "key": "conf/atal/BarakaCMV19",
@@ -2224,7 +2301,8 @@
    "year": "2019",
    "type": "Conference",
    "url": "http://dl.acm.org/citation.cfm?id=3331679",
-   "pdf": "pdfs/conf-atal-BarakaCMV19.pdf"
+   "pdf": "pdfs/conf-atal-BarakaCMV19.pdf",
+   "bib": "@inproceedings{DBLP:conf/atal/BarakaCMV19,\n  author       = {Kim Baraka and\n                  Marta Couto and\n                  Francisco S. Melo and\n                  Manuela Veloso},\n  editor       = {Edith Elkind and\n                  Manuela Veloso and\n                  Noa Agmon and\n                  Matthew E. Taylor},\n  title        = {An Optimization Approach for Structured Agent-Based Provider/Receiver\n                  Tasks},\n  booktitle    = {Proceedings of the 18th International Conference on Autonomous Agents\n                  and MultiAgent Systems, {AAMAS} '19, Montreal, QC, Canada, May 13-17,\n                  2019},\n  pages        = {95--103},\n  publisher    = {International Foundation for Autonomous Agents and Multiagent Systems},\n  year         = {2019},\n  url          = {http://dl.acm.org/citation.cfm?id=3331679},\n}"
   },
   {
    "key": "conf/atal/VascoMMPI19",
@@ -2256,7 +2334,8 @@
    "year": "2019",
    "type": "Conference",
    "url": "http://dl.acm.org/citation.cfm?id=3332072",
-   "pdf": "pdfs/conf-atal-VascoMMPI19.pdf"
+   "pdf": "pdfs/conf-atal-VascoMMPI19.pdf",
+   "bib": "@inproceedings{DBLP:conf/atal/VascoMMPI19,\n  author       = {Miguel Vasco and\n                  Francisco S. Melo and\n                  David Martins de Matos and\n                  Ana Paiva and\n                  Tetsunari Inamura},\n  editor       = {Edith Elkind and\n                  Manuela Veloso and\n                  Noa Agmon and\n                  Matthew E. Taylor},\n  title        = {Online Motion Concept Learning: {A} Novel Algorithm for Sample-Efficient\n                  Learning and Recognition of Human Actions},\n  booktitle    = {Proceedings of the 18th International Conference on Autonomous Agents\n                  and MultiAgent Systems, {AAMAS} '19, Montreal, QC, Canada, May 13-17,\n                  2019},\n  pages        = {2244--2246},\n  publisher    = {International Foundation for Autonomous Agents and Multiagent Systems},\n  year         = {2019},\n  url          = {http://dl.acm.org/citation.cfm?id=3332072},\n}"
   },
   {
    "key": "conf/atal/CorreiaMGTSSPMP19",
@@ -2304,7 +2383,8 @@
    "year": "2019",
    "type": "Conference",
    "url": "http://dl.acm.org/citation.cfm?id=3332109",
-   "pdf": "pdfs/conf-atal-CorreiaMGTSSPMP19.pdf"
+   "pdf": "pdfs/conf-atal-CorreiaMGTSSPMP19.pdf",
+   "bib": "@inproceedings{DBLP:conf/atal/CorreiaMGTSSPMP19,\n  author       = {Filipa Correia and\n                  Samuel Mascarenhas and\n                  Samuel Gomes and\n                  Silvia Tulli and\n                  Fernando P. Santos and\n                  Francisco C. Santos and\n                  Rui Prada and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  editor       = {Edith Elkind and\n                  Manuela Veloso and\n                  Noa Agmon and\n                  Matthew E. Taylor},\n  title        = {For The Record - {A} Public Goods Game For Exploring Human-Robot Collaboration},\n  booktitle    = {Proceedings of the 18th International Conference on Autonomous Agents\n                  and MultiAgent Systems, {AAMAS} '19, Montreal, QC, Canada, May 13-17,\n                  2019},\n  pages        = {2351--2353},\n  publisher    = {International Foundation for Autonomous Agents and Multiagent Systems},\n  year         = {2019},\n  url          = {http://dl.acm.org/citation.cfm?id=3332109},\n}"
   },
   {
    "key": "conf/epia/SaltaPM19",
@@ -2328,7 +2408,8 @@
    "year": "2019",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-030-30241-2_8",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/epia/SaltaPM19,\n  author       = {Ana Salta and\n                  Rui Prada and\n                  Francisco S. Melo},\n  editor       = {Paulo Moura Oliveira and\n                  Paulo Novais and\n                  Lu{\\'{\\i}}s Paulo Reis},\n  title        = {Solving Motion and Action Planning for a Cooperative Agent Problem\n                  Using Geometry Friends},\n  booktitle    = {Progress in Artificial Intelligence - 19th {EPIA} Conference on Artificial\n                  Intelligence, {EPIA} 2019, Vila Real, Portugal, September 3-6, 2019,\n                  Proceedings, Part {I}},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {11804},\n  pages        = {86--97},\n  publisher    = {Springer},\n  year         = {2019},\n  url          = {https://doi.org/10.1007/978-3-030-30241-2\\_8},\n  doi          = {10.1007/978-3-030-30241-2\\_8},\n}"
   },
   {
    "key": "conf/gcai/RibeiroMD19",
@@ -2352,7 +2433,8 @@
    "year": "2019",
    "type": "Conference",
    "url": "https://doi.org/10.29007/g7bg",
-   "pdf": "pdfs/conf-gcai-RibeiroMD19.pdf"
+   "pdf": "pdfs/conf-gcai-RibeiroMD19.pdf",
+   "bib": "@inproceedings{DBLP:conf/gcai/RibeiroMD19,\n  author       = {Jo{\\~{a}}o G. Ribeiro and\n                  Francisco S. Melo and\n                  Jo{\\~{a}}o Dias},\n  editor       = {Diego Calvanese and\n                  Luca Iocchi},\n  title        = {Multi-task Learning and Catastrophic Forgetting in Continual Reinforcement\n                  Learning},\n  booktitle    = {{GCAI} 2019. Proceedings of the 5th Global Conference on Artificial\n                  Intelligence, Bozen/Bolzano, Italy, 17-19 September 2019},\n  series       = {EPiC Series in Computing},\n  volume       = {65},\n  pages        = {163--175},\n  publisher    = {EasyChair},\n  year         = {2019},\n  url          = {https://doi.org/10.29007/g7bg},\n  doi          = {10.29007/G7BG},\n}"
   },
   {
    "key": "conf/hri/CorreiaMGALPMP19",
@@ -2396,7 +2478,8 @@
    "year": "2019",
    "type": "Conference",
    "url": "https://doi.org/10.1109/HRI.2019.8673299",
-   "pdf": "pdfs/conf-hri-CorreiaMGALPMP19.pdf"
+   "pdf": "pdfs/conf-hri-CorreiaMGALPMP19.pdf",
+   "bib": "@inproceedings{DBLP:conf/hri/CorreiaMGALPMP19,\n  author       = {Filipa Correia and\n                  Samuel Francisco Mascarenhas and\n                  Samuel Gomes and\n                  Patr{\\'{\\i}}cia Arriaga and\n                  Iolanda Leite and\n                  Rui Prada and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  title        = {Exploring Prosociality in Human-Robot Teams},\n  booktitle    = {14th {ACM/IEEE} International Conference on Human-Robot Interaction,\n                  {HRI} 2019, Daegu, South Korea, March 11-14, 2019},\n  pages        = {143--151},\n  publisher    = {{IEEE}},\n  year         = {2019},\n  url          = {https://doi.org/10.1109/HRI.2019.8673299},\n  doi          = {10.1109/HRI.2019.8673299},\n}"
   },
   {
    "key": "conf/hri/CorreiaMP19",
@@ -2420,7 +2503,8 @@
    "year": "2019",
    "type": "Conference",
    "url": "https://doi.org/10.1109/HRI.2019.8673089",
-   "pdf": "pdfs/conf-hri-CorreiaMP19.pdf"
+   "pdf": "pdfs/conf-hri-CorreiaMP19.pdf",
+   "bib": "@inproceedings{DBLP:conf/hri/CorreiaMP19,\n  author       = {Filipa Correia and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  title        = {Group Intelligence on Social Robots},\n  booktitle    = {14th {ACM/IEEE} International Conference on Human-Robot Interaction,\n                  {HRI} 2019, Daegu, South Korea, March 11-14, 2019},\n  pages        = {703--705},\n  publisher    = {{IEEE}},\n  year         = {2019},\n  url          = {https://doi.org/10.1109/HRI.2019.8673089},\n  doi          = {10.1109/HRI.2019.8673089},\n}"
   },
   {
    "key": "conf/iros/VascoMMPI19",
@@ -2452,7 +2536,8 @@
    "year": "2019",
    "type": "Conference",
    "url": "https://doi.org/10.1109/IROS40897.2019.8967635",
-   "pdf": "https://arxiv.org/pdf/1903.02511"
+   "pdf": "https://arxiv.org/pdf/1903.02511",
+   "bib": "@inproceedings{DBLP:conf/iros/VascoMMPI19,\n  author       = {Miguel Vasco and\n                  Francisco S. Melo and\n                  David Martins de Matos and\n                  Ana Paiva and\n                  Tetsunari Inamura},\n  title        = {Learning Multimodal Representations for Sample-efficient Recognition\n                  of Human Actions},\n  booktitle    = {2019 {IEEE/RSJ} International Conference on Intelligent Robots and\n                  Systems, {IROS} 2019, Macau, SAR, China, November 3-8, 2019},\n  pages        = {4288--4293},\n  publisher    = {{IEEE}},\n  year         = {2019},\n  url          = {https://doi.org/10.1109/IROS40897.2019.8967635},\n  doi          = {10.1109/IROS40897.2019.8967635},\n}"
   },
   {
    "key": "conf/ro-man/CorreiaPCMCGLSS19",
@@ -2504,7 +2589,8 @@
    "year": "2019",
    "type": "Conference",
    "url": "https://doi.org/10.1109/RO-MAN46459.2019.8956324",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/ro-man/CorreiaPCMCGLSS19,\n  author       = {Filipa Correia and\n                  Ana Paiva and\n                  Shruti Chandra and\n                  Samuel Mascarenhas and\n                  Julien Charles{-}Nicolas and\n                  Justin Gally and\n                  Diana Lopes and\n                  Fernando P. Santos and\n                  Francisco C. Santos and\n                  Francisco S. Melo},\n  title        = {Walk the Talk! Exploring (Mis)Alignment of Words and Deeds by Robotic\n                  Teammates in a Public Goods Game},\n  booktitle    = {28th {IEEE} International Conference on Robot and Human Interactive\n                  Communication, {RO-MAN} 2019, New Delhi, India, October 14-18, 2019},\n  pages        = {1--7},\n  publisher    = {{IEEE}},\n  year         = {2019},\n  url          = {https://doi.org/10.1109/RO-MAN46459.2019.8956324},\n  doi          = {10.1109/RO-MAN46459.2019.8956324},\n}"
   },
   {
    "key": "journals/corr/abs-1911-13009",
@@ -2524,7 +2610,8 @@
    "year": "2019",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.1911.13009",
-   "pdf": "https://arxiv.org/pdf/1911.13009"
+   "pdf": "https://arxiv.org/pdf/1911.13009",
+   "bib": "@article{DBLP:journals/corr/abs-1911-13009,\n  author       = {Manuel Lopes and\n                  Francisco S. Melo},\n  title        = {Class Teaching for Inverse Reinforcement Learners},\n  journal      = {CoRR},\n  volume       = {abs/1911.13009},\n  year         = {2019},\n  url          = {https://doi.org/10.48550/arXiv.1911.13009},\n  doi          = {10.48550/ARXIV.1911.13009},\n  eprinttype   = {arXiv},\n  eprint       = {1911.13009},\n}"
   },
   {
    "key": "journals/ijsg/MeloMP18",
@@ -2548,7 +2635,8 @@
    "year": "2018",
    "type": "Journal",
    "url": "https://doi.org/10.17083/ijsg.v5i3.256",
-   "pdf": "pdfs/journals-ijsg-MeloMP18.pdf"
+   "pdf": "pdfs/journals-ijsg-MeloMP18.pdf",
+   "bib": "@article{DBLP:journals/ijsg/MeloMP18,\n  author       = {Francisco S. Melo and\n                  Samuel Mascarenhas and\n                  Ana Paiva},\n  title        = {A tutorial on machine learning for {\\unicode{8232}}interactive pedagogical\n                  systems},\n  journal      = {Int. J. Serious Games},\n  volume       = {5},\n  number       = {3},\n  pages        = {79--112},\n  year         = {2018},\n  url          = {https://doi.org/10.17083/ijsg.v5i3.256},\n  doi          = {10.17083/IJSG.V5I3.256},\n}"
   },
   {
    "key": "conf/atal/CorreiaGMMP18",
@@ -2580,7 +2668,8 @@
    "year": "2018",
    "type": "Conference",
    "url": "http://dl.acm.org/citation.cfm?id=3237459",
-   "pdf": "pdfs/conf-atal-CorreiaGMMP18.pdf"
+   "pdf": "pdfs/conf-atal-CorreiaGMMP18.pdf",
+   "bib": "@inproceedings{DBLP:conf/atal/CorreiaGMMP18,\n  author       = {Filipa Correia and\n                  Carla Guerra and\n                  Samuel Mascarenhas and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  editor       = {Elisabeth Andr{\\'{e}} and\n                  Sven Koenig and\n                  Mehdi Dastani and\n                  Gita Sukthankar},\n  title        = {Exploring the Impact of Fault Justification in Human-Robot Trust},\n  booktitle    = {Proceedings of the 17th International Conference on Autonomous Agents\n                  and MultiAgent Systems, {AAMAS} 2018, Stockholm, Sweden, July 10-15,\n                  2018},\n  pages        = {507--513},\n  publisher    = {International Foundation for Autonomous Agents and Multiagent Systems\n                  Richland, SC, {USA} / {ACM}},\n  year         = {2018},\n  url          = {http://dl.acm.org/citation.cfm?id=3237459},\n}"
   },
   {
    "key": "conf/gcai/SilvaMV18",
@@ -2604,7 +2693,8 @@
    "year": "2018",
    "type": "Conference",
    "url": "https://doi.org/10.29007/6jsv",
-   "pdf": "pdfs/conf-gcai-SilvaMV18.pdf"
+   "pdf": "pdfs/conf-gcai-SilvaMV18.pdf",
+   "bib": "@inproceedings{DBLP:conf/gcai/SilvaMV18,\n  author       = {Rui Silva and\n                  Francisco S. Melo and\n                  Manuela Veloso},\n  editor       = {Daniel D. Lee and\n                  Alexander Steen and\n                  Toby Walsh},\n  title        = {What if the World Were Different? Gradient-Based Exploration for New\n                  Optimal Policies},\n  booktitle    = {GCAI-2018, 4th Global Conference on Artificial Intelligence, Luxembourg,\n                  September 18-21, 2018},\n  series       = {EPiC Series in Computing},\n  volume       = {55},\n  pages        = {229--242},\n  publisher    = {EasyChair},\n  year         = {2018},\n  url          = {https://doi.org/10.29007/6jsv},\n  doi          = {10.29007/6JSV},\n}"
   },
   {
    "key": "conf/hri/CorreiaMPMP18",
@@ -2636,7 +2726,8 @@
    "year": "2018",
    "type": "Conference",
    "url": "https://doi.org/10.1145/3171221.3171252",
-   "pdf": "pdfs/conf-hri-CorreiaMPMP18.pdf"
+   "pdf": "pdfs/conf-hri-CorreiaMPMP18.pdf",
+   "bib": "@inproceedings{DBLP:conf/hri/CorreiaMPMP18,\n  author       = {Filipa Correia and\n                  Samuel Mascarenhas and\n                  Rui Prada and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  editor       = {Takayuki Kanda and\n                  Selma Sabanovic and\n                  Guy Hoffman and\n                  Adriana Tapus},\n  title        = {Group-based Emotions in Teams of Humans and Robots},\n  booktitle    = {Proceedings of the 2018 {ACM/IEEE} International Conference on Human-Robot\n                  Interaction, {HRI} 2018, Chicago, IL, USA, March 05-08, 2018},\n  pages        = {261--269},\n  publisher    = {{ACM}},\n  year         = {2018},\n  url          = {https://doi.org/10.1145/3171221.3171252},\n  doi          = {10.1145/3171221.3171252},\n}"
   },
   {
    "key": "conf/icgi2/AlvesGM18",
@@ -2660,7 +2751,8 @@
    "year": "2018",
    "type": "Conference",
    "url": "https://doi.org/10.1109/ITCGI.2018.8602700",
-   "pdf": "pdfs/conf-icgi2-AlvesGM18.pdf"
+   "pdf": "pdfs/conf-icgi2-AlvesGM18.pdf",
+   "bib": "@inproceedings{DBLP:conf/icgi2/AlvesGM18,\n  author       = {Tom{\\'{a}}s Alves and\n                  Sandra Gama and\n                  Francisco S. Melo},\n  title        = {Towards Guidelines for Mental State Induction in First-Person Shooters},\n  booktitle    = {International Conference on Graphics and Interaction, {ICGI} 2018,\n                  Lisbon, Portugal, November 15-16, 2018},\n  pages        = {1--4},\n  publisher    = {{IEEE}},\n  year         = {2018},\n  url          = {https://doi.org/10.1109/ITCGI.2018.8602700},\n  doi          = {10.1109/ITCGI.2018.8602700},\n}"
   },
   {
    "key": "conf/ijcai/MeloGL18",
@@ -2684,7 +2776,8 @@
    "year": "2018",
    "type": "Conference",
    "url": "https://doi.org/10.24963/ijcai.2018/356",
-   "pdf": "pdfs/conf-ijcai-MeloGL18.pdf"
+   "pdf": "pdfs/conf-ijcai-MeloGL18.pdf",
+   "bib": "@inproceedings{DBLP:conf/ijcai/MeloGL18,\n  author       = {Francisco S. Melo and\n                  Carla Guerra and\n                  Manuel Lopes},\n  editor       = {J{\\'{e}}r{\\^{o}}me Lang},\n  title        = {Interactive Optimal Teaching with Unknown Learners},\n  booktitle    = {Proceedings of the Twenty-Seventh International Joint Conference on\n                  Artificial Intelligence, {IJCAI} 2018, July 13-19, 2018, Stockholm,\n                  Sweden},\n  pages        = {2567--2573},\n  publisher    = {ijcai.org},\n  year         = {2018},\n  url          = {https://doi.org/10.24963/ijcai.2018/356},\n  doi          = {10.24963/IJCAI.2018/356},\n}"
   },
   {
    "key": "conf/segah/AlvesGM18",
@@ -2708,7 +2801,8 @@
    "year": "2018",
    "type": "Conference",
    "url": "https://doi.org/10.1109/SeGAH.2018.8401382",
-   "pdf": "pdfs/conf-segah-AlvesGM18.pdf"
+   "pdf": "pdfs/conf-segah-AlvesGM18.pdf",
+   "bib": "@inproceedings{DBLP:conf/segah/AlvesGM18,\n  author       = {Tom{\\'{a}}s Alves and\n                  Sandra Gama and\n                  Francisco S. Melo},\n  editor       = {Jo{\\~{a}}o L. Vila{\\c{c}}a and\n                  Thomas Grechenig and\n                  Duarte Duque and\n                  Nuno F. Rodrigues and\n                  Nuno Dias},\n  title        = {Flow adaptation in serious games for health},\n  booktitle    = {6th {IEEE} International Conference on Serious Games and Applications\n                  for Health, SeGAH 2018, Vienna, Austria, May 16-18, 2018},\n  pages        = {1--8},\n  publisher    = {{IEEE}},\n  year         = {2018},\n  url          = {https://doi.org/10.1109/SeGAH.2018.8401382},\n  doi          = {10.1109/SEGAH.2018.8401382},\n}"
   },
   {
    "key": "journals/corr/abs-1812-07613",
@@ -2872,7 +2966,8 @@
    "year": "2018",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.1812.07613",
-   "pdf": "https://arxiv.org/pdf/1812.07613"
+   "pdf": "https://arxiv.org/pdf/1812.07613",
+   "bib": "@article{DBLP:journals/corr/abs-1812-07613,\n  author       = {Pablo G{\\'{o}}mez Esteban and\n                  Daniel Hern{\\'{a}}ndez Garc{\\'{\\i}}a and\n                  Hee Rin Lee and\n                  Pauline Chevalier and\n                  Paul Baxter and\n                  Cindy L. Bethel and\n                  Jainendra Shukla and\n                  Joan Oliver and\n                  Domenec Puig and\n                  Jason R. Wilson and\n                  Linda Tickle{-}Degnen and\n                  Madeleine Bartlett and\n                  Tony Belpaeme and\n                  Serge Thill and\n                  Kim Baraka and\n                  Francisco S. Melo and\n                  Manuela Veloso and\n                  David Becerra and\n                  Maja J. Mataric and\n                  Eduard Fosch{-}Villaronga and\n                  Jordi Albo{-}Canals and\n                  Gloria Beraldo and\n                  Emanuele Menegatti and\n                  Valentina De Tommasi and\n                  Roberto Mancin and\n                  Franca Benini and\n                  Zachary Henkel and\n                  Kenna Baugus and\n                  David C. May and\n                  Lucile Dupuy and\n                  Wendy A. Rogers and\n                  Ronit Feingold Polak and\n                  Shelly Levy{-}Tzedek and\n                  Dagoberto Cruz{-}Sandoval and\n                  Jes{\\'{u}}s Favela and\n                  Michelle J. Johnson and\n                  Mayumi Mohan and\n                  Rochelle Mendonca},\n  title        = {Proceedings of the Workshop on Social Robots in Therapy: Focusing\n                  on Autonomy and Ethical Challenges},\n  journal      = {CoRR},\n  volume       = {abs/1812.07613},\n  year         = {2018},\n  url          = {https://doi.org/10.48550/arXiv.1812.07613},\n  doi          = {10.48550/ARXIV.1812.07613},\n  eprinttype   = {arXiv},\n  eprint       = {1812.07613},\n}"
   },
   {
    "key": "journals/ram/WitwickiCMCMLV17",
@@ -2912,7 +3007,8 @@
    "year": "2017",
    "type": "Journal",
    "url": "https://doi.org/10.1109/MRA.2017.2662222",
-   "pdf": "pdfs/journals-ram-WitwickiCMCMLV17.pdf"
+   "pdf": "pdfs/journals-ram-WitwickiCMCMLV17.pdf",
+   "bib": "@article{DBLP:journals/ram/WitwickiCMCMLV17,\n  author       = {Stefan J. Witwicki and\n                  Jos{\\'{e}} Carlos Castillo and\n                  Jo{\\~{a}}o V. Messias and\n                  Jes{\\'{u}}s Capit{\\'{a}}n and\n                  Francisco S. Melo and\n                  Pedro U. Lima and\n                  Manuela M. Veloso},\n  title        = {Autonomous Surveillance Robots: {A} Decision-Making Framework for\n                  Networked Muiltiagent Systems},\n  journal      = {{IEEE} Robotics Autom. Mag.},\n  volume       = {24},\n  number       = {3},\n  pages        = {52--64},\n  year         = {2017},\n  url          = {https://doi.org/10.1109/MRA.2017.2662222},\n  doi          = {10.1109/MRA.2017.2662222},\n}"
   },
   {
    "key": "conf/aaai/YinMBP17",
@@ -2940,7 +3036,8 @@
    "year": "2017",
    "type": "Conference",
    "url": "https://doi.org/10.1609/aaai.v31i1.11040",
-   "pdf": "pdfs/conf-aaai-YinMBP17.pdf"
+   "pdf": "pdfs/conf-aaai-YinMBP17.pdf",
+   "bib": "@inproceedings{DBLP:conf/aaai/YinMBP17,\n  author       = {Hang Yin and\n                  Francisco S. Melo and\n                  Aude Billard and\n                  Ana Paiva},\n  editor       = {Satinder Singh and\n                  Shaul Markovitch},\n  title        = {Associate Latent Encodings in Learning from Demonstrations},\n  booktitle    = {Proceedings of the Thirty-First {AAAI} Conference on Artificial Intelligence,\n                  February 4-9, 2017, San Francisco, California, {USA}},\n  pages        = {3848--3854},\n  publisher    = {{AAAI} Press},\n  year         = {2017},\n  url          = {https://doi.org/10.1609/aaai.v31i1.11040},\n  doi          = {10.1609/AAAI.V31I1.11040},\n}"
   },
   {
    "key": "conf/aiide/CorreiaA0MP17",
@@ -2972,7 +3069,8 @@
    "year": "2017",
    "type": "Conference",
    "url": "https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15884",
-   "pdf": "pdfs/conf-aiide-CorreiaA0MP17.pdf"
+   "pdf": "pdfs/conf-aiide-CorreiaA0MP17.pdf",
+   "bib": "@inproceedings{DBLP:conf/aiide/CorreiaA0MP17,\n  author       = {Filipa Correia and\n                  Patr{\\'{\\i}}cia Alves{-}Oliveira and\n                  Tiago Ribeiro and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  editor       = {Brian Magerko and\n                  Jonathan P. Rowe},\n  title        = {A Social Robot as a Card Game Player},\n  booktitle    = {Proceedings of the Thirteenth {AAAI} Conference on Artificial Intelligence\n                  and Interactive Digital Entertainment (AIIDE-17), October 5-9, 2017,\n                  Snowbird, Little Cottonwood Canyon, Utah, {USA}},\n  pages        = {23--29},\n  publisher    = {{AAAI} Press},\n  year         = {2017},\n  url          = {https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15884},\n}"
   },
   {
    "key": "conf/atal/MendoncaMCS17",
@@ -3000,7 +3098,8 @@
    "year": "2017",
    "type": "Conference",
    "url": "http://dl.acm.org/citation.cfm?id=3091388",
-   "pdf": "pdfs/conf-atal-MendoncaMCS17.pdf"
+   "pdf": "pdfs/conf-atal-MendoncaMCS17.pdf",
+   "bib": "@inproceedings{DBLP:conf/atal/MendoncaMCS17,\n  author       = {V{\\^{a}}nia Mendon{\\c{c}}a and\n                  Francisco S. Melo and\n                  Lu{\\'{\\i}}sa Coheur and\n                  Alberto Sardinha},\n  editor       = {Kate Larson and\n                  Michael Winikoff and\n                  Sanmay Das and\n                  Edmund H. Durfee},\n  title        = {A Conversational Agent Powered by Online Learning},\n  booktitle    = {Proceedings of the 16th Conference on Autonomous Agents and MultiAgent\n                  Systems, {AAMAS} 2017, S{\\~{a}}o Paulo, Brazil, May 8-12, 2017},\n  pages        = {1637--1639},\n  publisher    = {{ACM}},\n  year         = {2017},\n  url          = {http://dl.acm.org/citation.cfm?id=3091388},\n}"
   },
   {
    "key": "conf/cig/SantosSM17",
@@ -3024,7 +3123,8 @@
    "year": "2017",
    "type": "Conference",
    "url": "https://doi.org/10.1109/CIG.2017.8080446",
-   "pdf": "pdfs/conf-cig-SantosSM17.pdf"
+   "pdf": "pdfs/conf-cig-SantosSM17.pdf",
+   "bib": "@inproceedings{DBLP:conf/cig/SantosSM17,\n  author       = {Andre Santos and\n                  Pedro Alexandre Santos and\n                  Francisco S. Melo},\n  title        = {Monte Carlo tree search experiments in hearthstone},\n  booktitle    = {{IEEE} Conference on Computational Intelligence and Games, {CIG} 2017,\n                  New York, NY, USA, August 22-25, 2017},\n  pages        = {272--279},\n  publisher    = {{IEEE}},\n  year         = {2017},\n  url          = {https://doi.org/10.1109/CIG.2017.8080446},\n  doi          = {10.1109/CIG.2017.8080446},\n}"
   },
   {
    "key": "conf/epia/MendoncaMCS17",
@@ -3052,7 +3152,8 @@
    "year": "2017",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-319-65340-2_60",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/epia/MendoncaMCS17,\n  author       = {V{\\^{a}}nia Mendon{\\c{c}}a and\n                  Francisco S. Melo and\n                  Lu{\\'{\\i}}sa Coheur and\n                  Alberto Sardinha},\n  editor       = {Eug{\\'{e}}nio C. Oliveira and\n                  Jo{\\~{a}}o Gama and\n                  Zita A. Vale and\n                  Henrique Lopes Cardoso},\n  title        = {Online Learning for Conversational Agents},\n  booktitle    = {Progress in Artificial Intelligence - 18th {EPIA} Conference on Artificial\n                  Intelligence, {EPIA} 2017, Porto, Portugal, September 5-8, 2017, Proceedings},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {10423},\n  pages        = {739--750},\n  publisher    = {Springer},\n  year         = {2017},\n  url          = {https://doi.org/10.1007/978-3-319-65340-2\\_60},\n  doi          = {10.1007/978-3-319-65340-2\\_60},\n}"
   },
   {
    "key": "conf/epia/BarakaMV17",
@@ -3076,7 +3177,8 @@
    "year": "2017",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-319-65340-2_61",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/epia/BarakaMV17,\n  author       = {Kim Baraka and\n                  Francisco S. Melo and\n                  Manuela M. Veloso},\n  editor       = {Eug{\\'{e}}nio C. Oliveira and\n                  Jo{\\~{a}}o Gama and\n                  Zita A. Vale and\n                  Henrique Lopes Cardoso},\n  title        = {Simulating Behaviors of Children with Autism Spectrum Disorders Through\n                  Reversal of the Autism Diagnosis Process},\n  booktitle    = {Progress in Artificial Intelligence - 18th {EPIA} Conference on Artificial\n                  Intelligence, {EPIA} 2017, Porto, Portugal, September 5-8, 2017, Proceedings},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {10423},\n  pages        = {753--765},\n  publisher    = {Springer},\n  year         = {2017},\n  url          = {https://doi.org/10.1007/978-3-319-65340-2\\_61},\n  doi          = {10.1007/978-3-319-65340-2\\_61},\n}"
   },
   {
    "key": "conf/icdl-epirob/BarakaMV17",
@@ -3100,7 +3202,8 @@
    "year": "2017",
    "type": "Conference",
    "url": "https://doi.org/10.1109/DEVLRN.2017.8329808",
-   "pdf": "pdfs/conf-icdl-epirob-BarakaMV17.pdf"
+   "pdf": "pdfs/conf-icdl-epirob-BarakaMV17.pdf",
+   "bib": "@inproceedings{DBLP:conf/icdl-epirob/BarakaMV17,\n  author       = {Kim Baraka and\n                  Francisco S. Melo and\n                  Manuela M. Veloso},\n  title        = {Data-driven generation of synthetic behavioral feature vectors modeling\n                  children with autism spectrum disorders},\n  booktitle    = {2017 Joint {IEEE} International Conference on Development and Learning\n                  and Epigenetic Robotics, ICDL-EpiRob 2017, Lisbon, Portugal, September\n                  18-21, 2017},\n  pages        = {202--208},\n  publisher    = {{IEEE}},\n  year         = {2017},\n  url          = {https://doi.org/10.1109/DEVLRN.2017.8329808},\n  doi          = {10.1109/DEVLRN.2017.8329808},\n}"
   },
   {
    "key": "conf/icids/FerreiraNMP17",
@@ -3128,7 +3231,8 @@
    "year": "2017",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-319-71027-3_45",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/icids/FerreiraNMP17,\n  author       = {Maria Jos{\\'{e}} Ferreira and\n                  Valentina Nisi and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  editor       = {Nuno Nunes and\n                  Ian Oakley and\n                  Valentina Nisi},\n  title        = {Learning and Teaching Biodiversity Through a Storyteller Robot},\n  booktitle    = {Interactive Storytelling - 10th International Conference on Interactive\n                  Digital Storytelling, {ICIDS} 2017, Funchal, Madeira, Portugal, November\n                  14-17, 2017, Proceedings},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {10690},\n  pages        = {367--371},\n  publisher    = {Springer},\n  year         = {2017},\n  url          = {https://doi.org/10.1007/978-3-319-71027-3\\_45},\n  doi          = {10.1007/978-3-319-71027-3\\_45},\n}"
   },
   {
    "key": "conf/iros/FariaSAMP17",
@@ -3160,7 +3264,8 @@
    "year": "2017",
    "type": "Conference",
    "url": "https://doi.org/10.1109/IROS.2017.8206109",
-   "pdf": "pdfs/conf-iros-FariaSAMP17.pdf"
+   "pdf": "pdfs/conf-iros-FariaSAMP17.pdf",
+   "bib": "@inproceedings{DBLP:conf/iros/FariaSAMP17,\n  author       = {Miguel Faria and\n                  Rui Silva and\n                  Patr{\\'{\\i}}cia Alves{-}Oliveira and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  title        = {\"Me and you together\" movement impact in multi-user collaboration\n                  tasks},\n  booktitle    = {2017 {IEEE/RSJ} International Conference on Intelligent Robots and\n                  Systems, {IROS} 2017, Vancouver, BC, Canada, September 24-28, 2017},\n  pages        = {2793--2798},\n  publisher    = {{IEEE}},\n  year         = {2017},\n  url          = {https://doi.org/10.1109/IROS.2017.8206109},\n  doi          = {10.1109/IROS.2017.8206109},\n}"
   },
   {
    "key": "conf/iros/SilvaFMV17",
@@ -3188,7 +3293,8 @@
    "year": "2017",
    "type": "Conference",
    "url": "https://doi.org/10.1109/IROS.2017.8206208",
-   "pdf": "pdfs/conf-iros-SilvaFMV17.pdf"
+   "pdf": "pdfs/conf-iros-SilvaFMV17.pdf",
+   "bib": "@inproceedings{DBLP:conf/iros/SilvaFMV17,\n  author       = {Rui Silva and\n                  Miguel Faria and\n                  Francisco S. Melo and\n                  Manuela M. Veloso},\n  title        = {Adaptive indirect control through communication in collaborative human-robot\n                  interaction},\n  booktitle    = {2017 {IEEE/RSJ} International Conference on Intelligent Robots and\n                  Systems, {IROS} 2017, Vancouver, BC, Canada, September 24-28, 2017},\n  pages        = {3617--3622},\n  publisher    = {{IEEE}},\n  year         = {2017},\n  url          = {https://doi.org/10.1109/IROS.2017.8206208},\n  doi          = {10.1109/IROS.2017.8206208},\n}"
   },
   {
    "key": "conf/rss/CorreiaPA0MP17",
@@ -3224,7 +3330,8 @@
    "year": "2017",
    "type": "Conference",
    "url": "http://www.roboticsproceedings.org/rss13/p24.html",
-   "pdf": "pdfs/conf-rss-CorreiaPA0MP17.pdf"
+   "pdf": "pdfs/conf-rss-CorreiaPA0MP17.pdf",
+   "bib": "@inproceedings{DBLP:conf/rss/CorreiaPA0MP17,\n  author       = {Filipa Correia and\n                  Sofia Petisca and\n                  Patr{\\'{\\i}}cia Alves{-}Oliveira and\n                  Tiago Ribeiro and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  editor       = {Nancy M. Amato and\n                  Siddhartha S. Srinivasa and\n                  Nora Ayanian and\n                  Scott Kuindersma},\n  title        = {Groups of humans and robots: Understanding membership preferences\n                  and team formation},\n  booktitle    = {Robotics: Science and Systems XIII, Massachusetts Institute of Technology,\n                  Cambridge, Massachusetts, USA, July 12-16, 2017},\n  year         = {2017},\n  url          = {http://www.roboticsproceedings.org/rss13/p24.html},\n  doi          = {10.15607/RSS.2017.XIII.024},\n}"
   },
   {
    "key": "conf/socrob/BarakaMV17",
@@ -3248,7 +3355,8 @@
    "year": "2017",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-319-70022-9_11",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/socrob/BarakaMV17,\n  author       = {Kim Baraka and\n                  Francisco S. Melo and\n                  Manuela M. Veloso},\n  editor       = {Abderrahmane Kheddar and\n                  Eiichi Yoshida and\n                  Shuzhi Sam Ge and\n                  Kenji Suzuki and\n                  John{-}John Cabibihan and\n                  Friederike Eyssel and\n                  Hongsheng He},\n  title        = {'Autistic Robots' for Embodied Emulation of Behaviors Typically Seen\n                  in Children with Different Autism Severities},\n  booktitle    = {Social Robotics - 9th International Conference, {ICSR} 2017, Tsukuba,\n                  Japan, November 22-24, 2017, Proceedings},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {10652},\n  pages        = {105--114},\n  publisher    = {Springer},\n  year         = {2017},\n  url          = {https://doi.org/10.1007/978-3-319-70022-9\\_11},\n  doi          = {10.1007/978-3-319-70022-9\\_11},\n}"
   },
   {
    "key": "journals/aamas/MeloS16",
@@ -3268,7 +3376,8 @@
    "year": "2016",
    "type": "Journal",
    "url": "https://doi.org/10.1007/s10458-015-9280-x",
-   "pdf": "pdfs/journals-aamas-MeloS16.pdf"
+   "pdf": "pdfs/journals-aamas-MeloS16.pdf",
+   "bib": "@article{DBLP:journals/aamas/MeloS16,\n  author       = {Francisco S. Melo and\n                  Alberto Sardinha},\n  title        = {Ad hoc teamwork by learning teammates' task},\n  journal      = {Auton. Agents Multi Agent Syst.},\n  volume       = {30},\n  number       = {2},\n  pages        = {175--219},\n  year         = {2016},\n  url          = {https://doi.org/10.1007/s10458-015-9280-x},\n  doi          = {10.1007/S10458-015-9280-X},\n}"
   },
   {
    "key": "conf/aaaifs/FariaSMP16",
@@ -3296,7 +3405,8 @@
    "year": "2016",
    "type": "Conference",
    "url": "http://aaai.org/ocs/index.php/FSS/FSS16/paper/view/14111",
-   "pdf": "pdfs/conf-aaaifs-FariaSMP16.pdf"
+   "pdf": "pdfs/conf-aaaifs-FariaSMP16.pdf",
+   "bib": "@inproceedings{DBLP:conf/aaaifs/FariaSMP16,\n  author       = {Miguel Faria and\n                  Rui Silva and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  title        = {Me and You Together: {A} Study on Collaboration in Manipulation Tasks},\n  booktitle    = {2016 {AAAI} Fall Symposia, Arlington, Virginia, USA, November 17-19,\n                  2016},\n  publisher    = {{AAAI} Press},\n  year         = {2016},\n  url          = {http://aaai.org/ocs/index.php/FSS/FSS16/paper/view/14111},\n}"
   },
   {
    "key": "conf/atal/SantosSMPP16a",
@@ -3328,7 +3438,8 @@
    "year": "2016",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-319-46882-2_7",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/atal/SantosSMPP16a,\n  author       = {Fernando P. Santos and\n                  Francisco C. Santos and\n                  Francisco S. Melo and\n                  Ana Paiva and\n                  Jorge M. Pacheco},\n  editor       = {Nardine Osman and\n                  Carles Sierra},\n  title        = {Dynamics of Fairness in Groups of Autonomous Learning Agents},\n  booktitle    = {Autonomous Agents and Multiagent Systems - {AAMAS} 2016 Workshops,\n                  - Best Papers - , Singapore, Singapore, May 9-10, 2016, Revised Selected\n                  Papers},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {10002},\n  pages        = {107--126},\n  year         = {2016},\n  url          = {https://doi.org/10.1007/978-3-319-46882-2\\_7},\n  doi          = {10.1007/978-3-319-46882-2\\_7},\n}"
   },
   {
    "key": "conf/atal/SequeiraMP16",
@@ -3352,7 +3463,8 @@
    "year": "2016",
    "type": "Conference",
    "url": "http://dl.acm.org/citation.cfm?id=2936992",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/atal/SequeiraMP16,\n  author       = {Pedro Sequeira and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  editor       = {Catholijn M. Jonker and\n                  Stacy Marsella and\n                  John Thangarajah and\n                  Karl Tuyls},\n  title        = {Emergence of Emotional Appraisal Signals in Reinforcement Learning\n                  Agents},\n  booktitle    = {Proceedings of the 2016 International Conference on Autonomous Agents\n                  {\\&} Multiagent Systems, Singapore, May 9-13, 2016},\n  pages        = {466--467},\n  publisher    = {{ACM}},\n  year         = {2016},\n  url          = {http://dl.acm.org/citation.cfm?id=2936992},\n}"
   },
   {
    "key": "conf/atal/MeloS16",
@@ -3372,7 +3484,8 @@
    "year": "2016",
    "type": "Conference",
    "url": "http://dl.acm.org/citation.cfm?id=2937009",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/atal/MeloS16,\n  author       = {Francisco S. Melo and\n                  Alberto Sardinha},\n  editor       = {Catholijn M. Jonker and\n                  Stacy Marsella and\n                  John Thangarajah and\n                  Karl Tuyls},\n  title        = {Ad Hoc Teamwork by Learning Teammates' Task},\n  booktitle    = {Proceedings of the 2016 International Conference on Autonomous Agents\n                  {\\&} Multiagent Systems, Singapore, May 9-13, 2016},\n  pages        = {577--578},\n  publisher    = {{ACM}},\n  year         = {2016},\n  url          = {http://dl.acm.org/citation.cfm?id=2937009},\n}"
   },
   {
    "key": "conf/atal/SantosSMPP16",
@@ -3404,7 +3517,8 @@
    "year": "2016",
    "type": "Conference",
    "url": "http://dl.acm.org/citation.cfm?id=2937170",
-   "pdf": "pdfs/conf-atal-SantosSMPP16.pdf"
+   "pdf": "pdfs/conf-atal-SantosSMPP16.pdf",
+   "bib": "@inproceedings{DBLP:conf/atal/SantosSMPP16,\n  author       = {Fernando P. Santos and\n                  Francisco C. Santos and\n                  Francisco S. Melo and\n                  Ana Paiva and\n                  Jorge M. Pacheco},\n  editor       = {Catholijn M. Jonker and\n                  Stacy Marsella and\n                  John Thangarajah and\n                  Karl Tuyls},\n  title        = {Learning to be Fair in Multiplayer Ultimatum Games: (Extended Abstract)},\n  booktitle    = {Proceedings of the 2016 International Conference on Autonomous Agents\n                  {\\&} Multiagent Systems, Singapore, May 9-13, 2016},\n  pages        = {1381--1382},\n  publisher    = {{ACM}},\n  year         = {2016},\n  url          = {http://dl.acm.org/citation.cfm?id=2937170},\n}"
   },
   {
    "key": "conf/digra/SoaresLPM16",
@@ -3432,7 +3546,8 @@
    "year": "2016",
    "type": "Conference",
    "url": "https://dl.digra.org/index.php/dl/article/view/782",
-   "pdf": "pdfs/conf-digra-SoaresLPM16.pdf"
+   "pdf": "pdfs/conf-digra-SoaresLPM16.pdf",
+   "bib": "@inproceedings{DBLP:conf/digra/SoaresLPM16,\n  author       = {Rui Soares and\n                  Francisco Leal and\n                  Rui Prada and\n                  Francisco S. Melo},\n  editor       = {Staffan Bj{\\\"{o}}rk and\n                  Casey O'Donnell and\n                  Rafael Bidarra},\n  title        = {Rapidly-Exploring Random Tree approach for Geometry Friends},\n  booktitle    = {Proceedings of the First Joint International Conference of Digital\n                  Games Research Association and Foundation of Digital Games, DiGRA/FDG\n                  2016, Dundee, Scotland, UK, August 1-6, 2016},\n  publisher    = {Digital Games Research Association/Society for the Advancement of\n                  the Science of Digital Games},\n  year         = {2016},\n  url          = {https://dl.digra.org/index.php/dl/article/view/782},\n}"
   },
   {
    "key": "conf/ecai/SilvaMV16",
@@ -3456,7 +3571,8 @@
    "year": "2016",
    "type": "Conference",
    "url": "https://doi.org/10.3233/978-1-61499-672-9-863",
-   "pdf": "pdfs/conf-ecai-SilvaMV16.pdf"
+   "pdf": "pdfs/conf-ecai-SilvaMV16.pdf",
+   "bib": "@inproceedings{DBLP:conf/ecai/SilvaMV16,\n  author       = {Rui Silva and\n                  Francisco S. Melo and\n                  Manuela M. Veloso},\n  editor       = {Gal A. Kaminka and\n                  Maria Fox and\n                  Paolo Bouquet and\n                  Eyke H{\\\"{u}}llermeier and\n                  Virginia Dignum and\n                  Frank Dignum and\n                  Frank van Harmelen},\n  title        = {Adaptive Symbiotic Collaboration for Targeted Complex Manipulation\n                  Tasks},\n  booktitle    = {{ECAI} 2016 - 22nd European Conference on Artificial Intelligence,\n                  29 August-2 September 2016, The Hague, The Netherlands - Including\n                  Prestigious Applications of Artificial Intelligence {(PAIS} 2016)},\n  series       = {Frontiers in Artificial Intelligence and Applications},\n  volume       = {285},\n  pages        = {863--870},\n  publisher    = {{IOS} Press},\n  year         = {2016},\n  url          = {https://doi.org/10.3233/978-1-61499-672-9-863},\n  doi          = {10.3233/978-1-61499-672-9-863},\n}"
   },
   {
    "key": "conf/hri/SequeiraA0TPMCP16",
@@ -3500,7 +3616,8 @@
    "year": "2016",
    "type": "Conference",
    "url": "https://doi.org/10.1109/HRI.2016.7451752",
-   "pdf": "pdfs/conf-hri-SequeiraA0TPMCP16.pdf"
+   "pdf": "pdfs/conf-hri-SequeiraA0TPMCP16.pdf",
+   "bib": "@inproceedings{DBLP:conf/hri/SequeiraA0TPMCP16,\n  author       = {Pedro Sequeira and\n                  Patr{\\'{\\i}}cia Alves{-}Oliveira and\n                  Tiago Ribeiro and\n                  Eugenio Di Tullio and\n                  Sofia Petisca and\n                  Francisco S. Melo and\n                  Ginevra Castellano and\n                  Ana Paiva},\n  editor       = {Christoph Bartneck and\n                  Yukie Nagai and\n                  Ana Paiva and\n                  Selma Sabanovic},\n  title        = {Discovering Social Interaction Strategies for Robots from Restricted-Perception\n                  Wizard-of-Oz Studies},\n  booktitle    = {The Eleventh {ACM/IEEE} International Conference on Human Robot Interaction,\n                  {HRI} 2016, Christchurch, New Zealand, March 7-10, 2016},\n  pages        = {197--204},\n  publisher    = {{IEEE/ACM}},\n  year         = {2016},\n  url          = {https://doi.org/10.1109/HRI.2016.7451752},\n  doi          = {10.1109/HRI.2016.7451752},\n}"
   },
   {
    "key": "conf/hri/Correia0AMP16",
@@ -3532,7 +3649,8 @@
    "year": "2016",
    "type": "Conference",
    "url": "https://doi.org/10.1109/HRI.2016.7451857",
-   "pdf": "pdfs/conf-hri-Correia0AMP16.pdf"
+   "pdf": "pdfs/conf-hri-Correia0AMP16.pdf",
+   "bib": "@inproceedings{DBLP:conf/hri/Correia0AMP16,\n  author       = {Filipa Correia and\n                  Tiago Ribeiro and\n                  Patr{\\'{\\i}}cia Alves{-}Oliveira and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  editor       = {Christoph Bartneck and\n                  Yukie Nagai and\n                  Ana Paiva and\n                  Selma Sabanovic},\n  title        = {Building a Social Robot as a Game Companion in a Card Game},\n  booktitle    = {The Eleventh {ACM/IEEE} International Conference on Human Robot Interaction,\n                  {HRI} 2016, Christchurch, New Zealand, March 7-10, 2016},\n  pages        = {563},\n  publisher    = {{IEEE/ACM}},\n  year         = {2016},\n  url          = {https://doi.org/10.1109/HRI.2016.7451857},\n  doi          = {10.1109/HRI.2016.7451857},\n}"
   },
   {
    "key": "conf/ijcai/YinAMBP16",
@@ -3564,7 +3682,8 @@
    "year": "2016",
    "type": "Conference",
    "url": "http://www.ijcai.org/Abstract/16/498",
-   "pdf": "pdfs/conf-ijcai-YinAMBP16.pdf"
+   "pdf": "pdfs/conf-ijcai-YinAMBP16.pdf",
+   "bib": "@inproceedings{DBLP:conf/ijcai/YinAMBP16,\n  author       = {Hang Yin and\n                  Patr{\\'{\\i}}cia Alves{-}Oliveira and\n                  Francisco S. Melo and\n                  Aude Billard and\n                  Ana Paiva},\n  editor       = {Subbarao Kambhampati},\n  title        = {Synthesizing Robotic Handwriting Motion by Learning from Human Demonstrations},\n  booktitle    = {Proceedings of the Twenty-Fifth International Joint Conference on\n                  Artificial Intelligence, {IJCAI} 2016, New York, NY, USA, 9-15 July\n                  2016},\n  pages        = {3530--3537},\n  publisher    = {{IJCAI/AAAI} Press},\n  year         = {2016},\n  url          = {http://www.ijcai.org/Abstract/16/498},\n}"
   },
   {
    "key": "conf/iva/BernardoASMP16",
@@ -3596,7 +3715,8 @@
    "year": "2016",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-319-47665-0_63",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/iva/BernardoASMP16,\n  author       = {Beatriz Bernardo and\n                  Patr{\\'{\\i}}cia Alves{-}Oliveira and\n                  Maria Gra{\\c{c}}a Santos and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  editor       = {David R. Traum and\n                  William R. Swartout and\n                  Peter Khooshabeh and\n                  Stefan Kopp and\n                  Stefan Scherer and\n                  Anton Leuski},\n  title        = {An Interactive Tangram Game for Children with Autism},\n  booktitle    = {Intelligent Virtual Agents - 16th International Conference, {IVA}\n                  2016, Los Angeles, CA, USA, September 20-23, 2016, Proceedings},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {10011},\n  pages        = {500--504},\n  year         = {2016},\n  url          = {https://doi.org/10.1007/978-3-319-47665-0\\_63},\n  doi          = {10.1007/978-3-319-47665-0\\_63},\n}"
   },
   {
    "key": "conf/ro-man/CorreiaAM0PMP16",
@@ -3636,7 +3756,8 @@
    "year": "2016",
    "type": "Conference",
    "url": "https://doi.org/10.1109/ROMAN.2016.7745165",
-   "pdf": "pdfs/conf-ro-man-CorreiaAM0PMP16.pdf"
+   "pdf": "pdfs/conf-ro-man-CorreiaAM0PMP16.pdf",
+   "bib": "@inproceedings{DBLP:conf/ro-man/CorreiaAM0PMP16,\n  author       = {Filipa Correia and\n                  Patr{\\'{\\i}}cia Alves{-}Oliveira and\n                  Nuno Maia and\n                  Tiago Ribeiro and\n                  Sofia Petisca and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  title        = {Just follow the suit! Trust in human-robot interactions during card\n                  game playing},\n  booktitle    = {25th {IEEE} International Symposium on Robot and Human Interactive\n                  Communication, {RO-MAN} 2016, New York, NY, USA, August 26-31, 2016},\n  pages        = {507--512},\n  publisher    = {{IEEE}},\n  year         = {2016},\n  url          = {https://doi.org/10.1109/ROMAN.2016.7745165},\n  doi          = {10.1109/ROMAN.2016.7745165},\n}"
   },
   {
    "key": "journals/aamas/SequeiraMP15",
@@ -3660,7 +3781,8 @@
    "year": "2015",
    "type": "Journal",
    "url": "https://doi.org/10.1007/s10458-014-9262-4",
-   "pdf": "pdfs/journals-aamas-SequeiraMP15.pdf"
+   "pdf": "pdfs/journals-aamas-SequeiraMP15.pdf",
+   "bib": "@article{DBLP:journals/aamas/SequeiraMP15,\n  author       = {Pedro Sequeira and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  title        = {Emergence of emotional appraisal signals in reinforcement learning\n                  agents},\n  journal      = {Auton. Agents Multi Agent Syst.},\n  volume       = {29},\n  number       = {4},\n  pages        = {537--568},\n  year         = {2015},\n  url          = {https://doi.org/10.1007/s10458-014-9262-4},\n  doi          = {10.1007/S10458-014-9262-4},\n}"
   },
   {
    "key": "conf/aaaifs/Alves-OliveiraS15",
@@ -3700,7 +3822,8 @@
    "year": "2015",
    "type": "Conference",
    "url": "http://www.aaai.org/ocs/index.php/FSS/FSS15/paper/view/11692",
-   "pdf": "pdfs/conf-aaaifs-Alves-OliveiraS15.pdf"
+   "pdf": "pdfs/conf-aaaifs-Alves-OliveiraS15.pdf",
+   "bib": "@inproceedings{DBLP:conf/aaaifs/Alves-OliveiraS15,\n  author       = {Patr{\\'{\\i}}cia Alves{-}Oliveira and\n                  Pedro Sequeira and\n                  Eugenio Di Tullio and\n                  Sofia Petisca and\n                  Carla Guerra and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  title        = {\"It's Amazing, We Are All Feeling It!\" - Emotional Climate as a Group-Level\n                  Emotional Expression in {HRI}},\n  booktitle    = {2015 {AAAI} Fall Symposia, Arlington, Virginia, USA, November 12-14,\n                  2015},\n  pages        = {13--16},\n  publisher    = {{AAAI} Press},\n  year         = {2015},\n  url          = {http://www.aaai.org/ocs/index.php/FSS/FSS15/paper/view/11692},\n}"
   },
   {
    "key": "conf/atal/MotaMC15",
@@ -3724,7 +3847,8 @@
    "year": "2015",
    "type": "Conference",
    "url": "http://dl.acm.org/citation.cfm?id=2773346",
-   "pdf": "pdfs/conf-atal-MotaMC15.pdf"
+   "pdf": "pdfs/conf-atal-MotaMC15.pdf",
+   "bib": "@inproceedings{DBLP:conf/atal/MotaMC15,\n  author       = {Pedro Mota and\n                  Francisco S. Melo and\n                  Lu{\\'{\\i}}sa Coheur},\n  editor       = {Gerhard Weiss and\n                  Pinar Yolum and\n                  Rafael H. Bordini and\n                  Edith Elkind},\n  title        = {Modeling Students Self-Studies Behaviors},\n  booktitle    = {Proceedings of the 2015 International Conference on Autonomous Agents\n                  and Multiagent Systems, {AAMAS} 2015, Istanbul, Turkey, May 4-8, 2015},\n  pages        = {1521--1528},\n  publisher    = {{ACM}},\n  year         = {2015},\n  url          = {http://dl.acm.org/citation.cfm?id=2773346},\n}"
   },
   {
    "key": "conf/atal/SequeiraMMP15",
@@ -3752,7 +3876,8 @@
    "year": "2015",
    "type": "Conference",
    "url": "http://dl.acm.org/citation.cfm?id=2773493",
-   "pdf": "pdfs/conf-atal-SequeiraMMP15.pdf"
+   "pdf": "pdfs/conf-atal-SequeiraMMP15.pdf",
+   "bib": "@inproceedings{DBLP:conf/atal/SequeiraMMP15,\n  author       = {Pedro Sequeira and\n                  Samuel Mascarenhas and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  editor       = {Gerhard Weiss and\n                  Pinar Yolum and\n                  Rafael H. Bordini and\n                  Edith Elkind},\n  title        = {The \"Favors Game\": {A} Framework to Study the Emergence of Cooperation\n                  through Social Importance},\n  booktitle    = {Proceedings of the 2015 International Conference on Autonomous Agents\n                  and Multiagent Systems, {AAMAS} 2015, Istanbul, Turkey, May 4-8, 2015},\n  pages        = {1899--1900},\n  publisher    = {{ACM}},\n  year         = {2015},\n  url          = {http://dl.acm.org/citation.cfm?id=2773493},\n}"
   },
   {
    "key": "conf/cig/SequeiraMP15",
@@ -3776,7 +3901,8 @@
    "year": "2015",
    "type": "Conference",
    "url": "https://doi.org/10.1109/CIG.2015.7317952",
-   "pdf": "pdfs/conf-cig-SequeiraMP15.pdf"
+   "pdf": "pdfs/conf-cig-SequeiraMP15.pdf",
+   "bib": "@inproceedings{DBLP:conf/cig/SequeiraMP15,\n  author       = {Pedro Sequeira and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  title        = {\"Let's save resources!\": {A} dynamic, collaborative {AI} for a multiplayer\n                  environmental awareness game},\n  booktitle    = {2015 {IEEE} Conference on Computational Intelligence and Games, {CIG}\n                  2015, Tainan, Taiwan, August 31 - September 2, 2015},\n  pages        = {399--406},\n  publisher    = {{IEEE}},\n  year         = {2015},\n  url          = {https://doi.org/10.1109/CIG.2015.7317952},\n  doi          = {10.1109/CIG.2015.7317952},\n}"
   },
   {
    "key": "conf/cig/QuiterioPM15",
@@ -3800,7 +3926,8 @@
    "year": "2015",
    "type": "Conference",
    "url": "https://doi.org/10.1109/CIG.2015.7317938",
-   "pdf": "pdfs/conf-cig-QuiterioPM15.pdf"
+   "pdf": "pdfs/conf-cig-QuiterioPM15.pdf",
+   "bib": "@inproceedings{DBLP:conf/cig/QuiterioPM15,\n  author       = {Joao Quiterio and\n                  Rui Prada and\n                  Francisco S. Melo},\n  title        = {A reinforcement learning approach for the circle agent of geometry\n                  friends},\n  booktitle    = {2015 {IEEE} Conference on Computational Intelligence and Games, {CIG}\n                  2015, Tainan, Taiwan, August 31 - September 2, 2015},\n  pages        = {423--430},\n  publisher    = {{IEEE}},\n  year         = {2015},\n  url          = {https://doi.org/10.1109/CIG.2015.7317938},\n  doi          = {10.1109/CIG.2015.7317938},\n}"
   },
   {
    "key": "conf/cig/PradaLCQM15",
@@ -3832,7 +3959,8 @@
    "year": "2015",
    "type": "Conference",
    "url": "https://doi.org/10.1109/CIG.2015.7317949",
-   "pdf": "pdfs/conf-cig-PradaLCQM15.pdf"
+   "pdf": "pdfs/conf-cig-PradaLCQM15.pdf",
+   "bib": "@inproceedings{DBLP:conf/cig/PradaLCQM15,\n  author       = {Rui Prada and\n                  Phil Lopes and\n                  Joao Catarino and\n                  Joao Quiterio and\n                  Francisco S. Melo},\n  title        = {The geometry friends game {AI} competition},\n  booktitle    = {2015 {IEEE} Conference on Computational Intelligence and Games, {CIG}\n                  2015, Tainan, Taiwan, August 31 - September 2, 2015},\n  pages        = {431--438},\n  publisher    = {{IEEE}},\n  year         = {2015},\n  url          = {https://doi.org/10.1109/CIG.2015.7317949},\n  doi          = {10.1109/CIG.2015.7317949},\n}"
   },
   {
    "key": "conf/icdl-epirob/SequeiraMMP15",
@@ -3860,7 +3988,8 @@
    "year": "2015",
    "type": "Conference",
    "url": "https://doi.org/10.1109/DEVLRN.2015.7346163",
-   "pdf": "pdfs/conf-icdl-epirob-SequeiraMMP15.pdf"
+   "pdf": "pdfs/conf-icdl-epirob-SequeiraMMP15.pdf",
+   "bib": "@inproceedings{DBLP:conf/icdl-epirob/SequeiraMMP15,\n  author       = {Pedro Sequeira and\n                  Samuel Mascarenhas and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  title        = {The development of cooperation in evolving populations through social\n                  importance},\n  booktitle    = {2015 Joint {IEEE} International Conference on Development and Learning\n                  and Epigenetic Robotics, ICDL-EpiRob, Providence, RI, USA, August\n                  13-16, 2015},\n  pages        = {308--313},\n  publisher    = {{IEEE}},\n  year         = {2015},\n  url          = {https://doi.org/10.1109/DEVLRN.2015.7346163},\n  doi          = {10.1109/DEVLRN.2015.7346163},\n}"
   },
   {
    "key": "conf/iros/SilvaMV15",
@@ -3884,7 +4013,8 @@
    "year": "2015",
    "type": "Conference",
    "url": "https://doi.org/10.1109/IROS.2015.7353441",
-   "pdf": "pdfs/conf-iros-SilvaMV15.pdf"
+   "pdf": "pdfs/conf-iros-SilvaMV15.pdf",
+   "bib": "@inproceedings{DBLP:conf/iros/SilvaMV15,\n  author       = {Rui Silva and\n                  Francisco S. Melo and\n                  Manuela M. Veloso},\n  title        = {Towards table tennis with a quadrotor autonomous learning robot and\n                  onboard vision},\n  booktitle    = {2015 {IEEE/RSJ} International Conference on Intelligent Robots and\n                  Systems, {IROS} 2015, Hamburg, Germany, September 28 - October 2,\n                  2015},\n  pages        = {649--655},\n  publisher    = {{IEEE}},\n  year         = {2015},\n  url          = {https://doi.org/10.1109/IROS.2015.7353441},\n  doi          = {10.1109/IROS.2015.7353441},\n}"
   },
   {
    "key": "conf/socrob/Alves-Oliveira015",
@@ -3920,7 +4050,8 @@
    "year": "2015",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-319-25554-5_3",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/socrob/Alves-Oliveira015,\n  author       = {Patr{\\'{\\i}}cia Alves{-}Oliveira and\n                  Tiago Ribeiro and\n                  Sofia Petisca and\n                  Eugenio Di Tullio and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  editor       = {Adriana Tapus and\n                  Elisabeth Andr{\\'{e}} and\n                  Jean{-}Claude Martin and\n                  Fran{\\c{c}}ois Ferland and\n                  Mehdi Ammi},\n  title        = {An Empathic Robotic Tutor for School Classrooms: Considering Expectation\n                  and Satisfaction of Children as End-Users},\n  booktitle    = {Social Robotics - 7th International Conference, {ICSR} 2015, Paris,\n                  France, October 26-30, 2015, Proceedings},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {9388},\n  pages        = {21--30},\n  publisher    = {Springer},\n  year         = {2015},\n  url          = {https://doi.org/10.1007/978-3-319-25554-5\\_3},\n  doi          = {10.1007/978-3-319-25554-5\\_3},\n}"
   },
   {
    "key": "conf/socrob/KleeFSCMV15",
@@ -3956,7 +4087,8 @@
    "year": "2015",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-319-25554-5_36",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/socrob/KleeFSCMV15,\n  author       = {Steven D. Klee and\n                  Beatriz Quintino Ferreira and\n                  Rui Silva and\n                  Jo{\\~{a}}o Paulo Costeira and\n                  Francisco S. Melo and\n                  Manuela M. Veloso},\n  editor       = {Adriana Tapus and\n                  Elisabeth Andr{\\'{e}} and\n                  Jean{-}Claude Martin and\n                  Fran{\\c{c}}ois Ferland and\n                  Mehdi Ammi},\n  title        = {Personalized Assistance for Dressing Users},\n  booktitle    = {Social Robotics - 7th International Conference, {ICSR} 2015, Paris,\n                  France, October 26-30, 2015, Proceedings},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {9388},\n  pages        = {359--369},\n  publisher    = {Springer},\n  year         = {2015},\n  url          = {https://doi.org/10.1007/978-3-319-25554-5\\_36},\n  doi          = {10.1007/978-3-319-25554-5\\_36},\n}"
   },
   {
    "key": "journals/adb/SequeiraMP14",
@@ -3980,7 +4112,8 @@
    "year": "2014",
    "type": "Journal",
    "url": "https://doi.org/10.1177/1059712314543837",
-   "pdf": "pdfs/journals-adb-SequeiraMP14.pdf"
+   "pdf": "pdfs/journals-adb-SequeiraMP14.pdf",
+   "bib": "@article{DBLP:journals/adb/SequeiraMP14,\n  author       = {Pedro Sequeira and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  title        = {Learning by appraising: an emotion-based approach to intrinsic reward\n                  design},\n  journal      = {Adapt. Behav.},\n  volume       = {22},\n  number       = {5},\n  pages        = {330--349},\n  year         = {2014},\n  url          = {https://doi.org/10.1177/1059712314543837},\n  doi          = {10.1177/1059712314543837},\n}"
   },
   {
    "key": "conf/atal/WitwickiCCMRLMS14",
@@ -4024,7 +4157,8 @@
    "year": "2014",
    "type": "Conference",
    "url": "http://dl.acm.org/citation.cfm?id=2616100",
-   "pdf": "pdfs/conf-atal-WitwickiCCMRLMS14.pdf"
+   "pdf": "pdfs/conf-atal-WitwickiCCMRLMS14.pdf",
+   "bib": "@inproceedings{DBLP:conf/atal/WitwickiCCMRLMS14,\n  author       = {Stefan J. Witwicki and\n                  Jos{\\'{e}} Carlos Castillo and\n                  Jes{\\'{u}}s Capit{\\'{a}}n and\n                  Jo{\\~{a}}o V. Messias and\n                  Jo{\\~{a}}o C. G. Reis and\n                  Pedro U. Lima and\n                  Francisco S. Melo and\n                  Matthijs T. J. Spaan},\n  editor       = {Ana L. C. Bazzan and\n                  Michael N. Huhns and\n                  Alessio Lomuscio and\n                  Paul Scerri},\n  title        = {A testbed for autonomous robot surveillance},\n  booktitle    = {International conference on Autonomous Agents and Multi-Agent Systems,\n                  {AAMAS} '14, Paris, France, May 5-9, 2014},\n  pages        = {1635--1636},\n  publisher    = {{IFAAMAS/ACM}},\n  year         = {2014},\n  url          = {http://dl.acm.org/citation.cfm?id=2616100},\n}"
   },
   {
    "key": "conf/icdl-epirob/SequeiraMP14",
@@ -4048,7 +4182,8 @@
    "year": "2014",
    "type": "Conference",
    "url": "https://doi.org/10.1109/DEVLRN.2014.6982954",
-   "pdf": "pdfs/conf-icdl-epirob-SequeiraMP14.pdf"
+   "pdf": "pdfs/conf-icdl-epirob-SequeiraMP14.pdf",
+   "bib": "@inproceedings{DBLP:conf/icdl-epirob/SequeiraMP14,\n  author       = {Pedro Sequeira and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  title        = {The influence of social display in competitive multiagent learning},\n  booktitle    = {4th International Conference on Development and Learning and on Epigenetic\n                  Robotics, {ICDL-EPIROB} 2014, Genoa, Italy, October 13-16, 2014},\n  pages        = {56--61},\n  publisher    = {{IEEE}},\n  year         = {2014},\n  url          = {https://doi.org/10.1109/DEVLRN.2014.6982954},\n  doi          = {10.1109/DEVLRN.2014.6982954},\n}"
   },
   {
    "key": "conf/aips/WitwickiMCS13",
@@ -4076,7 +4211,8 @@
    "year": "2013",
    "type": "Conference",
    "url": "http://www.aaai.org/ocs/index.php/ICAPS/ICAPS13/paper/view/6055",
-   "pdf": "pdfs/conf-aips-WitwickiMCS13.pdf"
+   "pdf": "pdfs/conf-aips-WitwickiMCS13.pdf",
+   "bib": "@inproceedings{DBLP:conf/aips/WitwickiMCS13,\n  author       = {Stefan J. Witwicki and\n                  Francisco S. Melo and\n                  Jes{\\'{u}}s Capit{\\'{a}}n and\n                  Matthijs T. J. Spaan},\n  editor       = {Daniel Borrajo and\n                  Subbarao Kambhampati and\n                  Angelo Oddi and\n                  Simone Fratini},\n  title        = {A Flexible Approach to Modeling Unpredictable Events in MDPs},\n  booktitle    = {Proceedings of the Twenty-Third International Conference on Automated\n                  Planning and Scheduling, {ICAPS} 2013, Rome, Italy, June 10-14, 2013},\n  publisher    = {{AAAI}},\n  year         = {2013},\n  url          = {http://www.aaai.org/ocs/index.php/ICAPS/ICAPS13/paper/view/6055},\n}"
   },
   {
    "key": "conf/cogsci/MarquesMMDPP13",
@@ -4112,7 +4248,8 @@
    "year": "2013",
    "type": "Conference",
    "url": "https://escholarship.org/uc/item/4hk048s0",
-   "pdf": "pdfs/conf-cogsci-MarquesMMDPP13.pdf"
+   "pdf": "pdfs/conf-cogsci-MarquesMMDPP13.pdf",
+   "bib": "@inproceedings{DBLP:conf/cogsci/MarquesMMDPP13,\n  author       = {Nuno Marques and\n                  Francisco S. Melo and\n                  Samuel Mascarenhas and\n                  Jo{\\~{a}}o Dias and\n                  Rui Prada and\n                  Ana Paiva},\n  editor       = {Markus Knauff and\n                  Michael Pauen and\n                  Natalie Sebanz and\n                  Ipke Wachsmuth},\n  title        = {Towards agents with human-like decisions under uncertainty},\n  booktitle    = {Proceedings of the 35th Annual Meeting of the Cognitive Science Society,\n                  CogSci 2013, Berlin, Germany, July 31 - August 3, 2013},\n  publisher    = {cognitivesciencesociety.org},\n  year         = {2013},\n  url          = {https://escholarship.org/uc/item/4hk048s0},\n}"
   },
   {
    "key": "conf/epia/SequeiraMP13",
@@ -4136,7 +4273,8 @@
    "year": "2013",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-642-40669-0_15",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/epia/SequeiraMP13,\n  author       = {Pedro Sequeira and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  editor       = {Lu{\\'{\\i}}s Correia and\n                  Lu{\\'{\\i}}s Paulo Reis and\n                  Jos{\\'{e}} Cascalho},\n  title        = {An Associative State-Space Metric for Learning in Factored MDPs},\n  booktitle    = {Progress in Artificial Intelligence - 16th Portuguese Conference on\n                  Artificial Intelligence, {EPIA} 2013, Angra do Hero{\\'{\\i}}smo, Azores,\n                  Portugal, September 9-12, 2013. Proceedings},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {8154},\n  pages        = {163--174},\n  publisher    = {Springer},\n  year         = {2013},\n  url          = {https://doi.org/10.1007/978-3-642-40669-0\\_15},\n  doi          = {10.1007/978-3-642-40669-0\\_15},\n}"
   },
   {
    "key": "journals/corr/abs-1301-5488",
@@ -4156,7 +4294,8 @@
    "year": "2013",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.1301.5488",
-   "pdf": "https://arxiv.org/pdf/1301.5488"
+   "pdf": "https://arxiv.org/pdf/1301.5488",
+   "bib": "@article{DBLP:journals/corr/abs-1301-5488,\n  author       = {Francisco S. Melo and\n                  Manuel Lopes},\n  title        = {Multi-class Generalized Binary Search for Active Inverse Reinforcement\n                  Learning},\n  journal      = {CoRR},\n  volume       = {abs/1301.5488},\n  year         = {2013},\n  url          = {https://doi.org/10.48550/arXiv.1301.5488},\n  doi          = {10.48550/ARXIV.1301.5488},\n  eprinttype   = {arXiv},\n  eprint       = {1301.5488},\n}"
   },
   {
    "key": "journals/ai/MeloV11",
@@ -4176,7 +4315,8 @@
    "year": "2011",
    "type": "Journal",
    "url": "https://doi.org/10.1016/j.artint.2011.05.001",
-   "pdf": "https://www.sciencedirect.com/science/article/pii/S0004370211000634/pdf"
+   "pdf": "https://www.sciencedirect.com/science/article/pii/S0004370211000634/pdf",
+   "bib": "@article{DBLP:journals/ai/MeloV11,\n  author       = {Francisco S. Melo and\n                  Manuela M. Veloso},\n  title        = {Decentralized MDPs with sparse interactions},\n  journal      = {Artif. Intell.},\n  volume       = {175},\n  number       = {11},\n  pages        = {1757--1789},\n  year         = {2011},\n  url          = {https://doi.org/10.1016/j.artint.2011.05.001},\n  doi          = {10.1016/J.ARTINT.2011.05.001},\n}"
   },
   {
    "key": "conf/aaai/Melo11",
@@ -4192,7 +4332,8 @@
    "year": "2011",
    "type": "Conference",
    "url": "https://doi.org/10.1609/aaai.v25i1.7938",
-   "pdf": "pdfs/conf-aaai-Melo11.pdf"
+   "pdf": "pdfs/conf-aaai-Melo11.pdf",
+   "bib": "@inproceedings{DBLP:conf/aaai/Melo11,\n  author       = {Francisco S. Melo},\n  editor       = {Wolfram Burgard and\n                  Dan Roth},\n  title        = {Differential Eligibility Vectors for Advantage Updating and Gradient\n                  Methods},\n  booktitle    = {Proceedings of the Twenty-Fifth {AAAI} Conference on Artificial Intelligence,\n                  {AAAI} 2011, San Francisco, California, USA, August 7-11, 2011},\n  pages        = {441--446},\n  publisher    = {{AAAI} Press},\n  year         = {2011},\n  url          = {https://doi.org/10.1609/aaai.v25i1.7938},\n  doi          = {10.1609/AAAI.V25I1.7938},\n}"
   },
   {
    "key": "conf/acii/SequeiraMP11",
@@ -4216,7 +4357,8 @@
    "year": "2011",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-642-24600-5_36",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/acii/SequeiraMP11,\n  author       = {Pedro Sequeira and\n                  Francisco S. Melo and\n                  Ana Paiva},\n  editor       = {Sidney K. D'Mello and\n                  Arthur C. Graesser and\n                  Bj{\\\"{o}}rn W. Schuller and\n                  Jean{-}Claude Martin},\n  title        = {Emotion-Based Intrinsic Motivation for Reinforcement Learning Agents},\n  booktitle    = {Affective Computing and Intelligent Interaction - 4th International\n                  Conference, {ACII} 2011, Memphis, TN, USA, October 9-12, 2011, Proceedings,\n                  Part {I}},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {6974},\n  pages        = {326--336},\n  publisher    = {Springer},\n  year         = {2011},\n  url          = {https://doi.org/10.1007/978-3-642-24600-5\\_36},\n  doi          = {10.1007/978-3-642-24600-5\\_36},\n}"
   },
   {
    "key": "conf/eumas/MeloSW11",
@@ -4240,7 +4382,8 @@
    "year": "2011",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-642-34799-3_13",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/eumas/MeloSW11,\n  author       = {Francisco S. Melo and\n                  Matthijs T. J. Spaan and\n                  Stefan J. Witwicki},\n  editor       = {Massimo Cossentino and\n                  Michael Kaisers and\n                  Karl Tuyls and\n                  Gerhard Weiss},\n  title        = {QueryPOMDP: POMDP-Based Communication in Multiagent Systems},\n  booktitle    = {Multi-Agent Systems - 9th European Workshop, {EUMAS} 2011, Maastricht,\n                  The Netherlands, November 14-15, 2011. Revised Selected Papers},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {7541},\n  pages        = {189--204},\n  publisher    = {Springer},\n  year         = {2011},\n  url          = {https://doi.org/10.1007/978-3-642-34799-3\\_13},\n  doi          = {10.1007/978-3-642-34799-3\\_13},\n}"
   },
   {
    "key": "conf/icdl-epirob/SequeiraMPP11",
@@ -4268,7 +4411,8 @@
    "year": "2011",
    "type": "Conference",
    "url": "https://doi.org/10.1109/DEVLRN.2011.6037325",
-   "pdf": "pdfs/conf-icdl-epirob-SequeiraMPP11.pdf"
+   "pdf": "pdfs/conf-icdl-epirob-SequeiraMPP11.pdf",
+   "bib": "@inproceedings{DBLP:conf/icdl-epirob/SequeiraMPP11,\n  author       = {Pedro Sequeira and\n                  Francisco S. Melo and\n                  Rui Prada and\n                  Ana Paiva},\n  title        = {Emerging social awareness: Exploring intrinsic motivation in multiagent\n                  learning},\n  booktitle    = {1st International Conference on Development and Learning and on Epigenetic\n                  Robotics, {ICDL-EPIROB} 2011, Frankfurt am Main, Germany, August 24-27,\n                  2011},\n  pages        = {1--6},\n  publisher    = {{IEEE}},\n  year         = {2011},\n  url          = {https://doi.org/10.1109/DEVLRN.2011.6037325},\n  doi          = {10.1109/DEVLRN.2011.6037325},\n}"
   },
   {
    "key": "journals/aamas/MeloR10",
@@ -4288,7 +4432,8 @@
    "year": "2010",
    "type": "Journal",
    "url": "https://doi.org/10.1007/s10458-009-9104-y",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@article{DBLP:journals/aamas/MeloR10,\n  author       = {Francisco S. Melo and\n                  M. Isabel Ribeiro},\n  title        = {Coordinated learning in multiagent MDPs with infinite state-space},\n  journal      = {Auton. Agents Multi Agent Syst.},\n  volume       = {21},\n  number       = {3},\n  pages        = {321--367},\n  year         = {2010},\n  url          = {https://doi.org/10.1007/s10458-009-9104-y},\n  doi          = {10.1007/S10458-009-9104-Y},\n}"
   },
   {
    "key": "conf/atal/MeloV10",
@@ -4308,7 +4453,8 @@
    "year": "2010",
    "type": "Conference",
    "url": "https://dl.acm.org/citation.cfm?id=1838396",
-   "pdf": "pdfs/conf-atal-MeloV10.pdf"
+   "pdf": "pdfs/conf-atal-MeloV10.pdf",
+   "bib": "@inproceedings{DBLP:conf/atal/MeloV10,\n  author       = {Francisco S. Melo and\n                  Manuela M. Veloso},\n  editor       = {Wiebe van der Hoek and\n                  Gal A. Kaminka and\n                  Yves Lesp{\\'{e}}rance and\n                  Michael Luck and\n                  Sandip Sen},\n  title        = {Approximate planning for decentralized MDPs with sparse interactions},\n  booktitle    = {9th International Conference on Autonomous Agents and Multiagent Systems\n                  {(AAMAS} 2010), Toronto, Canada, May 10-14, 2010, Volume 1-3},\n  pages        = {1389--1390},\n  publisher    = {{IFAAMAS}},\n  year         = {2010},\n  url          = {https://dl.acm.org/citation.cfm?id=1838396},\n}"
   },
   {
    "key": "conf/dars/MeloV10",
@@ -4328,7 +4474,8 @@
    "year": "2010",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-642-32723-0_24",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/dars/MeloV10,\n  author       = {Francisco S. Melo and\n                  Manuela M. Veloso},\n  editor       = {Alcherio Martinoli and\n                  Francesco Mondada and\n                  Nikolaus Correll and\n                  Gr{\\'{e}}gory Mermoud and\n                  Magnus Egerstedt and\n                  M. Ani Hsieh and\n                  Lynne E. Parker and\n                  Kasper St{\\o}y},\n  title        = {Heuristic Planning for Decentralized MDPs with Sparse Interactions},\n  booktitle    = {Distributed Autonomous Robotic Systems - The 10th International Symposium,\n                  {DARS} 2010, Lausanne, Switzerland, November 1-3, 2010},\n  series       = {Springer Tracts in Advanced Robotics},\n  volume       = {83},\n  pages        = {329--343},\n  publisher    = {Springer},\n  year         = {2010},\n  url          = {https://doi.org/10.1007/978-3-642-32723-0\\_24},\n  doi          = {10.1007/978-3-642-32723-0\\_24},\n}"
   },
   {
    "key": "conf/ecai/MeloLF10",
@@ -4352,7 +4499,8 @@
    "year": "2010",
    "type": "Conference",
    "url": "http://www.booksonline.iospress.nl/Content/View.aspx?piid=17771",
-   "pdf": "pdfs/conf-ecai-MeloLF10.pdf"
+   "pdf": "pdfs/conf-ecai-MeloLF10.pdf",
+   "bib": "@inproceedings{DBLP:conf/ecai/MeloLF10,\n  author       = {Francisco S. Melo and\n                  Manuel Lopes and\n                  Ricardo Ferreira},\n  editor       = {Helder Coelho and\n                  Rudi Studer and\n                  Michael J. Wooldridge},\n  title        = {Analysis of Inverse Reinforcement Learning with Perturbed Demonstrations},\n  booktitle    = {{ECAI} 2010 - 19th European Conference on Artificial Intelligence,\n                  Lisbon, Portugal, August 16-20, 2010, Proceedings},\n  series       = {Frontiers in Artificial Intelligence and Applications},\n  volume       = {215},\n  pages        = {349--354},\n  publisher    = {{IOS} Press},\n  year         = {2010},\n  url          = {http://www.booksonline.iospress.nl/Content/View.aspx?piid=17771},\n}"
   },
   {
    "key": "conf/pkdd/MeloL10",
@@ -4372,7 +4520,8 @@
    "year": "2010",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-642-15883-4_25",
-   "pdf": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-15883-4_25.pdf"
+   "pdf": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-15883-4_25.pdf",
+   "bib": "@inproceedings{DBLP:conf/pkdd/MeloL10,\n  author       = {Francisco S. Melo and\n                  Manuel Lopes},\n  editor       = {Jos{\\'{e}} L. Balc{\\'{a}}zar and\n                  Francesco Bonchi and\n                  Aristides Gionis and\n                  Mich{\\`{e}}le Sebag},\n  title        = {Learning from Demonstration Using {MDP} Induced Metrics},\n  booktitle    = {Machine Learning and Knowledge Discovery in Databases, European Conference,\n                  {ECML} {PKDD} 2010, Barcelona, Spain, September 20-24, 2010, Proceedings,\n                  Part {II}},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {6322},\n  pages        = {385--401},\n  publisher    = {Springer},\n  year         = {2010},\n  url          = {https://doi.org/10.1007/978-3-642-15883-4\\_25},\n  doi          = {10.1007/978-3-642-15883-4\\_25},\n}"
   },
   {
    "key": "series/sci/LopesMMS10",
@@ -4400,7 +4549,8 @@
    "year": "2010",
    "type": "Chapter",
    "url": "https://doi.org/10.1007/978-3-642-05181-4_14",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@incollection{DBLP:series/sci/LopesMMS10,\n  author       = {Manuel Lopes and\n                  Francisco S. Melo and\n                  Luis Montesano and\n                  Jos{\\'{e}} Santos{-}Victor},\n  editor       = {Olivier Sigaud and\n                  Jan Peters},\n  title        = {Abstraction Levels for Robotic Imitation: Overview and Computational\n                  Approaches},\n  booktitle    = {From Motor Learning to Interaction Learning in Robots},\n  series       = {Studies in Computational Intelligence},\n  volume       = {264},\n  pages        = {313--355},\n  publisher    = {Springer},\n  year         = {2010},\n  url          = {https://doi.org/10.1007/978-3-642-05181-4\\_14},\n  doi          = {10.1007/978-3-642-05181-4\\_14},\n}"
   },
   {
    "key": "journals/adb/LopesMKS09",
@@ -4428,7 +4578,8 @@
    "year": "2009",
    "type": "Journal",
    "url": "https://doi.org/10.1177/1059712309342757",
-   "pdf": "pdfs/journals-adb-LopesMKS09.pdf"
+   "pdf": "pdfs/journals-adb-LopesMKS09.pdf",
+   "bib": "@article{DBLP:journals/adb/LopesMKS09,\n  author       = {Manuel Lopes and\n                  Francisco S. Melo and\n                  Ben Kenward and\n                  Jos{\\'{e}} Santos{-}Victor},\n  title        = {A Computational Model of Social-Learning Mechanisms},\n  journal      = {Adapt. Behav.},\n  volume       = {17},\n  number       = {6},\n  pages        = {467--483},\n  year         = {2009},\n  url          = {https://doi.org/10.1177/1059712309342757},\n  doi          = {10.1177/1059712309342757},\n}"
   },
   {
    "key": "conf/atal/MeloV09",
@@ -4448,7 +4599,8 @@
    "year": "2009",
    "type": "Conference",
    "url": "https://dl.acm.org/citation.cfm?id=1558118",
-   "pdf": "pdfs/conf-atal-MeloV09.pdf"
+   "pdf": "pdfs/conf-atal-MeloV09.pdf",
+   "bib": "@inproceedings{DBLP:conf/atal/MeloV09,\n  author       = {Francisco S. Melo and\n                  Manuela M. Veloso},\n  editor       = {Carles Sierra and\n                  Cristiano Castelfranchi and\n                  Keith S. Decker and\n                  Jaime Sim{\\~{a}}o Sichman},\n  title        = {Learning of coordination: exploiting sparse interactions in multiagent\n                  systems},\n  booktitle    = {8th International Conference on Autonomous Agents and Multiagent Systems\n                  {(AAMAS} 2009), Budapest, Hungary, May 10-15, 2009, Volume 2},\n  pages        = {773--780},\n  publisher    = {{IFAAMAS}},\n  year         = {2009},\n  url          = {https://dl.acm.org/citation.cfm?id=1558118},\n}"
   },
   {
    "key": "conf/pkdd/LopesMM09",
@@ -4472,7 +4624,8 @@
    "year": "2009",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-642-04174-7_3",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/pkdd/LopesMM09,\n  author       = {Manuel Lopes and\n                  Francisco S. Melo and\n                  Luis Montesano},\n  editor       = {Wray L. Buntine and\n                  Marko Grobelnik and\n                  Dunja Mladenic and\n                  John Shawe{-}Taylor},\n  title        = {Active Learning for Reward Estimation in Inverse Reinforcement Learning},\n  booktitle    = {Machine Learning and Knowledge Discovery in Databases, European Conference,\n                  {ECML} {PKDD} 2009, Bled, Slovenia, September 7-11, 2009, Proceedings,\n                  Part {II}},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {5782},\n  pages        = {31--46},\n  publisher    = {Springer},\n  year         = {2009},\n  url          = {https://doi.org/10.1007/978-3-642-04174-7\\_3},\n  doi          = {10.1007/978-3-642-04174-7\\_3},\n}"
   },
   {
    "key": "conf/atal/MeloR08",
@@ -4492,7 +4645,8 @@
    "year": "2008",
    "type": "Conference",
    "url": "https://dl.acm.org/citation.cfm?id=1402436",
-   "pdf": "pdfs/conf-atal-MeloR08.pdf"
+   "pdf": "pdfs/conf-atal-MeloR08.pdf",
+   "bib": "@inproceedings{DBLP:conf/atal/MeloR08,\n  author       = {Francisco S. Melo and\n                  M. Isabel Ribeiro},\n  editor       = {Lin Padgham and\n                  David C. Parkes and\n                  J{\\\"{o}}rg P. M{\\\"{u}}ller and\n                  Simon Parsons},\n  title        = {Emerging coordination in infinite team Markov games},\n  booktitle    = {7th International Joint Conference on Autonomous Agents and Multiagent\n                  Systems {(AAMAS} 2008), Estoril, Portugal, May 12-16, 2008, Volume\n                  1},\n  pages        = {355--362},\n  publisher    = {{IFAAMAS}},\n  year         = {2008},\n  url          = {https://dl.acm.org/citation.cfm?id=1402436},\n}"
   },
   {
    "key": "conf/atal/SpaanM08",
@@ -4512,7 +4666,8 @@
    "year": "2008",
    "type": "Conference",
    "url": "https://dl.acm.org/citation.cfm?id=1402458",
-   "pdf": "pdfs/conf-atal-SpaanM08.pdf"
+   "pdf": "pdfs/conf-atal-SpaanM08.pdf",
+   "bib": "@inproceedings{DBLP:conf/atal/SpaanM08,\n  author       = {Matthijs T. J. Spaan and\n                  Francisco S. Melo},\n  editor       = {Lin Padgham and\n                  David C. Parkes and\n                  J{\\\"{o}}rg P. M{\\\"{u}}ller and\n                  Simon Parsons},\n  title        = {Interaction-driven Markov games for decentralized multiagent planning\n                  under uncertainty},\n  booktitle    = {7th International Joint Conference on Autonomous Agents and Multiagent\n                  Systems {(AAMAS} 2008), Estoril, Portugal, May 12-16, 2008, Volume\n                  1},\n  pages        = {525--532},\n  publisher    = {{IFAAMAS}},\n  year         = {2008},\n  url          = {https://dl.acm.org/citation.cfm?id=1402458},\n}"
   },
   {
    "key": "conf/ecai/Melo08",
@@ -4528,7 +4683,8 @@
    "year": "2008",
    "type": "Conference",
    "url": "https://doi.org/10.3233/978-1-58603-891-5-157",
-   "pdf": "pdfs/conf-ecai-Melo08.pdf"
+   "pdf": "pdfs/conf-ecai-Melo08.pdf",
+   "bib": "@inproceedings{DBLP:conf/ecai/Melo08,\n  author       = {Francisco S. Melo},\n  editor       = {Malik Ghallab and\n                  Constantine D. Spyropoulos and\n                  Nikos Fakotakis and\n                  Nikolaos M. Avouris},\n  title        = {Exploiting locality of interactions using a policy-gradient approach\n                  in multiagent learning},\n  booktitle    = {{ECAI} 2008 - 18th European Conference on Artificial Intelligence,\n                  Patras, Greece, July 21-25, 2008, Proceedings},\n  series       = {Frontiers in Artificial Intelligence and Applications},\n  volume       = {178},\n  pages        = {157--161},\n  publisher    = {{IOS} Press},\n  year         = {2008},\n  url          = {https://doi.org/10.3233/978-1-58603-891-5-157},\n  doi          = {10.3233/978-1-58603-891-5-157},\n}"
   },
   {
    "key": "conf/icml/MeloMR08",
@@ -4552,7 +4708,8 @@
    "year": "2008",
    "type": "Conference",
    "url": "https://doi.org/10.1145/1390156.1390240",
-   "pdf": "pdfs/conf-icml-MeloMR08.pdf"
+   "pdf": "pdfs/conf-icml-MeloMR08.pdf",
+   "bib": "@inproceedings{DBLP:conf/icml/MeloMR08,\n  author       = {Francisco S. Melo and\n                  Sean P. Meyn and\n                  M. Isabel Ribeiro},\n  editor       = {William W. Cohen and\n                  Andrew McCallum and\n                  Sam T. Roweis},\n  title        = {An analysis of reinforcement learning with function approximation},\n  booktitle    = {Machine Learning, Proceedings of the Twenty-Fifth International Conference\n                  {(ICML} 2008), Helsinki, Finland, June 5-9, 2008},\n  series       = {{ACM} International Conference Proceeding Series},\n  volume       = {307},\n  pages        = {664--671},\n  publisher    = {{ACM}},\n  year         = {2008},\n  url          = {https://doi.org/10.1145/1390156.1390240},\n  doi          = {10.1145/1390156.1390240},\n}"
   },
   {
    "key": "conf/icra/MeloR08",
@@ -4572,7 +4729,8 @@
    "year": "2008",
    "type": "Conference",
    "url": "https://doi.org/10.1109/ROBOT.2008.4543717",
-   "pdf": "pdfs/conf-icra-MeloR08.pdf"
+   "pdf": "pdfs/conf-icra-MeloR08.pdf",
+   "bib": "@inproceedings{DBLP:conf/icra/MeloR08,\n  author       = {Francisco S. Melo and\n                  M. Isabel Ribeiro},\n  title        = {Reinforcement learning with function approximation for cooperative\n                  navigation tasks},\n  booktitle    = {2008 {IEEE} International Conference on Robotics and Automation, {ICRA}\n                  2008, May 19-23, 2008, Pasadena, California, {USA}},\n  pages        = {3321--3327},\n  publisher    = {{IEEE}},\n  year         = {2008},\n  url          = {https://doi.org/10.1109/ROBOT.2008.4543717},\n  doi          = {10.1109/ROBOT.2008.4543717},\n}"
   },
   {
    "key": "conf/pkdd/MeloL08",
@@ -4592,7 +4750,8 @@
    "year": "2008",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-540-87481-2_5",
-   "pdf": "https://link.springer.com/content/pdf/10.1007/978-3-540-87481-2_5.pdf"
+   "pdf": "https://link.springer.com/content/pdf/10.1007/978-3-540-87481-2_5.pdf",
+   "bib": "@inproceedings{DBLP:conf/pkdd/MeloL08,\n  author       = {Francisco S. Melo and\n                  Manuel Lopes},\n  editor       = {Walter Daelemans and\n                  Bart Goethals and\n                  Katharina Morik},\n  title        = {Fitted Natural Actor-Critic: {A} New Algorithm for Continuous State-Action\n                  MDPs},\n  booktitle    = {Machine Learning and Knowledge Discovery in Databases, European Conference,\n                  {ECML/PKDD} 2008, Antwerp, Belgium, September 15-19, 2008, Proceedings,\n                  Part {II}},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {5212},\n  pages        = {66--81},\n  publisher    = {Springer},\n  year         = {2008},\n  url          = {https://doi.org/10.1007/978-3-540-87481-2\\_5},\n  doi          = {10.1007/978-3-540-87481-2\\_5},\n}"
   },
   {
    "key": "conf/colt/MeloR07",
@@ -4612,7 +4771,8 @@
    "year": "2007",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-540-72927-3_23",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/colt/MeloR07,\n  author       = {Francisco S. Melo and\n                  M. Isabel Ribeiro},\n  editor       = {Nader H. Bshouty and\n                  Claudio Gentile},\n  title        = {\\emph{Q} -Learning with Linear Function Approximation},\n  booktitle    = {Learning Theory, 20th Annual Conference on Learning Theory, {COLT}\n                  2007, San Diego, CA, USA, June 13-15, 2007, Proceedings},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {4539},\n  pages        = {308--322},\n  publisher    = {Springer},\n  year         = {2007},\n  url          = {https://doi.org/10.1007/978-3-540-72927-3\\_23},\n  doi          = {10.1007/978-3-540-72927-3\\_23},\n}"
   },
   {
    "key": "conf/epia/MeloL07",
@@ -4632,7 +4792,8 @@
    "year": "2007",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-540-77002-2_47",
-   "pdf": ""
+   "pdf": "",
+   "bib": "@inproceedings{DBLP:conf/epia/MeloL07,\n  author       = {Francisco S. Melo and\n                  Manuel C. Lopes},\n  editor       = {Jos{\\'{e}} Neves and\n                  Manuel Filipe Santos and\n                  Jos{\\'{e}} Machado},\n  title        = {Convergence of Independent Adaptive Learners},\n  booktitle    = {Progress in Artificial Intelligence, 13th Portuguese Conference on\n                  Aritficial Intelligence, {EPIA} 2007, Workshops: GAIW, AIASTS, ALEA,\n                  AMITA, BAOSW, BI, CMBSB, IROBOT, MASTA, STCS, and TEMA, Guimar{\\~{a}}es,\n                  Portugal, December 3-7, 2007, Proceedings},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {4874},\n  pages        = {555--567},\n  publisher    = {Springer},\n  year         = {2007},\n  url          = {https://doi.org/10.1007/978-3-540-77002-2\\_47},\n  doi          = {10.1007/978-3-540-77002-2\\_47},\n}"
   },
   {
    "key": "conf/iros/LopesMM07",
@@ -4656,7 +4817,8 @@
    "year": "2007",
    "type": "Conference",
    "url": "https://doi.org/10.1109/IROS.2007.4399517",
-   "pdf": "pdfs/conf-iros-LopesMM07.pdf"
+   "pdf": "pdfs/conf-iros-LopesMM07.pdf",
+   "bib": "@inproceedings{DBLP:conf/iros/LopesMM07,\n  author       = {Manuel Lopes and\n                  Francisco S. Melo and\n                  Luis Montesano},\n  title        = {Affordance-based imitation learning in robots},\n  booktitle    = {2007 {IEEE/RSJ} International Conference on Intelligent Robots and\n                  Systems, October 29 - November 2, 2007, Sheraton Hotel and Marina,\n                  San Diego, California, {USA}},\n  pages        = {1015--1021},\n  publisher    = {{IEEE}},\n  year         = {2007},\n  url          = {https://doi.org/10.1109/IROS.2007.4399517},\n  doi          = {10.1109/IROS.2007.4399517},\n}"
   },
   {
    "key": "conf/ias/MeloR06",
@@ -4676,7 +4838,8 @@
    "year": "2006",
    "type": "Conference",
    "url": "",
-   "pdf": "pdfs/conf-ias-MeloR06.pdf"
+   "pdf": "pdfs/conf-ias-MeloR06.pdf",
+   "bib": "@inproceedings{DBLP:conf/ias/MeloR06,\n  author       = {Francisco S. Melo and\n                  M. Isabel Ribeiro},\n  editor       = {Tamio Arai and\n                  Rolf Pfeifer and\n                  Tucker R. Balch and\n                  Hiroshi Yokoi},\n  title        = {Transition Entropy in Partially Observable Markov Decision Processes},\n  booktitle    = {Intelligent Autonomous Systems 9 - IAS-9, Proceedings of the 9th International\n                  Conference on Intelligent Autonomous Systems, University of Tokyo,\n                  Tokyo, Japan, March 7-9, 2006},\n  pages        = {282--289},\n  publisher    = {{IOS} Press},\n  year         = {2006},\n}"
   }
  ]
 }
