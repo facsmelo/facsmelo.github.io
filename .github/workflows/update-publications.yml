@@ -1,0 +1,32 @@
+name: Update publications from DBLP
+
+on:
+  schedule:
+    - cron: "17 4 * * 1"   # every Monday at 04:17 UTC
+  workflow_dispatch:       # lets you run it by hand from the Actions tab
+  push:
+    paths:
+      - scripts/update_publications.py
+      - .github/workflows/update-publications.yml
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download publication list from DBLP
+        run: python3 scripts/update_publications.py
+
+      # publications.json records the date of each check, so every successful run makes a small
+      # commit. That also keeps the repository "active", so GitHub never pauses this schedule.
+      - name: Commit the updated list
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add publications.json
+          git commit -m "Update publications from DBLP" || exit 0
+          git push

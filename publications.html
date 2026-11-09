@@ -18,6 +18,7 @@
       .pub-links { margin-top: 6px; font-size: 0.85em; }
       .pub-links a { margin-right: 15px; font-weight: bold; color: #007acc; text-decoration: none; }
       #status-msg { font-style: italic; color: #666; background: #fafafa; padding: 15px; border: 1px dashed #ccc; border-radius: 4px; }
+      .pub-source { font-size: 0.8em; color: #888; margin-top: 2rem; }
     </style>
   </head>
   <body>
@@ -30,90 +31,86 @@
       <section>
         <h2>Publications</h2>
         <div class="pub-filters">
-          <input type="text" id="pubSearch" placeholder="Search publications..." onkeyup="applyFilters()">
+          <input type="text" id="pubSearch" placeholder="Search publications..." oninput="applyFilters()">
           <select id="pubYearFilter" onchange="applyFilters()"><option value="all">All Years</option></select>
           <select id="pubTypeFilter" onchange="applyFilters()">
             <option value="all">All Types</option>
             <option value="Journal">Journals</option>
             <option value="Conference">Conferences</option>
+            <option value="Chapter">Book chapters</option>
+            <option value="Edited">Edited volumes</option>
             <option value="Preprint">Preprints</option>
           </select>
         </div>
-        <div id="status-msg">Loading publications from DBLP...</div>
+        <div id="status-msg">Loading publications...</div>
         <div id="pub-list-container"></div>
+        <p class="pub-source" id="pub-source">List generated automatically from my
+          <a href="https://dblp.org/pid/86/839.html">DBLP profile</a>.</p>
         <p><a href="./">back</a></p>
       </section>
       <footer><p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p></footer>
     </div>
 
     <script>
-      var dblpId = "86/839";
       var publications = [];
 
-      // This function is called automatically when the DBLP data arrives
-      window.dblp_callback = function(data) {
-        var statusMsg = document.getElementById('status-msg');
-        if (!data || !data.result || !data.result.hits || !data.result.hits.hit) {
-            statusMsg.innerHTML = "Error loading publications. Please visit <a href='https://dblp.org/pid/" + dblpId + ".html'>my DBLP profile</a>.";
-            return;
-        }
+      function esc(s) {
+        return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+          return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+        });
+      }
 
-        var hits = data.result.hits.hit;
-        publications = hits.map(function(h) {
-          var i = h.info;
-          var auths = Array.isArray(i.authors.author) ? i.authors.author : [i.authors.author];
-          var authList = auths.map(function(a) {
-              var n = (typeof a === 'object' ? a.text : a).replace(/\s\d+$/, '');
-              return (n.indexOf("Melo") !== -1) ? "<strong>"+n+"</strong>" : n;
-          }).join(", ");
-          
-          return {
-            title: (typeof i.title === 'object' ? i.title.text : i.title).replace(/\.$/, ""),
-            authors: authList,
-            venue: i.venue || "Tech Report",
-            year: i.year,
-            type: i.type === "Journal Articles" ? "Journal" : (i.type === "Conference and Workshop Papers" ? "Conference" : "Preprint"),
-            url: i.ee, dblp: i.url
-          };
-        }).sort(function(a,b){ return b.year - a.year; });
-
-        statusMsg.style.display = "none";
-        
-        // Setup Year Filter
-        var yr = document.getElementById('pubYearFilter');
-        var years = [];
-        publications.forEach(function(p){ if(years.indexOf(p.year)===-1) years.push(p.year); });
-        years.sort().reverse().forEach(function(y){ var o=document.createElement("option"); o.value=y; o.text=y; yr.add(o); });
-        
-        render(publications);
-      };
+      function authorList(p) {
+        var names = p.authors.map(function (a) {
+          return a.me ? "<strong>" + esc(a.name) + "</strong>" : esc(a.name);
+        }).join(", ");
+        return p.editors ? names + " (eds.)" : names;
+      }
 
       function render(items) {
         var html = "";
-        items.forEach(function(p) {
-          html += '<div class="pub-item"><span class="pub-title">' + p.title + '</span>' +
-                  '<span class="pub-authors">' + p.authors + '</span>' +
-                  '<span class="pub-venue"><span class="pub-tag">' + p.type + '</span>' + p.venue + ', ' + p.year + '</span>' +
-                  '<div class="pub-links">' + (p.url ? '<a href="'+p.url+'" target="_blank">[Publisher]</a>' : '') + 
-                  '<a href="'+p.dblp+'" target="_blank">[DBLP]</a></div></div>';
+        items.forEach(function (p) {
+          html += '<div class="pub-item"><span class="pub-title">' + esc(p.title) + '</span>' +
+                  '<span class="pub-authors">' + authorList(p) + '</span>' +
+                  '<span class="pub-venue"><span class="pub-tag">' + esc(p.type) + '</span>' +
+                  esc(p.venue ? p.venue + ", " + p.year : p.year) + '</span>' +
+                  '<div class="pub-links">' +
+                  (p.url ? '<a href="' + esc(p.url) + '" target="_blank" rel="noopener">[Publisher]</a>' : '') +
+                  '<a href="' + esc(p.dblp) + '" target="_blank" rel="noopener">[DBLP]</a></div></div>';
         });
-        document.getElementById('pub-list-container').innerHTML = html;
+        document.getElementById("pub-list-container").innerHTML = html ||
+          '<p><em>No publications match your search.</em></p>';
       }
 
       function applyFilters() {
-        var s = document.getElementById('pubSearch').value.toLowerCase();
-        var y = document.getElementById('pubYearFilter').value;
-        var t = document.getElementById('pubTypeFilter').value;
-        render(publications.filter(function(p) {
-          var textMatch = p.title.toLowerCase().indexOf(s) > -1 || p.authors.toLowerCase().indexOf(s) > -1;
-          return textMatch && (y === "all" || p.year === y) && (t === "all" || p.type === t);
+        var s = document.getElementById("pubSearch").value.toLowerCase();
+        var y = document.getElementById("pubYearFilter").value;
+        var t = document.getElementById("pubTypeFilter").value;
+        render(publications.filter(function (p) {
+          var text = (p.title + " " + p.venue + " " + p.authors.map(function (a) { return a.name; }).join(" ")).toLowerCase();
+          return text.indexOf(s) > -1 && (y === "all" || p.year === y) && (t === "all" || p.type === t);
         }));
       }
 
-      // Start the JSONP request
-      var script = document.createElement('script');
-      script.src = "https://dblp.org/search/publ/api?q=author:Francisco_S._Melo:&format=jsonp&callback=dblp_callback&h=1000";
-      document.body.appendChild(script);
+      fetch("publications.json", { cache: "no-cache" }).then(function (r) {
+        if (!r.ok) throw new Error("HTTP " + r.status);
+        return r.json();
+      }).then(function (data) {
+        publications = data.publications || [];
+        if (!publications.length) throw new Error("empty");
+        document.getElementById("status-msg").style.display = "none";
+        var yr = document.getElementById("pubYearFilter"), years = [];
+        publications.forEach(function (p) { if (p.year && years.indexOf(p.year) === -1) years.push(p.year); });
+        years.sort().reverse().forEach(function (y) { var o = document.createElement("option"); o.value = y; o.text = y; yr.add(o); });
+        if (data.checked) {
+          document.getElementById("pub-source").insertAdjacentHTML("beforeend", " Last updated " + esc(data.checked) + ".");
+        }
+        render(publications);
+      }).catch(function () {
+        document.getElementById("status-msg").innerHTML =
+          "Couldn't load the publication list. Please see my " +
+          "<a href='https://dblp.org/pid/86/839.html'>DBLP profile</a>.";
+      });
     </script>
   </body>
 </html>
