@@ -80,9 +80,9 @@
                   '<span class="pub-authors">' + authorList(p) + '</span>' +
                   '<span class="pub-venue"><span class="pub-tag">' + esc(p.type) + '</span>' +
                   esc(p.venue ? p.venue + ", " + p.year : p.year) + '</span>' +
-                  '<div class="pub-links">' +
-                  (p.url ? '<a href="' + esc(p.url) + '" target="_blank" rel="noopener">[Publisher]</a>' : '') +
-                  '<a href="' + esc(p.dblp) + '" target="_blank" rel="noopener">[DBLP]</a></div></div>';
+                  (p.pdf ? '<div class="pub-links"><a href="' + esc(p.pdf) + '" target="_blank" rel="noopener">[PDF]</a></div>'
+                   : p.url ? '<div class="pub-links"><a href="' + esc(p.url) + '" target="_blank" rel="noopener">[Publisher]</a></div>' : '') +
+                  '</div>';
         });
         document.getElementById("pub-list-container").innerHTML = html ||
           '<p><em>No publications match your search.</em></p>';

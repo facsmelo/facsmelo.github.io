@@ -3,6 +3,7 @@
  "checked": "2026-11-09",
  "publications": [
   {
+   "key": "conf/aaai/SantosCVSSPM26",
    "title": "Centralized Training with Hybrid Execution in Multi-Agent Reinforcement Learning via Predictive Observation Imputation (Abstract Reprint)",
    "authors": [
     {
@@ -39,9 +40,10 @@
    "year": "2026",
    "type": "Conference",
    "url": "https://doi.org/10.1609/aaai.v40i47.41409",
-   "dblp": "https://dblp.org/rec/conf/aaai/SantosCVSSPM26.html"
+   "pdf": "https://ojs.aaai.org/index.php/AAAI/article/download/41409/45370"
   },
   {
+   "key": "conf/hhai/RibeiroOSSM26",
    "title": "RecBayes: Scalable Ad Hoc Teamwork Without Privileged Information",
    "authors": [
     {
@@ -70,9 +72,10 @@
    "year": "2026",
    "type": "Conference",
    "url": "https://doi.org/10.3233/FAIA260495",
-   "dblp": "https://dblp.org/rec/conf/hhai/RibeiroOSSM26.html"
+   "pdf": ""
   },
   {
+   "key": "conf/iclr/SantosSM26",
    "title": "Solving General-Utility Markov Decision Processes in the Single-Trial Regime with Online Planning",
    "authors": [
     {
@@ -93,9 +96,10 @@
    "year": "2026",
    "type": "Conference",
    "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/3853f7b92d82318f03567a4f7f128227-Abstract-Conference.html",
-   "dblp": "https://dblp.org/rec/conf/iclr/SantosSM26.html"
+   "pdf": "https://arxiv.org/pdf/2505.15782"
   },
   {
+   "key": "journals/corr/abs-2601-17667",
    "title": "Entropic Risk-Aware Monte Carlo Tree Search",
    "authors": [
     {
@@ -120,9 +124,10 @@
    "year": "2026",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.2601.17667",
-   "dblp": "https://dblp.org/rec/journals/corr/abs-2601-17667.html"
+   "pdf": "https://arxiv.org/pdf/2601.17667"
   },
   {
+   "key": "journals/corr/abs-2607-09298",
    "title": "Risk-Aware General-Utility Markov Decision Processes",
    "authors": [
     {
@@ -147,9 +152,10 @@
    "year": "2026",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.2607.09298",
-   "dblp": "https://dblp.org/rec/journals/corr/abs-2607-09298.html"
+   "pdf": "https://arxiv.org/pdf/2607.09298"
   },
   {
+   "key": "journals/ai/CarvalhoSM25",
    "title": "Reinforcement learning in convergently non-stationary environments: Feudal hierarchies and learned representations",
    "authors": [
     {
@@ -170,9 +176,10 @@
    "year": "2025",
    "type": "Journal",
    "url": "https://doi.org/10.1016/j.artint.2025.104382",
-   "dblp": "https://dblp.org/rec/journals/ai/CarvalhoSM25.html"
+   "pdf": ""
   },
   {
+   "key": "journals/ai/SantosCVSSPM25",
    "title": "Centralized training with hybrid execution in multi-agent reinforcement learning via predictive observation imputation",
    "authors": [
     {
@@ -209,9 +216,10 @@
    "year": "2025",
    "type": "Journal",
    "url": "https://doi.org/10.1016/j.artint.2025.104404",
-   "dblp": "https://dblp.org/rec/journals/ai/SantosCVSSPM25.html"
+   "pdf": ""
   },
   {
+   "key": "journals/npjdm/AlbersMNKB25",
    "title": "Psychological, economic, and ethical factors in human feedback for a chatbot-based smoking cessation intervention",
    "authors": [
     {
@@ -240,9 +248,10 @@
    "year": "2025",
    "type": "Journal",
    "url": "https://doi.org/10.1038/s41746-025-01701-3",
-   "dblp": "https://dblp.org/rec/journals/npjdm/AlbersMNKB25.html"
+   "pdf": "https://www.nature.com/articles/s41746-025-01701-3.pdf"
   },
   {
+   "key": "journals/tmlr/Carvalho0M25",
    "title": "Multi-Bellman operator for convergence of Q-learning with linear function approximation",
    "authors": [
     {
@@ -263,9 +272,10 @@
    "year": "2025",
    "type": "Journal",
    "url": "https://openreview.net/forum?id=D2PjEPGXgh",
-   "dblp": "https://dblp.org/rec/journals/tmlr/Carvalho0M25.html"
+   "pdf": "https://arxiv.org/pdf/2309.16819"
   },
   {
+   "key": "conf/epia/PuglieseCFFM25",
    "title": "Optimizing 2D Packing Strategies for Autoclave Loading Using Deep Reinforcement Learning",
    "authors": [
     {
@@ -294,9 +304,10 @@
    "year": "2025",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-032-05179-0_4",
-   "dblp": "https://dblp.org/rec/conf/epia/PuglieseCFFM25.html"
+   "pdf": ""
   },
   {
+   "key": "conf/icml/SantosSM25",
    "title": "The Number of Trials Matters in Infinite-Horizon General-Utility Markov Decision Processes",
    "authors": [
     {
@@ -317,9 +328,10 @@
    "year": "2025",
    "type": "Conference",
    "url": "https://proceedings.mlr.press/v267/santos25b.html",
-   "dblp": "https://dblp.org/rec/conf/icml/SantosSM25.html"
+   "pdf": "https://arxiv.org/pdf/2409.15128"
   },
   {
+   "key": "conf/icra/KordiaM25",
    "title": "Optimize and Coordinate Multiple DMPs Under Constraints to Achieve a Collaborative Manipulation Task",
    "authors": [
     {
@@ -336,9 +348,10 @@
    "year": "2025",
    "type": "Conference",
    "url": "https://doi.org/10.1109/ICRA55743.2025.11127511",
-   "dblp": "https://dblp.org/rec/conf/icra/KordiaM25.html"
+   "pdf": ""
   },
   {
+   "key": "conf/ifaamas/VarelaSM25",
    "title": "Networked Agents in the Dark: Team Value Learning under Partial Observability",
    "authors": [
     {
@@ -359,9 +372,10 @@
    "year": "2025",
    "type": "Conference",
    "url": "https://dl.acm.org/doi/10.5555/3709347.3743847",
-   "dblp": "https://dblp.org/rec/conf/ifaamas/VarelaSM25.html"
+   "pdf": "https://arxiv.org/pdf/2501.08778"
   },
   {
+   "key": "conf/ifaamas/VitalSM25",
    "title": "Implicit Repair with Reinforcement Learning in Emergent Communication",
    "authors": [
     {
@@ -382,9 +396,10 @@
    "year": "2025",
    "type": "Conference",
    "url": "https://dl.acm.org/doi/10.5555/3709347.3743850",
-   "dblp": "https://dblp.org/rec/conf/ifaamas/VitalSM25.html"
+   "pdf": "https://arxiv.org/pdf/2502.12624"
   },
   {
+   "key": "conf/ifaamas/VarelaSM25a",
    "title": "Distributed Value Decomposition Networks with Networked Agents",
    "authors": [
     {
@@ -405,9 +420,10 @@
    "year": "2025",
    "type": "Conference",
    "url": "https://dl.acm.org/doi/10.5555/3709347.3744008",
-   "dblp": "https://dblp.org/rec/conf/ifaamas/VarelaSM25a.html"
+   "pdf": "https://arxiv.org/pdf/2502.07635"
   },
   {
+   "key": "journals/corr/abs-2506-15756",
    "title": "RecBayes: Recurrent Bayesian Ad Hoc Teamwork in Large Partially Observable Domains",
    "authors": [
     {
@@ -436,9 +452,10 @@
    "year": "2025",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.2506.15756",
-   "dblp": "https://dblp.org/rec/journals/corr/abs-2506-15756.html"
+   "pdf": "https://arxiv.org/pdf/2506.15756"
   },
   {
+   "key": "journals/corr/abs-2507-21631",
    "title": "\"Teammates, Am I Clear?\": Analysing Legible Behaviours in Teams",
    "authors": [
     {
@@ -459,9 +476,10 @@
    "year": "2025",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.2507.21631",
-   "dblp": "https://dblp.org/rec/journals/corr/abs-2507-21631.html"
+   "pdf": "https://arxiv.org/pdf/2507.21631"
   },
   {
+   "key": "journals/ai/FariaMP24",
    "title": "\"Guess what I'm doing\": Extending legibility to sequential decision tasks",
    "authors": [
     {
@@ -482,9 +500,10 @@
    "year": "2024",
    "type": "Journal",
    "url": "https://doi.org/10.1016/j.artint.2024.104107",
-   "dblp": "https://dblp.org/rec/journals/ai/FariaMP24.html"
+   "pdf": "https://arxiv.org/pdf/2209.09141"
   },
   {
+   "key": "journals/ml/SantosCSM24",
    "title": "The impact of data distribution on Q-learning with function approximation",
    "authors": [
     {
@@ -509,9 +528,10 @@
    "year": "2024",
    "type": "Journal",
    "url": "https://doi.org/10.1007/s10994-024-06564-5",
-   "dblp": "https://dblp.org/rec/journals/ml/SantosCSM24.html"
+   "pdf": ""
   },
   {
+   "key": "journals/topics/CorreiaMP24",
    "title": "When a Robot Is Your Teammate",
    "authors": [
     {
@@ -532,9 +552,10 @@
    "year": "2024",
    "type": "Journal",
    "url": "https://doi.org/10.1111/tops.12634",
-   "dblp": "https://dblp.org/rec/journals/topics/CorreiaMP24.html"
+   "pdf": ""
   },
   {
+   "key": "conf/aaai/RibeiroRSM24",
    "title": "TEAMSTER: Model-Based Reinforcement Learning for Ad Hoc Teamwork (Abstract Reprint)",
    "authors": [
     {
@@ -559,9 +580,10 @@
    "year": "2024",
    "type": "Conference",
    "url": "https://doi.org/10.1609/aaai.v38i20.30608",
-   "dblp": "https://dblp.org/rec/conf/aaai/RibeiroRSM24.html"
+   "pdf": "https://ojs.aaai.org/index.php/AAAI/article/download/30608/32770"
   },
   {
+   "key": "conf/atal/SantosCVSS0M24",
    "title": "Centralized Training with Hybrid Execution in Multi-Agent Reinforcement Learning",
    "authors": [
     {
@@ -598,9 +620,10 @@
    "year": "2024",
    "type": "Conference",
    "url": "https://dl.acm.org/doi/10.5555/3635637.3663191",
-   "dblp": "https://dblp.org/rec/conf/atal/SantosCVSS0M24.html"
+   "pdf": "https://arxiv.org/pdf/2210.06274"
   },
   {
+   "key": "conf/epia/SilvestrinML24",
    "title": "A Comparative Study of Continual Backpropagation",
    "authors": [
     {
@@ -621,9 +644,10 @@
    "year": "2024",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-031-73500-4_27",
-   "dblp": "https://dblp.org/rec/conf/epia/SilvestrinML24.html"
+   "pdf": ""
   },
   {
+   "key": "conf/icaart/ZayanovM024",
    "title": "Interactively Teaching an Inverse Reinforcement Learner with Limited Feedback",
    "authors": [
     {
@@ -644,9 +668,10 @@
    "year": "2024",
    "type": "Conference",
    "url": "https://doi.org/10.5220/0012296800003636",
-   "dblp": "https://dblp.org/rec/conf/icaart/ZayanovM024.html"
+   "pdf": "https://arxiv.org/pdf/2309.09095"
   },
   {
+   "key": "conf/nips/EstevesVM24",
    "title": "NeuralSolver: Learning Algorithms For Consistent and Efficient Extrapolation Across General Tasks",
    "authors": [
     {
@@ -667,9 +692,10 @@
    "year": "2024",
    "type": "Conference",
    "url": "http://papers.nips.cc/paper_files/paper/2024/hash/06297213eca57fa6eadf8d87caa21b3c-Abstract-Conference.html",
-   "dblp": "https://dblp.org/rec/conf/nips/EstevesVM24.html"
+   "pdf": "http://papers.nips.cc/paper_files/paper/2024/file/06297213eca57fa6eadf8d87caa21b3c-Paper-Conference.pdf"
   },
   {
+   "key": "conf/ecai/2024",
    "title": "ECAI 2024 - 27th European Conference on Artificial Intelligence, 19-24 October 2024, Santiago de Compostela, Spain - Including 13th Conference on Prestigious Applications of Intelligent Systems (PAIS 2024)",
    "authors": [
     {
@@ -706,9 +732,10 @@
    "year": "2024",
    "type": "Edited",
    "url": "https://doi.org/10.3233/FAIA392",
-   "dblp": "https://dblp.org/rec/conf/ecai/2024.html"
+   "pdf": ""
   },
   {
+   "key": "journals/corr/abs-2402-15393",
    "title": "NeuralThink: Algorithm Synthesis that Extrapolates in General Tasks",
    "authors": [
     {
@@ -729,9 +756,10 @@
    "year": "2024",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.2402.15393",
-   "dblp": "https://dblp.org/rec/journals/corr/abs-2402-15393.html"
+   "pdf": "https://arxiv.org/pdf/2402.15393"
   },
   {
+   "key": "journals/ai/RibeiroRSM23",
    "title": "TEAMSTER: Model-based reinforcement learning for ad hoc teamwork",
    "authors": [
     {
@@ -756,9 +784,10 @@
    "year": "2023",
    "type": "Journal",
    "url": "https://doi.org/10.1016/j.artint.2023.104013",
-   "dblp": "https://dblp.org/rec/journals/ai/RibeiroRSM23.html"
+   "pdf": ""
   },
   {
+   "key": "journals/ijsr/CorreiaCMP23",
    "title": "Robotic Gaze Responsiveness in Multiparty Teamwork",
    "authors": [
     {
@@ -783,9 +812,10 @@
    "year": "2023",
    "type": "Journal",
    "url": "https://doi.org/10.1007/s12369-022-00955-1",
-   "dblp": "https://dblp.org/rec/journals/ijsr/CorreiaCMP23.html"
+   "pdf": ""
   },
   {
+   "key": "conf/atal/QueridoSM23",
    "title": "Learning to Perceive in Deep Model-Free Reinforcement Learning",
    "authors": [
     {
@@ -806,9 +836,10 @@
    "year": "2023",
    "type": "Conference",
    "url": "https://dl.acm.org/doi/10.5555/3545946.3599013",
-   "dblp": "https://dblp.org/rec/conf/atal/QueridoSM23.html"
+   "pdf": "https://arxiv.org/pdf/2301.03730"
   },
   {
+   "key": "conf/ecai/CarvalhoMS23",
    "title": "Theoretical Remarks on Feudal Hierarchies and Reinforcement Learning",
    "authors": [
     {
@@ -829,9 +860,10 @@
    "year": "2023",
    "type": "Conference",
    "url": "https://doi.org/10.3233/FAIA230290",
-   "dblp": "https://dblp.org/rec/conf/ecai/CarvalhoMS23.html"
+   "pdf": "https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230290"
   },
   {
+   "key": "conf/ecai/RibeiroMSM23",
    "title": "Making Friends in the Dark: Ad Hoc Teamwork Under Partial Observability",
    "authors": [
     {
@@ -856,9 +888,10 @@
    "year": "2023",
    "type": "Conference",
    "url": "https://doi.org/10.3233/FAIA230486",
-   "dblp": "https://dblp.org/rec/conf/ecai/RibeiroMSM23.html"
+   "pdf": "https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230486"
   },
   {
+   "key": "conf/epia/EstevesVM23",
    "title": "Pre-training with Augmentations for Efficient Transfer in Model-Based Reinforcement Learning",
    "authors": [
     {
@@ -879,9 +912,10 @@
    "year": "2023",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-031-49008-8_11",
-   "dblp": "https://dblp.org/rec/conf/epia/EstevesVM23.html"
+   "pdf": ""
   },
   {
+   "key": "journals/firai/BarakaCM0V22",
    "title": "\"Sequencing Matters\": Investigating Suitable Action Sequences in Robot-Assisted Autism Therapy",
    "authors": [
     {
@@ -910,9 +944,10 @@
    "year": "2022",
    "type": "Journal",
    "url": "https://doi.org/10.3389/frobt.2022.784249",
-   "dblp": "https://dblp.org/rec/journals/firai/BarakaCM0V22.html"
+   "pdf": "https://www.frontiersin.org/articles/10.3389/frobt.2022.784249/pdf"
   },
   {
+   "key": "journals/jair/MerhejSMS22",
    "title": "Cooperation and Learning Dynamics under Wealth Inequality and Diversity in Individual Risk",
    "authors": [
     {
@@ -937,9 +972,10 @@
    "year": "2022",
    "type": "Journal",
    "url": "https://doi.org/10.1613/jair.1.13519",
-   "dblp": "https://dblp.org/rec/journals/jair/MerhejSMS22.html"
+   "pdf": "https://www.jair.org/index.php/jair/article/download/13519/26813"
   },
   {
+   "key": "journals/nn/VascoYMP22",
    "title": "Leveraging hierarchy in multimodal generative models for effective cross-modality inference",
    "authors": [
     {
@@ -964,9 +1000,10 @@
    "year": "2022",
    "type": "Journal",
    "url": "https://doi.org/10.1016/j.neunet.2021.11.019",
-   "dblp": "https://dblp.org/rec/journals/nn/VascoYMP22.html"
+   "pdf": ""
   },
   {
+   "key": "conf/atal/MerhejSMCS22",
    "title": "Cooperation and Learning Dynamics under Risk Diversity and Financial Incentives",
    "authors": [
     {
@@ -995,9 +1032,10 @@
    "year": "2022",
    "type": "Conference",
    "url": "https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p908.pdf",
-   "dblp": "https://dblp.org/rec/conf/atal/MerhejSMCS22.html"
+   "pdf": "https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p908.pdf"
   },
   {
+   "key": "conf/atal/VascoYM022",
    "title": "How to Sense the World:  Leveraging Hierarchy in Multimodal Perception for Robust Reinforcement Learning Agents",
    "authors": [
     {
@@ -1022,9 +1060,10 @@
    "year": "2022",
    "type": "Conference",
    "url": "https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1301.pdf",
-   "dblp": "https://dblp.org/rec/conf/atal/VascoYM022.html"
+   "pdf": "https://arxiv.org/pdf/2110.03608"
   },
   {
+   "key": "conf/epia/GuerraML22",
    "title": "FIT: Using Feature Importance to Teach Classification Tasks to Unknown Learners",
    "authors": [
     {
@@ -1045,9 +1084,10 @@
    "year": "2022",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-031-16474-3_36",
-   "dblp": "https://dblp.org/rec/conf/epia/GuerraML22.html"
+   "pdf": ""
   },
   {
+   "key": "conf/icarsc/MeloM22",
    "title": "Socially Reactive Navigation Models for Mobile Robots",
    "authors": [
     {
@@ -1064,9 +1104,10 @@
    "year": "2022",
    "type": "Conference",
    "url": "https://doi.org/10.1109/ICARSC55462.2022.9784789",
-   "dblp": "https://dblp.org/rec/conf/icarsc/MeloM22.html"
+   "pdf": ""
   },
   {
+   "key": "conf/icml/PoklukarVYM0K22",
    "title": "Geometric Multimodal Contrastive Representation Learning",
    "authors": [
     {
@@ -1099,9 +1140,10 @@
    "year": "2022",
    "type": "Conference",
    "url": "https://proceedings.mlr.press/v162/poklukar22a.html",
-   "dblp": "https://dblp.org/rec/conf/icml/PoklukarVYM0K22.html"
+   "pdf": "https://proceedings.mlr.press/v162/poklukar22a/poklukar22a.pdf"
   },
   {
+   "key": "conf/iros/VitalVSM22",
    "title": "Perceive, Represent, Generate: Translating Multimodal Information to Robotic Motion Trajectories",
    "authors": [
     {
@@ -1126,9 +1168,10 @@
    "year": "2022",
    "type": "Conference",
    "url": "https://doi.org/10.1109/IROS47612.2022.9981788",
-   "dblp": "https://dblp.org/rec/conf/iros/VitalVSM22.html"
+   "pdf": "https://arxiv.org/pdf/2204.03051"
   },
   {
+   "key": "conf/atal/2022bv",
    "title": "Autonomous Agents and Multiagent Systems. Best and Visionary Papers - AAMAS 2022 Workshops, Virtual Event, May 9-13, 2022, Revised Selected Papers",
    "authors": [
     {
@@ -1145,9 +1188,10 @@
    "year": "2022",
    "type": "Edited",
    "url": "https://doi.org/10.1007/978-3-031-20179-0",
-   "dblp": "https://dblp.org/rec/conf/atal/2022bv.html"
+   "pdf": ""
   },
   {
+   "key": "journals/corr/abs-2201-03538",
    "title": "Assisting Unknown Teammates in Unknown Tasks: Ad Hoc Teamwork under Partial Observability",
    "authors": [
     {
@@ -1172,9 +1216,10 @@
    "year": "2022",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.2201.03538",
-   "dblp": "https://dblp.org/rec/journals/corr/abs-2201-03538.html"
+   "pdf": "https://arxiv.org/pdf/2201.03538"
   },
   {
+   "key": "journals/corr/abs-2201-12891",
    "title": "Learning Collective Action under Risk Diversity",
    "authors": [
     {
@@ -1203,9 +1248,10 @@
    "year": "2022",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.2201.12891",
-   "dblp": "https://dblp.org/rec/journals/corr/abs-2201-12891.html"
+   "pdf": "https://arxiv.org/pdf/2201.12891"
   },
   {
+   "key": "journals/corr/abs-2202-03390",
    "title": "GMC - Geometric Multimodal Contrastive Representation Learning",
    "authors": [
     {
@@ -1238,9 +1284,10 @@
    "year": "2022",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.2202.03390",
-   "dblp": "https://dblp.org/rec/journals/corr/abs-2202-03390.html"
+   "pdf": "https://arxiv.org/pdf/2202.03390"
   },
   {
+   "key": "journals/frai/MeloL21",
    "title": "Teaching Multiple Inverse Reinforcement Learners",
    "authors": [
     {
@@ -1257,9 +1304,10 @@
    "year": "2021",
    "type": "Journal",
    "url": "https://doi.org/10.3389/frai.2021.625183",
-   "dblp": "https://dblp.org/rec/journals/frai/MeloL21.html"
+   "pdf": "https://www.frontiersin.org/articles/10.3389/frai.2021.625183/pdf"
   },
   {
+   "key": "journals/tciaig/SaltaPM21",
    "title": "A Game AI Competition to Foster Collaborative AI Research and Development",
    "authors": [
     {
@@ -1280,9 +1328,10 @@
    "year": "2021",
    "type": "Journal",
    "url": "https://doi.org/10.1109/TG.2020.3024160",
-   "dblp": "https://dblp.org/rec/journals/tciaig/SaltaPM21.html"
+   "pdf": "https://arxiv.org/pdf/2010.08885"
   },
   {
+   "key": "conf/aied/GuerraM021",
    "title": "Interactive Teaching with Groups of Unknown Bayesian Learners",
    "authors": [
     {
@@ -1303,9 +1352,10 @@
    "year": "2021",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-030-78270-2_32",
-   "dblp": "https://dblp.org/rec/conf/aied/GuerraM021.html"
+   "pdf": ""
   },
   {
+   "key": "conf/atal/MerhejSMS21",
    "title": "Cooperation between Independent Reinforcement Learners under Wealth Inequality and Collective Risks",
    "authors": [
     {
@@ -1330,9 +1380,10 @@
    "year": "2021",
    "type": "Conference",
    "url": "https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p898.pdf",
-   "dblp": "https://dblp.org/rec/conf/atal/MerhejSMS21.html"
+   "pdf": "https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p898.pdf"
   },
   {
+   "key": "conf/atal/GuerraM021",
    "title": "Teaching Unknown Learners to Classify via Feature Importance",
    "authors": [
     {
@@ -1353,9 +1404,10 @@
    "year": "2021",
    "type": "Conference",
    "url": "https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1524.pdf",
-   "dblp": "https://dblp.org/rec/conf/atal/GuerraM021.html"
+   "pdf": "https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1524.pdf"
   },
   {
+   "key": "conf/epia/EstevesM21",
    "title": "Revisiting \"Recurrent World Models Facilitate Policy Evolution\"",
    "authors": [
     {
@@ -1372,9 +1424,10 @@
    "year": "2021",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-030-86230-5_26",
-   "dblp": "https://dblp.org/rec/conf/epia/EstevesM21.html"
+   "pdf": ""
   },
   {
+   "key": "conf/epia/IldefonsoRSVMPV21",
    "title": "Exploiting Symmetry in Human Robot-Assisted Dressing Using Reinforcement Learning",
    "authors": [
     {
@@ -1411,9 +1464,10 @@
    "year": "2021",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-030-86230-5_32",
-   "dblp": "https://dblp.org/rec/conf/epia/IldefonsoRSVMPV21.html"
+   "pdf": ""
   },
   {
+   "key": "conf/epia/KordiaM21",
    "title": "Compound Movement Recognition Using Dynamic Movement Primitives",
    "authors": [
     {
@@ -1430,9 +1484,10 @@
    "year": "2021",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-030-86230-5_36",
-   "dblp": "https://dblp.org/rec/conf/epia/KordiaM21.html"
+   "pdf": ""
   },
   {
+   "key": "conf/epia/RibeiroFSM21",
    "title": "Helping People on the Fly: Ad Hoc Teamwork for Human-Robot Teams",
    "authors": [
     {
@@ -1457,9 +1512,10 @@
    "year": "2021",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-030-86230-5_50",
-   "dblp": "https://dblp.org/rec/conf/epia/RibeiroFSM21.html"
+   "pdf": ""
   },
   {
+   "key": "conf/epia/SantosRSM21",
    "title": "Ad Hoc Teamwork in the Presence of Non-stationary Teammates",
    "authors": [
     {
@@ -1484,9 +1540,10 @@
    "year": "2021",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-030-86230-5_51",
-   "dblp": "https://dblp.org/rec/conf/epia/SantosRSM21.html"
+   "pdf": ""
   },
   {
+   "key": "conf/icra/KordiaM21",
    "title": "Movement recognition and prediction using DMPs",
    "authors": [
     {
@@ -1503,9 +1560,10 @@
    "year": "2021",
    "type": "Conference",
    "url": "https://doi.org/10.1109/ICRA48506.2021.9562001",
-   "dblp": "https://dblp.org/rec/conf/icra/KordiaM21.html"
+   "pdf": ""
   },
   {
+   "key": "conf/ro-man/FariaMP21",
    "title": "Understanding Robots: Making Robots More Legible in Multi-Party Interactions",
    "authors": [
     {
@@ -1526,9 +1584,10 @@
    "year": "2021",
    "type": "Conference",
    "url": "https://doi.org/10.1109/RO-MAN50785.2021.9515485",
-   "dblp": "https://dblp.org/rec/conf/ro-man/FariaMP21.html"
+   "pdf": ""
   },
   {
+   "key": "conf/epia/2021",
    "title": "Progress in Artificial Intelligence - 20th EPIA Conference on Artificial Intelligence, EPIA 2021, Virtual Event, September 7-9, 2021, Proceedings",
    "authors": [
     {
@@ -1557,9 +1616,10 @@
    "year": "2021",
    "type": "Edited",
    "url": "https://doi.org/10.1007/978-3-030-86230-5",
-   "dblp": "https://dblp.org/rec/conf/epia/2021.html"
+   "pdf": ""
   },
   {
+   "key": "journals/corr/abs-2101-09614",
    "title": "A Methodology for the Development of RL-Based Adaptive Traffic Signal Controllers",
    "authors": [
     {
@@ -1584,9 +1644,10 @@
    "year": "2021",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.2101.09614",
-   "dblp": "https://dblp.org/rec/journals/corr/abs-2101-09614.html"
+   "pdf": "https://arxiv.org/pdf/2101.09614"
   },
   {
+   "key": "journals/corr/abs-2106-15594",
    "title": "Limited depth bandit-based strategy for Monte Carlo planning in continuous action spaces",
    "authors": [
     {
@@ -1607,9 +1668,10 @@
    "year": "2021",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.2106.15594",
-   "dblp": "https://dblp.org/rec/journals/corr/abs-2106-15594.html"
+   "pdf": "https://arxiv.org/pdf/2106.15594"
   },
   {
+   "key": "journals/corr/abs-2111-11758",
    "title": "Understanding the Impact of Data Distribution on Q-learning with Function Approximation",
    "authors": [
     {
@@ -1634,9 +1696,10 @@
    "year": "2021",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.2111.11758",
-   "dblp": "https://dblp.org/rec/journals/corr/abs-2111-11758.html"
+   "pdf": "https://arxiv.org/pdf/2111.11758"
   },
   {
+   "key": "journals/aamas/BarakaMCV20",
    "title": "Optimal action sequence generation for assistive agents in fixed horizon tasks",
    "authors": [
     {
@@ -1661,9 +1724,10 @@
    "year": "2020",
    "type": "Journal",
    "url": "https://doi.org/10.1007/s10458-020-09458-7",
-   "dblp": "https://dblp.org/rec/journals/aamas/BarakaMCV20.html"
+   "pdf": ""
   },
   {
+   "key": "conf/atal/SilvaVMPV20",
    "title": "Playing Games in the Dark: An Approach for Cross-Modality Transfer in Reinforcement Learning",
    "authors": [
     {
@@ -1692,9 +1756,10 @@
    "year": "2020",
    "type": "Conference",
    "url": "https://dl.acm.org/doi/10.5555/3398761.3398907",
-   "dblp": "https://dblp.org/rec/conf/atal/SilvaVMPV20.html"
+   "pdf": "pdfs/conf-atal-SilvaVMPV20.pdf"
   },
   {
+   "key": "conf/icarcv/KordiaM20",
    "title": "An End-to-end Approach for Learning and Generating Complex Robot Motions from Demonstration",
    "authors": [
     {
@@ -1711,9 +1776,10 @@
    "year": "2020",
    "type": "Conference",
    "url": "https://doi.org/10.1109/ICARCV50220.2020.9305399",
-   "dblp": "https://dblp.org/rec/conf/icarcv/KordiaM20.html"
+   "pdf": ""
   },
   {
+   "key": "conf/nips/CarvalhoM020",
    "title": "A new convergent variant of Q-learning with linear function approximation",
    "authors": [
     {
@@ -1734,9 +1800,10 @@
    "year": "2020",
    "type": "Conference",
    "url": "https://proceedings.neurips.cc/paper/2020/hash/e1696007be4eefb81b1a1d39ce48681b-Abstract.html",
-   "dblp": "https://dblp.org/rec/conf/nips/CarvalhoM020.html"
+   "pdf": "https://proceedings.neurips.cc/paper/2020/file/e1696007be4eefb81b1a1d39ce48681b-Paper.pdf"
   },
   {
+   "key": "conf/nlxai/TulliWPMC20",
    "title": "Learning from Explanations and Demonstrations: A Pilot Study",
    "authors": [
     {
@@ -1765,9 +1832,10 @@
    "year": "2020",
    "type": "Conference",
    "url": "https://aclanthology.org/2020.nl4xai-1.13/",
-   "dblp": "https://dblp.org/rec/conf/nlxai/TulliWPMC20.html"
+   "pdf": "https://aclanthology.org/2020.nl4xai-1.13.pdf"
   },
   {
+   "key": "conf/rss/CorreiaGMMP20",
    "title": "The Dark Side of Embodiment - Teaming Up With Robots VS Disembodied Agents",
    "authors": [
     {
@@ -1796,9 +1864,10 @@
    "year": "2020",
    "type": "Conference",
    "url": "https://doi.org/10.15607/RSS.2020.XVI.010",
-   "dblp": "https://dblp.org/rec/conf/rss/CorreiaGMMP20.html"
+   "pdf": "https://doi.org/10.15607/rss.2020.xvi.010"
   },
   {
+   "key": "conf/socrob/TulliCVYMP20",
    "title": "Explainable Agency by Revealing Suboptimality in Child-Robot Learning Scenarios",
    "authors": [
     {
@@ -1831,9 +1900,10 @@
    "year": "2020",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-030-62056-1_3",
-   "dblp": "https://dblp.org/rec/conf/socrob/TulliCVYMP20.html"
+   "pdf": ""
   },
   {
+   "key": "journals/corr/abs-2006-02991",
    "title": "MHVAE: a Human-Inspired Deep Hierarchical Generative Model for Multimodal Representation Learning",
    "authors": [
     {
@@ -1854,9 +1924,10 @@
    "year": "2020",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.2006.02991",
-   "dblp": "https://dblp.org/rec/journals/corr/abs-2006-02991.html"
+   "pdf": "https://arxiv.org/pdf/2006.02991"
   },
   {
+   "key": "journals/arobots/CorreiaPARMP19",
    "title": "\"I Choose... YOU!\" Membership preferences in human-robot teams",
    "authors": [
     {
@@ -1889,9 +1960,10 @@
    "year": "2019",
    "type": "Journal",
    "url": "https://doi.org/10.1007/s10514-018-9767-9",
-   "dblp": "https://dblp.org/rec/journals/arobots/CorreiaPARMP19.html"
+   "pdf": ""
   },
   {
+   "key": "journals/arobots/YinMPB19",
    "title": "An ensemble inverse optimal control approach for robotic task learning and adaptation",
    "authors": [
     {
@@ -1916,9 +1988,10 @@
    "year": "2019",
    "type": "Journal",
    "url": "https://doi.org/10.1007/s10514-018-9757-y",
-   "dblp": "https://dblp.org/rec/journals/arobots/YinMPB19.html"
+   "pdf": ""
   },
   {
+   "key": "journals/artmed/MeloSBCFFGJKLLM19",
    "title": "Project INSIDE: towards autonomous semi-unstructured human-robot social interaction in autism therapy",
    "authors": [
     {
@@ -2003,9 +2076,10 @@
    "year": "2019",
    "type": "Journal",
    "url": "https://doi.org/10.1016/j.artmed.2018.12.003",
-   "dblp": "https://dblp.org/rec/journals/artmed/MeloSBCFFGJKLLM19.html"
+   "pdf": ""
   },
   {
+   "key": "journals/paladyn/BarakaMV19",
    "title": "Interactive robots with model-based 'autism-like' behaviors",
    "authors": [
     {
@@ -2026,9 +2100,10 @@
    "year": "2019",
    "type": "Journal",
    "url": "https://doi.org/10.1515/pjbr-2019-0011",
-   "dblp": "https://dblp.org/rec/journals/paladyn/BarakaMV19.html"
+   "pdf": "pdfs/journals-paladyn-BarakaMV19.pdf"
   },
   {
+   "key": "journals/thri/Alves-OliveiraS19",
    "title": "Empathic Robot for Group Learning: A Field Study",
    "authors": [
     {
@@ -2057,9 +2132,10 @@
    "year": "2019",
    "type": "Journal",
    "url": "https://doi.org/10.1145/3300188",
-   "dblp": "https://dblp.org/rec/journals/thri/Alves-OliveiraS19.html"
+   "pdf": "pdfs/journals-thri-Alves-OliveiraS19.pdf"
   },
   {
+   "key": "conf/aips/SilvaFMV19",
    "title": "A Theoretical and Algorithmic Analysis of Configurable MDPs",
    "authors": [
     {
@@ -2084,9 +2160,10 @@
    "year": "2019",
    "type": "Conference",
    "url": "https://ojs.aaai.org/index.php/ICAPS/article/view/3551",
-   "dblp": "https://dblp.org/rec/conf/aips/SilvaFMV19.html"
+   "pdf": "pdfs/conf-aips-SilvaFMV19.pdf"
   },
   {
+   "key": "conf/atal/TulliCMGMP19",
    "title": "Effects of Agents' Transparency on Teamwork",
    "authors": [
     {
@@ -2119,9 +2196,10 @@
    "year": "2019",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-030-30391-4_2",
-   "dblp": "https://dblp.org/rec/conf/atal/TulliCMGMP19.html"
+   "pdf": ""
   },
   {
+   "key": "conf/atal/BarakaCMV19",
    "title": "An Optimization Approach for Structured Agent-Based Provider/Receiver Tasks",
    "authors": [
     {
@@ -2146,9 +2224,10 @@
    "year": "2019",
    "type": "Conference",
    "url": "http://dl.acm.org/citation.cfm?id=3331679",
-   "dblp": "https://dblp.org/rec/conf/atal/BarakaCMV19.html"
+   "pdf": "pdfs/conf-atal-BarakaCMV19.pdf"
   },
   {
+   "key": "conf/atal/VascoMMPI19",
    "title": "Online Motion Concept Learning: A Novel Algorithm for Sample-Efficient Learning and Recognition of Human Actions",
    "authors": [
     {
@@ -2177,9 +2256,10 @@
    "year": "2019",
    "type": "Conference",
    "url": "http://dl.acm.org/citation.cfm?id=3332072",
-   "dblp": "https://dblp.org/rec/conf/atal/VascoMMPI19.html"
+   "pdf": "pdfs/conf-atal-VascoMMPI19.pdf"
   },
   {
+   "key": "conf/atal/CorreiaMGTSSPMP19",
    "title": "For The Record - A Public Goods Game For Exploring Human-Robot Collaboration",
    "authors": [
     {
@@ -2224,9 +2304,10 @@
    "year": "2019",
    "type": "Conference",
    "url": "http://dl.acm.org/citation.cfm?id=3332109",
-   "dblp": "https://dblp.org/rec/conf/atal/CorreiaMGTSSPMP19.html"
+   "pdf": "pdfs/conf-atal-CorreiaMGTSSPMP19.pdf"
   },
   {
+   "key": "conf/epia/SaltaPM19",
    "title": "Solving Motion and Action Planning for a Cooperative Agent Problem Using Geometry Friends",
    "authors": [
     {
@@ -2247,9 +2328,10 @@
    "year": "2019",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-030-30241-2_8",
-   "dblp": "https://dblp.org/rec/conf/epia/SaltaPM19.html"
+   "pdf": ""
   },
   {
+   "key": "conf/gcai/RibeiroMD19",
    "title": "Multi-task Learning and Catastrophic Forgetting in Continual Reinforcement Learning",
    "authors": [
     {
@@ -2270,9 +2352,10 @@
    "year": "2019",
    "type": "Conference",
    "url": "https://doi.org/10.29007/g7bg",
-   "dblp": "https://dblp.org/rec/conf/gcai/RibeiroMD19.html"
+   "pdf": "pdfs/conf-gcai-RibeiroMD19.pdf"
   },
   {
+   "key": "conf/hri/CorreiaMGALPMP19",
    "title": "Exploring Prosociality in Human-Robot Teams",
    "authors": [
     {
@@ -2313,9 +2396,10 @@
    "year": "2019",
    "type": "Conference",
    "url": "https://doi.org/10.1109/HRI.2019.8673299",
-   "dblp": "https://dblp.org/rec/conf/hri/CorreiaMGALPMP19.html"
+   "pdf": "pdfs/conf-hri-CorreiaMGALPMP19.pdf"
   },
   {
+   "key": "conf/hri/CorreiaMP19",
    "title": "Group Intelligence on Social Robots",
    "authors": [
     {
@@ -2336,9 +2420,10 @@
    "year": "2019",
    "type": "Conference",
    "url": "https://doi.org/10.1109/HRI.2019.8673089",
-   "dblp": "https://dblp.org/rec/conf/hri/CorreiaMP19.html"
+   "pdf": "pdfs/conf-hri-CorreiaMP19.pdf"
   },
   {
+   "key": "conf/iros/VascoMMPI19",
    "title": "Learning Multimodal Representations for Sample-efficient Recognition of Human Actions",
    "authors": [
     {
@@ -2367,9 +2452,10 @@
    "year": "2019",
    "type": "Conference",
    "url": "https://doi.org/10.1109/IROS40897.2019.8967635",
-   "dblp": "https://dblp.org/rec/conf/iros/VascoMMPI19.html"
+   "pdf": "https://arxiv.org/pdf/1903.02511"
   },
   {
+   "key": "conf/ro-man/CorreiaPCMCGLSS19",
    "title": "Walk the Talk! Exploring (Mis)Alignment of Words and Deeds by Robotic Teammates in a Public Goods Game",
    "authors": [
     {
@@ -2418,9 +2504,10 @@
    "year": "2019",
    "type": "Conference",
    "url": "https://doi.org/10.1109/RO-MAN46459.2019.8956324",
-   "dblp": "https://dblp.org/rec/conf/ro-man/CorreiaPCMCGLSS19.html"
+   "pdf": ""
   },
   {
+   "key": "journals/corr/abs-1911-13009",
    "title": "Class Teaching for Inverse Reinforcement Learners",
    "authors": [
     {
@@ -2437,9 +2524,10 @@
    "year": "2019",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.1911.13009",
-   "dblp": "https://dblp.org/rec/journals/corr/abs-1911-13009.html"
+   "pdf": "https://arxiv.org/pdf/1911.13009"
   },
   {
+   "key": "journals/ijsg/MeloMP18",
    "title": "A tutorial on machine learning for  interactive pedagogical systems",
    "authors": [
     {
@@ -2460,9 +2548,10 @@
    "year": "2018",
    "type": "Journal",
    "url": "https://doi.org/10.17083/ijsg.v5i3.256",
-   "dblp": "https://dblp.org/rec/journals/ijsg/MeloMP18.html"
+   "pdf": "pdfs/journals-ijsg-MeloMP18.pdf"
   },
   {
+   "key": "conf/atal/CorreiaGMMP18",
    "title": "Exploring the Impact of Fault Justification in Human-Robot Trust",
    "authors": [
     {
@@ -2491,9 +2580,10 @@
    "year": "2018",
    "type": "Conference",
    "url": "http://dl.acm.org/citation.cfm?id=3237459",
-   "dblp": "https://dblp.org/rec/conf/atal/CorreiaGMMP18.html"
+   "pdf": "pdfs/conf-atal-CorreiaGMMP18.pdf"
   },
   {
+   "key": "conf/gcai/SilvaMV18",
    "title": "What if the World Were Different? Gradient-Based Exploration for New Optimal Policies",
    "authors": [
     {
@@ -2514,9 +2604,10 @@
    "year": "2018",
    "type": "Conference",
    "url": "https://doi.org/10.29007/6jsv",
-   "dblp": "https://dblp.org/rec/conf/gcai/SilvaMV18.html"
+   "pdf": "pdfs/conf-gcai-SilvaMV18.pdf"
   },
   {
+   "key": "conf/hri/CorreiaMPMP18",
    "title": "Group-based Emotions in Teams of Humans and Robots",
    "authors": [
     {
@@ -2545,9 +2636,10 @@
    "year": "2018",
    "type": "Conference",
    "url": "https://doi.org/10.1145/3171221.3171252",
-   "dblp": "https://dblp.org/rec/conf/hri/CorreiaMPMP18.html"
+   "pdf": "pdfs/conf-hri-CorreiaMPMP18.pdf"
   },
   {
+   "key": "conf/icgi2/AlvesGM18",
    "title": "Towards Guidelines for Mental State Induction in First-Person Shooters",
    "authors": [
     {
@@ -2568,9 +2660,10 @@
    "year": "2018",
    "type": "Conference",
    "url": "https://doi.org/10.1109/ITCGI.2018.8602700",
-   "dblp": "https://dblp.org/rec/conf/icgi2/AlvesGM18.html"
+   "pdf": "pdfs/conf-icgi2-AlvesGM18.pdf"
   },
   {
+   "key": "conf/ijcai/MeloGL18",
    "title": "Interactive Optimal Teaching with Unknown Learners",
    "authors": [
     {
@@ -2591,9 +2684,10 @@
    "year": "2018",
    "type": "Conference",
    "url": "https://doi.org/10.24963/ijcai.2018/356",
-   "dblp": "https://dblp.org/rec/conf/ijcai/MeloGL18.html"
+   "pdf": "pdfs/conf-ijcai-MeloGL18.pdf"
   },
   {
+   "key": "conf/segah/AlvesGM18",
    "title": "Flow adaptation in serious games for health",
    "authors": [
     {
@@ -2614,9 +2708,10 @@
    "year": "2018",
    "type": "Conference",
    "url": "https://doi.org/10.1109/SeGAH.2018.8401382",
-   "dblp": "https://dblp.org/rec/conf/segah/AlvesGM18.html"
+   "pdf": "pdfs/conf-segah-AlvesGM18.pdf"
   },
   {
+   "key": "journals/corr/abs-1812-07613",
    "title": "Proceedings of the Workshop on Social Robots in Therapy: Focusing on Autonomy and Ethical Challenges",
    "authors": [
     {
@@ -2777,9 +2872,10 @@
    "year": "2018",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.1812.07613",
-   "dblp": "https://dblp.org/rec/journals/corr/abs-1812-07613.html"
+   "pdf": "https://arxiv.org/pdf/1812.07613"
   },
   {
+   "key": "journals/ram/WitwickiCMCMLV17",
    "title": "Autonomous Surveillance Robots: A Decision-Making Framework for Networked Muiltiagent Systems",
    "authors": [
     {
@@ -2816,9 +2912,10 @@
    "year": "2017",
    "type": "Journal",
    "url": "https://doi.org/10.1109/MRA.2017.2662222",
-   "dblp": "https://dblp.org/rec/journals/ram/WitwickiCMCMLV17.html"
+   "pdf": "pdfs/journals-ram-WitwickiCMCMLV17.pdf"
   },
   {
+   "key": "conf/aaai/YinMBP17",
    "title": "Associate Latent Encodings in Learning from Demonstrations",
    "authors": [
     {
@@ -2843,9 +2940,10 @@
    "year": "2017",
    "type": "Conference",
    "url": "https://doi.org/10.1609/aaai.v31i1.11040",
-   "dblp": "https://dblp.org/rec/conf/aaai/YinMBP17.html"
+   "pdf": "pdfs/conf-aaai-YinMBP17.pdf"
   },
   {
+   "key": "conf/aiide/CorreiaA0MP17",
    "title": "A Social Robot as a Card Game Player",
    "authors": [
     {
@@ -2874,9 +2972,10 @@
    "year": "2017",
    "type": "Conference",
    "url": "https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15884",
-   "dblp": "https://dblp.org/rec/conf/aiide/CorreiaA0MP17.html"
+   "pdf": "pdfs/conf-aiide-CorreiaA0MP17.pdf"
   },
   {
+   "key": "conf/atal/MendoncaMCS17",
    "title": "A Conversational Agent Powered by Online Learning",
    "authors": [
     {
@@ -2901,9 +3000,10 @@
    "year": "2017",
    "type": "Conference",
    "url": "http://dl.acm.org/citation.cfm?id=3091388",
-   "dblp": "https://dblp.org/rec/conf/atal/MendoncaMCS17.html"
+   "pdf": "pdfs/conf-atal-MendoncaMCS17.pdf"
   },
   {
+   "key": "conf/cig/SantosSM17",
    "title": "Monte Carlo tree search experiments in hearthstone",
    "authors": [
     {
@@ -2924,9 +3024,10 @@
    "year": "2017",
    "type": "Conference",
    "url": "https://doi.org/10.1109/CIG.2017.8080446",
-   "dblp": "https://dblp.org/rec/conf/cig/SantosSM17.html"
+   "pdf": "pdfs/conf-cig-SantosSM17.pdf"
   },
   {
+   "key": "conf/epia/MendoncaMCS17",
    "title": "Online Learning for Conversational Agents",
    "authors": [
     {
@@ -2951,9 +3052,10 @@
    "year": "2017",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-319-65340-2_60",
-   "dblp": "https://dblp.org/rec/conf/epia/MendoncaMCS17.html"
+   "pdf": ""
   },
   {
+   "key": "conf/epia/BarakaMV17",
    "title": "Simulating Behaviors of Children with Autism Spectrum Disorders Through Reversal of the Autism Diagnosis Process",
    "authors": [
     {
@@ -2974,9 +3076,10 @@
    "year": "2017",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-319-65340-2_61",
-   "dblp": "https://dblp.org/rec/conf/epia/BarakaMV17.html"
+   "pdf": ""
   },
   {
+   "key": "conf/icdl-epirob/BarakaMV17",
    "title": "Data-driven generation of synthetic behavioral feature vectors modeling children with autism spectrum disorders",
    "authors": [
     {
@@ -2997,9 +3100,10 @@
    "year": "2017",
    "type": "Conference",
    "url": "https://doi.org/10.1109/DEVLRN.2017.8329808",
-   "dblp": "https://dblp.org/rec/conf/icdl-epirob/BarakaMV17.html"
+   "pdf": "pdfs/conf-icdl-epirob-BarakaMV17.pdf"
   },
   {
+   "key": "conf/icids/FerreiraNMP17",
    "title": "Learning and Teaching Biodiversity Through a Storyteller Robot",
    "authors": [
     {
@@ -3024,9 +3128,10 @@
    "year": "2017",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-319-71027-3_45",
-   "dblp": "https://dblp.org/rec/conf/icids/FerreiraNMP17.html"
+   "pdf": ""
   },
   {
+   "key": "conf/iros/FariaSAMP17",
    "title": "\"Me and you together\" movement impact in multi-user collaboration tasks",
    "authors": [
     {
@@ -3055,9 +3160,10 @@
    "year": "2017",
    "type": "Conference",
    "url": "https://doi.org/10.1109/IROS.2017.8206109",
-   "dblp": "https://dblp.org/rec/conf/iros/FariaSAMP17.html"
+   "pdf": "pdfs/conf-iros-FariaSAMP17.pdf"
   },
   {
+   "key": "conf/iros/SilvaFMV17",
    "title": "Adaptive indirect control through communication in collaborative human-robot interaction",
    "authors": [
     {
@@ -3082,9 +3188,10 @@
    "year": "2017",
    "type": "Conference",
    "url": "https://doi.org/10.1109/IROS.2017.8206208",
-   "dblp": "https://dblp.org/rec/conf/iros/SilvaFMV17.html"
+   "pdf": "pdfs/conf-iros-SilvaFMV17.pdf"
   },
   {
+   "key": "conf/rss/CorreiaPA0MP17",
    "title": "Groups of humans and robots: Understanding membership preferences and team formation",
    "authors": [
     {
@@ -3117,9 +3224,10 @@
    "year": "2017",
    "type": "Conference",
    "url": "http://www.roboticsproceedings.org/rss13/p24.html",
-   "dblp": "https://dblp.org/rec/conf/rss/CorreiaPA0MP17.html"
+   "pdf": "pdfs/conf-rss-CorreiaPA0MP17.pdf"
   },
   {
+   "key": "conf/socrob/BarakaMV17",
    "title": "'Autistic Robots' for Embodied Emulation of Behaviors Typically Seen in Children with Different Autism Severities",
    "authors": [
     {
@@ -3140,9 +3248,10 @@
    "year": "2017",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-319-70022-9_11",
-   "dblp": "https://dblp.org/rec/conf/socrob/BarakaMV17.html"
+   "pdf": ""
   },
   {
+   "key": "journals/aamas/MeloS16",
    "title": "Ad hoc teamwork by learning teammates' task",
    "authors": [
     {
@@ -3159,9 +3268,10 @@
    "year": "2016",
    "type": "Journal",
    "url": "https://doi.org/10.1007/s10458-015-9280-x",
-   "dblp": "https://dblp.org/rec/journals/aamas/MeloS16.html"
+   "pdf": "pdfs/journals-aamas-MeloS16.pdf"
   },
   {
+   "key": "conf/aaaifs/FariaSMP16",
    "title": "Me and You Together: A Study on Collaboration in Manipulation Tasks",
    "authors": [
     {
@@ -3186,9 +3296,10 @@
    "year": "2016",
    "type": "Conference",
    "url": "http://aaai.org/ocs/index.php/FSS/FSS16/paper/view/14111",
-   "dblp": "https://dblp.org/rec/conf/aaaifs/FariaSMP16.html"
+   "pdf": "pdfs/conf-aaaifs-FariaSMP16.pdf"
   },
   {
+   "key": "conf/atal/SantosSMPP16a",
    "title": "Dynamics of Fairness in Groups of Autonomous Learning Agents",
    "authors": [
     {
@@ -3217,9 +3328,10 @@
    "year": "2016",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-319-46882-2_7",
-   "dblp": "https://dblp.org/rec/conf/atal/SantosSMPP16a.html"
+   "pdf": ""
   },
   {
+   "key": "conf/atal/SequeiraMP16",
    "title": "Emergence of Emotional Appraisal Signals in Reinforcement Learning Agents",
    "authors": [
     {
@@ -3240,9 +3352,10 @@
    "year": "2016",
    "type": "Conference",
    "url": "http://dl.acm.org/citation.cfm?id=2936992",
-   "dblp": "https://dblp.org/rec/conf/atal/SequeiraMP16.html"
+   "pdf": ""
   },
   {
+   "key": "conf/atal/MeloS16",
    "title": "Ad Hoc Teamwork by Learning Teammates' Task",
    "authors": [
     {
@@ -3259,9 +3372,10 @@
    "year": "2016",
    "type": "Conference",
    "url": "http://dl.acm.org/citation.cfm?id=2937009",
-   "dblp": "https://dblp.org/rec/conf/atal/MeloS16.html"
+   "pdf": ""
   },
   {
+   "key": "conf/atal/SantosSMPP16",
    "title": "Learning to be Fair in Multiplayer Ultimatum Games: (Extended Abstract)",
    "authors": [
     {
@@ -3290,9 +3404,10 @@
    "year": "2016",
    "type": "Conference",
    "url": "http://dl.acm.org/citation.cfm?id=2937170",
-   "dblp": "https://dblp.org/rec/conf/atal/SantosSMPP16.html"
+   "pdf": "pdfs/conf-atal-SantosSMPP16.pdf"
   },
   {
+   "key": "conf/digra/SoaresLPM16",
    "title": "Rapidly-Exploring Random Tree approach for Geometry Friends",
    "authors": [
     {
@@ -3317,9 +3432,10 @@
    "year": "2016",
    "type": "Conference",
    "url": "https://dl.digra.org/index.php/dl/article/view/782",
-   "dblp": "https://dblp.org/rec/conf/digra/SoaresLPM16.html"
+   "pdf": "pdfs/conf-digra-SoaresLPM16.pdf"
   },
   {
+   "key": "conf/ecai/SilvaMV16",
    "title": "Adaptive Symbiotic Collaboration for Targeted Complex Manipulation Tasks",
    "authors": [
     {
@@ -3340,9 +3456,10 @@
    "year": "2016",
    "type": "Conference",
    "url": "https://doi.org/10.3233/978-1-61499-672-9-863",
-   "dblp": "https://dblp.org/rec/conf/ecai/SilvaMV16.html"
+   "pdf": "pdfs/conf-ecai-SilvaMV16.pdf"
   },
   {
+   "key": "conf/hri/SequeiraA0TPMCP16",
    "title": "Discovering Social Interaction Strategies for Robots from Restricted-Perception Wizard-of-Oz Studies",
    "authors": [
     {
@@ -3383,9 +3500,10 @@
    "year": "2016",
    "type": "Conference",
    "url": "https://doi.org/10.1109/HRI.2016.7451752",
-   "dblp": "https://dblp.org/rec/conf/hri/SequeiraA0TPMCP16.html"
+   "pdf": "pdfs/conf-hri-SequeiraA0TPMCP16.pdf"
   },
   {
+   "key": "conf/hri/Correia0AMP16",
    "title": "Building a Social Robot as a Game Companion in a Card Game",
    "authors": [
     {
@@ -3414,9 +3532,10 @@
    "year": "2016",
    "type": "Conference",
    "url": "https://doi.org/10.1109/HRI.2016.7451857",
-   "dblp": "https://dblp.org/rec/conf/hri/Correia0AMP16.html"
+   "pdf": "pdfs/conf-hri-Correia0AMP16.pdf"
   },
   {
+   "key": "conf/ijcai/YinAMBP16",
    "title": "Synthesizing Robotic Handwriting Motion by Learning from Human Demonstrations",
    "authors": [
     {
@@ -3445,9 +3564,10 @@
    "year": "2016",
    "type": "Conference",
    "url": "http://www.ijcai.org/Abstract/16/498",
-   "dblp": "https://dblp.org/rec/conf/ijcai/YinAMBP16.html"
+   "pdf": "pdfs/conf-ijcai-YinAMBP16.pdf"
   },
   {
+   "key": "conf/iva/BernardoASMP16",
    "title": "An Interactive Tangram Game for Children with Autism",
    "authors": [
     {
@@ -3476,9 +3596,10 @@
    "year": "2016",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-319-47665-0_63",
-   "dblp": "https://dblp.org/rec/conf/iva/BernardoASMP16.html"
+   "pdf": ""
   },
   {
+   "key": "conf/ro-man/CorreiaAM0PMP16",
    "title": "Just follow the suit! Trust in human-robot interactions during card game playing",
    "authors": [
     {
@@ -3515,9 +3636,10 @@
    "year": "2016",
    "type": "Conference",
    "url": "https://doi.org/10.1109/ROMAN.2016.7745165",
-   "dblp": "https://dblp.org/rec/conf/ro-man/CorreiaAM0PMP16.html"
+   "pdf": "pdfs/conf-ro-man-CorreiaAM0PMP16.pdf"
   },
   {
+   "key": "journals/aamas/SequeiraMP15",
    "title": "Emergence of emotional appraisal signals in reinforcement learning agents",
    "authors": [
     {
@@ -3538,9 +3660,10 @@
    "year": "2015",
    "type": "Journal",
    "url": "https://doi.org/10.1007/s10458-014-9262-4",
-   "dblp": "https://dblp.org/rec/journals/aamas/SequeiraMP15.html"
+   "pdf": "pdfs/journals-aamas-SequeiraMP15.pdf"
   },
   {
+   "key": "conf/aaaifs/Alves-OliveiraS15",
    "title": "\"It's Amazing, We Are All Feeling It!\" - Emotional Climate as a Group-Level Emotional Expression in HRI",
    "authors": [
     {
@@ -3577,9 +3700,10 @@
    "year": "2015",
    "type": "Conference",
    "url": "http://www.aaai.org/ocs/index.php/FSS/FSS15/paper/view/11692",
-   "dblp": "https://dblp.org/rec/conf/aaaifs/Alves-OliveiraS15.html"
+   "pdf": "pdfs/conf-aaaifs-Alves-OliveiraS15.pdf"
   },
   {
+   "key": "conf/atal/MotaMC15",
    "title": "Modeling Students Self-Studies Behaviors",
    "authors": [
     {
@@ -3600,9 +3724,10 @@
    "year": "2015",
    "type": "Conference",
    "url": "http://dl.acm.org/citation.cfm?id=2773346",
-   "dblp": "https://dblp.org/rec/conf/atal/MotaMC15.html"
+   "pdf": "pdfs/conf-atal-MotaMC15.pdf"
   },
   {
+   "key": "conf/atal/SequeiraMMP15",
    "title": "The \"Favors Game\": A Framework to Study the Emergence of Cooperation through Social Importance",
    "authors": [
     {
@@ -3627,9 +3752,10 @@
    "year": "2015",
    "type": "Conference",
    "url": "http://dl.acm.org/citation.cfm?id=2773493",
-   "dblp": "https://dblp.org/rec/conf/atal/SequeiraMMP15.html"
+   "pdf": "pdfs/conf-atal-SequeiraMMP15.pdf"
   },
   {
+   "key": "conf/cig/SequeiraMP15",
    "title": "\"Let's save resources!\": A dynamic, collaborative AI for a multiplayer environmental awareness game",
    "authors": [
     {
@@ -3650,9 +3776,10 @@
    "year": "2015",
    "type": "Conference",
    "url": "https://doi.org/10.1109/CIG.2015.7317952",
-   "dblp": "https://dblp.org/rec/conf/cig/SequeiraMP15.html"
+   "pdf": "pdfs/conf-cig-SequeiraMP15.pdf"
   },
   {
+   "key": "conf/cig/QuiterioPM15",
    "title": "A reinforcement learning approach for the circle agent of geometry friends",
    "authors": [
     {
@@ -3673,9 +3800,10 @@
    "year": "2015",
    "type": "Conference",
    "url": "https://doi.org/10.1109/CIG.2015.7317938",
-   "dblp": "https://dblp.org/rec/conf/cig/QuiterioPM15.html"
+   "pdf": "pdfs/conf-cig-QuiterioPM15.pdf"
   },
   {
+   "key": "conf/cig/PradaLCQM15",
    "title": "The geometry friends game AI competition",
    "authors": [
     {
@@ -3704,9 +3832,10 @@
    "year": "2015",
    "type": "Conference",
    "url": "https://doi.org/10.1109/CIG.2015.7317949",
-   "dblp": "https://dblp.org/rec/conf/cig/PradaLCQM15.html"
+   "pdf": "pdfs/conf-cig-PradaLCQM15.pdf"
   },
   {
+   "key": "conf/icdl-epirob/SequeiraMMP15",
    "title": "The development of cooperation in evolving populations through social importance",
    "authors": [
     {
@@ -3731,9 +3860,10 @@
    "year": "2015",
    "type": "Conference",
    "url": "https://doi.org/10.1109/DEVLRN.2015.7346163",
-   "dblp": "https://dblp.org/rec/conf/icdl-epirob/SequeiraMMP15.html"
+   "pdf": "pdfs/conf-icdl-epirob-SequeiraMMP15.pdf"
   },
   {
+   "key": "conf/iros/SilvaMV15",
    "title": "Towards table tennis with a quadrotor autonomous learning robot and onboard vision",
    "authors": [
     {
@@ -3754,9 +3884,10 @@
    "year": "2015",
    "type": "Conference",
    "url": "https://doi.org/10.1109/IROS.2015.7353441",
-   "dblp": "https://dblp.org/rec/conf/iros/SilvaMV15.html"
+   "pdf": "pdfs/conf-iros-SilvaMV15.pdf"
   },
   {
+   "key": "conf/socrob/Alves-Oliveira015",
    "title": "An Empathic Robotic Tutor for School Classrooms: Considering Expectation and Satisfaction of Children as End-Users",
    "authors": [
     {
@@ -3789,9 +3920,10 @@
    "year": "2015",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-319-25554-5_3",
-   "dblp": "https://dblp.org/rec/conf/socrob/Alves-Oliveira015.html"
+   "pdf": ""
   },
   {
+   "key": "conf/socrob/KleeFSCMV15",
    "title": "Personalized Assistance for Dressing Users",
    "authors": [
     {
@@ -3824,9 +3956,10 @@
    "year": "2015",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-319-25554-5_36",
-   "dblp": "https://dblp.org/rec/conf/socrob/KleeFSCMV15.html"
+   "pdf": ""
   },
   {
+   "key": "journals/adb/SequeiraMP14",
    "title": "Learning by appraising: an emotion-based approach to intrinsic reward design",
    "authors": [
     {
@@ -3847,9 +3980,10 @@
    "year": "2014",
    "type": "Journal",
    "url": "https://doi.org/10.1177/1059712314543837",
-   "dblp": "https://dblp.org/rec/journals/adb/SequeiraMP14.html"
+   "pdf": "pdfs/journals-adb-SequeiraMP14.pdf"
   },
   {
+   "key": "conf/atal/WitwickiCCMRLMS14",
    "title": "A testbed for autonomous robot surveillance",
    "authors": [
     {
@@ -3890,9 +4024,10 @@
    "year": "2014",
    "type": "Conference",
    "url": "http://dl.acm.org/citation.cfm?id=2616100",
-   "dblp": "https://dblp.org/rec/conf/atal/WitwickiCCMRLMS14.html"
+   "pdf": "pdfs/conf-atal-WitwickiCCMRLMS14.pdf"
   },
   {
+   "key": "conf/icdl-epirob/SequeiraMP14",
    "title": "The influence of social display in competitive multiagent learning",
    "authors": [
     {
@@ -3913,9 +4048,10 @@
    "year": "2014",
    "type": "Conference",
    "url": "https://doi.org/10.1109/DEVLRN.2014.6982954",
-   "dblp": "https://dblp.org/rec/conf/icdl-epirob/SequeiraMP14.html"
+   "pdf": "pdfs/conf-icdl-epirob-SequeiraMP14.pdf"
   },
   {
+   "key": "conf/aips/WitwickiMCS13",
    "title": "A Flexible Approach to Modeling Unpredictable Events in MDPs",
    "authors": [
     {
@@ -3940,9 +4076,10 @@
    "year": "2013",
    "type": "Conference",
    "url": "http://www.aaai.org/ocs/index.php/ICAPS/ICAPS13/paper/view/6055",
-   "dblp": "https://dblp.org/rec/conf/aips/WitwickiMCS13.html"
+   "pdf": "pdfs/conf-aips-WitwickiMCS13.pdf"
   },
   {
+   "key": "conf/cogsci/MarquesMMDPP13",
    "title": "Towards agents with human-like decisions under uncertainty",
    "authors": [
     {
@@ -3975,9 +4112,10 @@
    "year": "2013",
    "type": "Conference",
    "url": "https://escholarship.org/uc/item/4hk048s0",
-   "dblp": "https://dblp.org/rec/conf/cogsci/MarquesMMDPP13.html"
+   "pdf": "pdfs/conf-cogsci-MarquesMMDPP13.pdf"
   },
   {
+   "key": "conf/epia/SequeiraMP13",
    "title": "An Associative State-Space Metric for Learning in Factored MDPs",
    "authors": [
     {
@@ -3998,9 +4136,10 @@
    "year": "2013",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-642-40669-0_15",
-   "dblp": "https://dblp.org/rec/conf/epia/SequeiraMP13.html"
+   "pdf": ""
   },
   {
+   "key": "journals/corr/abs-1301-5488",
    "title": "Multi-class Generalized Binary Search for Active Inverse Reinforcement Learning",
    "authors": [
     {
@@ -4017,9 +4156,10 @@
    "year": "2013",
    "type": "Preprint",
    "url": "https://doi.org/10.48550/arXiv.1301.5488",
-   "dblp": "https://dblp.org/rec/journals/corr/abs-1301-5488.html"
+   "pdf": "https://arxiv.org/pdf/1301.5488"
   },
   {
+   "key": "journals/ai/MeloV11",
    "title": "Decentralized MDPs with sparse interactions",
    "authors": [
     {
@@ -4036,9 +4176,10 @@
    "year": "2011",
    "type": "Journal",
    "url": "https://doi.org/10.1016/j.artint.2011.05.001",
-   "dblp": "https://dblp.org/rec/journals/ai/MeloV11.html"
+   "pdf": "https://www.sciencedirect.com/science/article/pii/S0004370211000634/pdf"
   },
   {
+   "key": "conf/aaai/Melo11",
    "title": "Differential Eligibility Vectors for Advantage Updating and Gradient Methods",
    "authors": [
     {
@@ -4051,9 +4192,10 @@
    "year": "2011",
    "type": "Conference",
    "url": "https://doi.org/10.1609/aaai.v25i1.7938",
-   "dblp": "https://dblp.org/rec/conf/aaai/Melo11.html"
+   "pdf": "pdfs/conf-aaai-Melo11.pdf"
   },
   {
+   "key": "conf/acii/SequeiraMP11",
    "title": "Emotion-Based Intrinsic Motivation for Reinforcement Learning Agents",
    "authors": [
     {
@@ -4074,9 +4216,10 @@
    "year": "2011",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-642-24600-5_36",
-   "dblp": "https://dblp.org/rec/conf/acii/SequeiraMP11.html"
+   "pdf": ""
   },
   {
+   "key": "conf/eumas/MeloSW11",
    "title": "QueryPOMDP: POMDP-Based Communication in Multiagent Systems",
    "authors": [
     {
@@ -4097,9 +4240,10 @@
    "year": "2011",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-642-34799-3_13",
-   "dblp": "https://dblp.org/rec/conf/eumas/MeloSW11.html"
+   "pdf": ""
   },
   {
+   "key": "conf/icdl-epirob/SequeiraMPP11",
    "title": "Emerging social awareness: Exploring intrinsic motivation in multiagent learning",
    "authors": [
     {
@@ -4124,9 +4268,10 @@
    "year": "2011",
    "type": "Conference",
    "url": "https://doi.org/10.1109/DEVLRN.2011.6037325",
-   "dblp": "https://dblp.org/rec/conf/icdl-epirob/SequeiraMPP11.html"
+   "pdf": "pdfs/conf-icdl-epirob-SequeiraMPP11.pdf"
   },
   {
+   "key": "journals/aamas/MeloR10",
    "title": "Coordinated learning in multiagent MDPs with infinite state-space",
    "authors": [
     {
@@ -4143,9 +4288,10 @@
    "year": "2010",
    "type": "Journal",
    "url": "https://doi.org/10.1007/s10458-009-9104-y",
-   "dblp": "https://dblp.org/rec/journals/aamas/MeloR10.html"
+   "pdf": ""
   },
   {
+   "key": "conf/atal/MeloV10",
    "title": "Approximate planning for decentralized MDPs with sparse interactions",
    "authors": [
     {
@@ -4162,9 +4308,10 @@
    "year": "2010",
    "type": "Conference",
    "url": "https://dl.acm.org/citation.cfm?id=1838396",
-   "dblp": "https://dblp.org/rec/conf/atal/MeloV10.html"
+   "pdf": "pdfs/conf-atal-MeloV10.pdf"
   },
   {
+   "key": "conf/dars/MeloV10",
    "title": "Heuristic Planning for Decentralized MDPs with Sparse Interactions",
    "authors": [
     {
@@ -4181,9 +4328,10 @@
    "year": "2010",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-642-32723-0_24",
-   "dblp": "https://dblp.org/rec/conf/dars/MeloV10.html"
+   "pdf": ""
   },
   {
+   "key": "conf/ecai/MeloLF10",
    "title": "Analysis of Inverse Reinforcement Learning with Perturbed Demonstrations",
    "authors": [
     {
@@ -4204,9 +4352,10 @@
    "year": "2010",
    "type": "Conference",
    "url": "http://www.booksonline.iospress.nl/Content/View.aspx?piid=17771",
-   "dblp": "https://dblp.org/rec/conf/ecai/MeloLF10.html"
+   "pdf": "pdfs/conf-ecai-MeloLF10.pdf"
   },
   {
+   "key": "conf/pkdd/MeloL10",
    "title": "Learning from Demonstration Using MDP Induced Metrics",
    "authors": [
     {
@@ -4223,9 +4372,10 @@
    "year": "2010",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-642-15883-4_25",
-   "dblp": "https://dblp.org/rec/conf/pkdd/MeloL10.html"
+   "pdf": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-15883-4_25.pdf"
   },
   {
+   "key": "series/sci/LopesMMS10",
    "title": "Abstraction Levels for Robotic Imitation: Overview and Computational Approaches",
    "authors": [
     {
@@ -4250,9 +4400,10 @@
    "year": "2010",
    "type": "Chapter",
    "url": "https://doi.org/10.1007/978-3-642-05181-4_14",
-   "dblp": "https://dblp.org/rec/series/sci/LopesMMS10.html"
+   "pdf": ""
   },
   {
+   "key": "journals/adb/LopesMKS09",
    "title": "A Computational Model of Social-Learning Mechanisms",
    "authors": [
     {
@@ -4277,9 +4428,10 @@
    "year": "2009",
    "type": "Journal",
    "url": "https://doi.org/10.1177/1059712309342757",
-   "dblp": "https://dblp.org/rec/journals/adb/LopesMKS09.html"
+   "pdf": "pdfs/journals-adb-LopesMKS09.pdf"
   },
   {
+   "key": "conf/atal/MeloV09",
    "title": "Learning of coordination: exploiting sparse interactions in multiagent systems",
    "authors": [
     {
@@ -4296,9 +4448,10 @@
    "year": "2009",
    "type": "Conference",
    "url": "https://dl.acm.org/citation.cfm?id=1558118",
-   "dblp": "https://dblp.org/rec/conf/atal/MeloV09.html"
+   "pdf": "pdfs/conf-atal-MeloV09.pdf"
   },
   {
+   "key": "conf/pkdd/LopesMM09",
    "title": "Active Learning for Reward Estimation in Inverse Reinforcement Learning",
    "authors": [
     {
@@ -4319,9 +4472,10 @@
    "year": "2009",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-642-04174-7_3",
-   "dblp": "https://dblp.org/rec/conf/pkdd/LopesMM09.html"
+   "pdf": ""
   },
   {
+   "key": "conf/atal/MeloR08",
    "title": "Emerging coordination in infinite team Markov games",
    "authors": [
     {
@@ -4338,9 +4492,10 @@
    "year": "2008",
    "type": "Conference",
    "url": "https://dl.acm.org/citation.cfm?id=1402436",
-   "dblp": "https://dblp.org/rec/conf/atal/MeloR08.html"
+   "pdf": "pdfs/conf-atal-MeloR08.pdf"
   },
   {
+   "key": "conf/atal/SpaanM08",
    "title": "Interaction-driven Markov games for decentralized multiagent planning under uncertainty",
    "authors": [
     {
@@ -4357,9 +4512,10 @@
    "year": "2008",
    "type": "Conference",
    "url": "https://dl.acm.org/citation.cfm?id=1402458",
-   "dblp": "https://dblp.org/rec/conf/atal/SpaanM08.html"
+   "pdf": "pdfs/conf-atal-SpaanM08.pdf"
   },
   {
+   "key": "conf/ecai/Melo08",
    "title": "Exploiting locality of interactions using a policy-gradient approach in multiagent learning",
    "authors": [
     {
@@ -4372,9 +4528,10 @@
    "year": "2008",
    "type": "Conference",
    "url": "https://doi.org/10.3233/978-1-58603-891-5-157",
-   "dblp": "https://dblp.org/rec/conf/ecai/Melo08.html"
+   "pdf": "pdfs/conf-ecai-Melo08.pdf"
   },
   {
+   "key": "conf/icml/MeloMR08",
    "title": "An analysis of reinforcement learning with function approximation",
    "authors": [
     {
@@ -4395,9 +4552,10 @@
    "year": "2008",
    "type": "Conference",
    "url": "https://doi.org/10.1145/1390156.1390240",
-   "dblp": "https://dblp.org/rec/conf/icml/MeloMR08.html"
+   "pdf": "pdfs/conf-icml-MeloMR08.pdf"
   },
   {
+   "key": "conf/icra/MeloR08",
    "title": "Reinforcement learning with function approximation for cooperative navigation tasks",
    "authors": [
     {
@@ -4414,9 +4572,10 @@
    "year": "2008",
    "type": "Conference",
    "url": "https://doi.org/10.1109/ROBOT.2008.4543717",
-   "dblp": "https://dblp.org/rec/conf/icra/MeloR08.html"
+   "pdf": "pdfs/conf-icra-MeloR08.pdf"
   },
   {
+   "key": "conf/pkdd/MeloL08",
    "title": "Fitted Natural Actor-Critic: A New Algorithm for Continuous State-Action MDPs",
    "authors": [
     {
@@ -4433,9 +4592,10 @@
    "year": "2008",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-540-87481-2_5",
-   "dblp": "https://dblp.org/rec/conf/pkdd/MeloL08.html"
+   "pdf": "https://link.springer.com/content/pdf/10.1007/978-3-540-87481-2_5.pdf"
   },
   {
+   "key": "conf/colt/MeloR07",
    "title": "Q -Learning with Linear Function Approximation",
    "authors": [
     {
@@ -4452,9 +4612,10 @@
    "year": "2007",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-540-72927-3_23",
-   "dblp": "https://dblp.org/rec/conf/colt/MeloR07.html"
+   "pdf": ""
   },
   {
+   "key": "conf/epia/MeloL07",
    "title": "Convergence of Independent Adaptive Learners",
    "authors": [
     {
@@ -4471,9 +4632,10 @@
    "year": "2007",
    "type": "Conference",
    "url": "https://doi.org/10.1007/978-3-540-77002-2_47",
-   "dblp": "https://dblp.org/rec/conf/epia/MeloL07.html"
+   "pdf": ""
   },
   {
+   "key": "conf/iros/LopesMM07",
    "title": "Affordance-based imitation learning in robots",
    "authors": [
     {
@@ -4494,9 +4656,10 @@
    "year": "2007",
    "type": "Conference",
    "url": "https://doi.org/10.1109/IROS.2007.4399517",
-   "dblp": "https://dblp.org/rec/conf/iros/LopesMM07.html"
+   "pdf": "pdfs/conf-iros-LopesMM07.pdf"
   },
   {
+   "key": "conf/ias/MeloR06",
    "title": "Transition Entropy in Partially Observable Markov Decision Processes",
    "authors": [
     {
@@ -4513,7 +4676,7 @@
    "year": "2006",
    "type": "Conference",
    "url": "",
-   "dblp": "https://dblp.org/rec/conf/ias/MeloR06.html"
+   "pdf": "pdfs/conf-ias-MeloR06.pdf"
   }
  ]
 }
