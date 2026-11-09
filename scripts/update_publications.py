@@ -19,6 +19,7 @@ import json
 import re
 import sys
 import time
+import unicodedata
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -78,6 +79,50 @@ def split_bibtex(text):
                           if not re.match(r"\s*(timestamp|biburl|bibsource)\s*=", line))
         entries[m.group(1)] = entry
     return entries
+
+
+# Citation keys follow the style of the old fmelo.bib: first author's surname + 2-digit year + venue code,
+# e.g. melo11ai, baraka17icsr. Keys from the old file are kept as they were (scripts/bibkeys.json), and a
+# key, once assigned, is never changed (it is carried over from the previous publications.json).
+VENUE_CODES = {
+    "conf/atal": "aamas", "conf/ifaamas": "aamas", "conf/nips": "neurips", "conf/aaaifs": "aaai", "conf/aips": "icaps", "conf/digra": "fdg",
+    "conf/eumas": "mas", "conf/icdl-epirob": "icdl", "conf/icgi2": "icgi", "conf/pkdd": "ecml",
+    "conf/ro-man": "roman", "conf/socrob": "icsr", "journals/aamas": "jaamas", "journals/adb": "ab",
+    "journals/arobots": "ar", "journals/artmed": "aiim", "journals/paladyn": "jbr", "journals/corr": "arxiv",
+}
+
+
+def venue_code(dblp_key):
+    prefix = dblp_key.rsplit("/", 1)[0]
+    if prefix in VENUE_CODES:
+        return VENUE_CODES[prefix]
+    if prefix.startswith("series/"):
+        return "chap"
+    return re.sub(r"[^a-z0-9]", "", prefix.split("/")[-1].lower())
+
+
+def surname(name):
+    last = name.split()[-1] if name.split() else "anon"
+    ascii_ = unicodedata.normalize("NFKD", last).encode("ascii", "ignore").decode()
+    return re.sub(r"[^a-z]", "", ascii_.lower()) or "anon"
+
+
+def assign_citekeys(pubs, previous):
+    seed_file = Path(__file__).resolve().parent / "bibkeys.json"
+    known = json.loads(seed_file.read_text(encoding="utf-8")) if seed_file.exists() else {}
+    known.update(previous)
+    taken = set(known.values())
+    for p in pubs:
+        if p["key"] in known:
+            p["cite"] = known[p["key"]]
+            continue
+        first = p["authors"][0]["name"] if p["authors"] else "anon"
+        base = f"{surname(first)}{p['year'][-2:]}{venue_code(p['key'])}"
+        cite = base
+        if base in taken or base + "-a" in taken:
+            cite = next(f"{base}-{c}" for c in "bcdefghijklmnopqrstuvwxyz" if f"{base}-{c}" not in taken)
+        taken.add(cite)
+        p["cite"] = cite
 
 
 def fetch_open_access_pdfs(dois):
@@ -220,12 +265,16 @@ def main():
         sys.exit(f"Only {len(pubs)} publications parsed; refusing to overwrite {OUT.name}.")
 
     # Attach a BibTeX entry to each paper; if DBLP's BibTeX export fails, keep last week's entries.
+    old = json.loads(OUT.read_text(encoding="utf-8")).get("publications", []) if OUT.exists() else []
     bibs = fetch_bibtex()
-    if bibs is None and OUT.exists():
-        old = json.loads(OUT.read_text(encoding="utf-8")).get("publications", [])
+    if bibs is None:
         bibs = {p["key"]: p["bib"] for p in old if p.get("bib")}
+    # Process older papers first, so that when two papers share a key, the older one keeps the plain key.
+    assign_citekeys(sorted(pubs, key=lambda p: (p["year"], p["key"])),
+                    {p["key"]: p["cite"] for p in old if p.get("cite")})
     for p in pubs:
-        p["bib"] = (bibs or {}).get(p["key"], "")
+        bib = bibs.get(p["key"], "")
+        p["bib"] = re.sub(r"^(@\w+\{)[^,\n]+,", lambda m: m.group(1) + p["cite"] + ",", bib, count=1)
     data = {
         "source": f"https://dblp.org/pid/{PID}.html",
         "checked": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
