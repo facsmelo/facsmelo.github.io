@@ -107,45 +107,46 @@ MSc in Computer Science and Engineering (co-advised with Luís Veiga)
 
 * **Guilherme Varela**  
 PhD Program in Computer Science and Engineering, 2026
-(co-advised with Alberto Sardinha)
+(co-advised with Alberto Sardinha, currently at Inception)
 
 * **João Ribeiro**  
 PhD Program in Computer Science and Engineering, 2025 
-(co-advised with Alberto Sardinha)
+(co-advised with Alberto Sardinha, currently at Utrecht University)
 
 * **Carla Guera**  
 PhD Program in Computer Science and Engineering, 2024 
-(co-advised with Manuel Lopes) 
+(co-advised with Manuel Lopes, currently at Instituto Pedro Nunes) 
 
 * **Ali Kordia**  
 PhD Program in Computer Science and Engineering, 2023
+(currently at University of Luxembourg)
 * **Miguel Faria**  
 PhD Program in Computer Science and Engineering, 2023
-(co-advised with Ana Paiva)
+(co-advised with Ana Paiva, currently at INESC-ID)
 * **Miguel Vasco**  
 PhD Program in Computer Science and Engineering, 2023
-(co-advised with Ana Paiva)
+(co-advised with Ana Paiva, currently at Electronic Arts)
 * **Ramona Merhej**  
 PhD Program in Computer Science and Engineering, 2023 
-(co-advised with Francisco C. Santos)
+(co-advised with Francisco C. Santos, currently at DeepMind)
 * **Silvia Tulli**  
 PhD Program in Computer Science and Engineering, 2023 
-(co-advised with Ana Paiva and Mohamed Chetouani)
+(co-advised with Ana Paiva and Mohamed Chetouani, currently at Sorbonne Université)
 
 * **Filipa Correia**  
 PhD Program in Computer Science and Engineering, 2021 
-(co-advised with Ana Paiva)
+(co-advised with Ana Paiva, currently at ITI)
 
 * **Rui Silva**  
 Dual PhD CMU-IST Program in Computer Science and Engineering, 2020
-(co-advised with Manuela Veloso)
+(co-advised with Manuela Veloso, currently Citadel)
 * **Kim Baraka**  
 Dual PhD CMU-IST Program in Electrical Engineering and Robotics, 2020 
-(co-advised with Manuela Veloso)
+(co-advised with Manuela Veloso, Vrije Universiteit Amsterdam)
 
 * **Hang Yin**  
 Dual IST-EPFL PhD Program in Computer Science and Engineering, 2018  
-(co-advised with Ana Paiva and Aude Billard, currently at KTH)
+(co-advised with Ana Paiva and Aude Billard, currently at University of Copenhagen)
 
 * **Pedro Sequeira**
 PhD in Computer Science and Engineering, 2013  
