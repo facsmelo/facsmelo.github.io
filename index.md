@@ -33,6 +33,7 @@ My main research interests are in _machine learning_ and _decision-theoretic pla
 
 ### Current and Past Research Projects
 
+* AI-Packbot FCT Project
 * RELEvaNT FCT Project
 * TAILOR H2020 Project
 * Trustworthy Ad Hoc Teamwork, AFOSR Project
