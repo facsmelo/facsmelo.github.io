@@ -73,8 +73,6 @@ BSc in Information Systems and Computer Engineering
 
 ### Current PhD students:
 
-* **Guilherme Varela**  
-PhD Program in Computer Science and Engineering (co-advised with Alberto Sardinha)
 * **Diogo Carvalho**  
 PhD Program in Computer Science and Engineering (co-advised with Pedro Santos)
 * **Pedro Pinto Santos**  
@@ -92,8 +90,10 @@ PhD Program in Computer Science and Engineering (co-advised with Miguel Vasco)
 
 ### Current MSc students:
 
-* **Bernardo Sousa**
-MSc in Computer Science and Engineering (co-advised with João Caldeira)
+* **Sofia Piteira**
+MSc in Computer Science and Engineering (co-advised with Miguel Pardal)
+* **Tomás Fernandes**
+MSc in Computer Science and Engineering (co-advised with Luís Veiga)
 
 ### Past post-doctoral collaborators:
 
@@ -103,6 +103,10 @@ MSc in Computer Science and Engineering (co-advised with João Caldeira)
 (currently at Nissan Research)
 
 ### Past PhD students:
+
+* **Guilherme Varela**  
+PhD Program in Computer Science and Engineering, 2026
+(co-advised with Alberto Sardinha)
 
 * **João Ribeiro**  
 PhD Program in Computer Science and Engineering, 2025 
@@ -147,6 +151,9 @@ PhD in Computer Science and Engineering, 2013
 (co-advised with Ana Paiva, currently at SRI International)
 
 ### Past MSc students:
+
+* **Bernardo Sousa**
+MSc in Computer Science and Engineering, 2026 (co-advised with João Caldeira)
 
 * **André Matos**
 MSc in Computer Science and Engineering, 2025 (co-advised with Miguel Faria)
